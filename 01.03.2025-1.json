@@ -1,0 +1,25 @@
+{
+    "name": "Keith Robinson",
+    "age": 19,
+    "address": {
+        "street": "Jeffrey Isle",
+        "city": "Boltonfort",
+        "state": "Nevada",
+        "zip": "65607"
+    },
+    "contact": {
+        "phone": "775.986.3584",
+        "servicePhone": "800896328"
+    },
+    "birthday": "2006-19-10",
+    "ip": "3.232.101.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Prove give wish serve. Mission wife break low offer big. Else yourself we their financial wish race ahead.\nEverybody human reduce size site number. Cultural pressure relate drop staff imagine thank.",
+        "bio": "Resource position ten him director about true dog. Partner break allow trial since church say."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
