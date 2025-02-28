@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Schneider",
+    "age": 31,
+    "address": {
+        "street": "Baker Harbors",
+        "city": "Andrewshire",
+        "state": "Oklahoma",
+        "zip": "55129"
+    },
+    "contact": {
+        "phone": "8692783562",
+        "servicePhone": "800424982"
+    },
+    "birthday": "1994-25-01",
+    "ip": "22.59.103.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Again subject least when tough small. Stop above stay dog day.\nStudy be old everyone management child any book. Program clearly mention laugh before.",
+        "bio": "Risk indeed either pull than bill say. Girl himself time play enter. Interesting score baby speak local plan fine day.\nEconomy score sit. Nice produce across interesting."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
