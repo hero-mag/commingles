@@ -1,0 +1,25 @@
+{
+    "name": "Lori Hawkins",
+    "age": 36,
+    "address": {
+        "street": "Eileen Spur",
+        "city": "North Robertport",
+        "state": "Minnesota",
+        "zip": "82785"
+    },
+    "contact": {
+        "phone": "001-447-261-3452x907",
+        "servicePhone": "800598892"
+    },
+    "birthday": "1989-11-11",
+    "ip": "203.52.45.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Charge do lot happy however point indicate. Upon fill dark here follow drive. Role environment reduce game set put peace.",
+        "bio": "Himself term finish movement but face. Wonder traditional move institution above quite contain. Particular record much also bit with positive."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
