@@ -1,0 +1,25 @@
+{
+    "name": "Anne Fuentes",
+    "age": 59,
+    "address": {
+        "street": "Donna Ferry",
+        "city": "Michaelview",
+        "state": "Wyoming",
+        "zip": "73095"
+    },
+    "contact": {
+        "phone": "+1-206-216-3416x6333",
+        "servicePhone": "800793159"
+    },
+    "birthday": "1966-21-02",
+    "ip": "144.245.59.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture responsibility maybe foot oil. Worker hot mother cover late energy.\nSometimes expert decision activity show old course attention. Situation wait involve majority painting laugh.",
+        "bio": "Choose like prove film top among. Election model car success care.\nPaper painting follow full baby. Chance under society daughter recently difficult."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
