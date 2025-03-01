@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Norris",
+    "age": 50,
+    "address": {
+        "street": "Craig Stream",
+        "city": "North Ronaldstad",
+        "state": "Oregon",
+        "zip": "25942"
+    },
+    "contact": {
+        "phone": "753-320-4296x319",
+        "servicePhone": "800256505"
+    },
+    "birthday": "1975-10-05",
+    "ip": "156.125.117.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Forward building read discover. Participant hit evening who woman. Cold change seem site nothing. Want simply drop run have.",
+        "bio": "Already continue three everybody myself. Share main maintain medical. Phone laugh purpose your trade.\nArm single field though. Central game sound question learn entire continue. Really know two."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
