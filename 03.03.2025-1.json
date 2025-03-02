@@ -1,0 +1,25 @@
+{
+    "name": "Todd Fox",
+    "age": 69,
+    "address": {
+        "street": "Davis Viaduct",
+        "city": "West Elizabethborough",
+        "state": "Oklahoma",
+        "zip": "37348"
+    },
+    "contact": {
+        "phone": "824.487.5470",
+        "servicePhone": "800329145"
+    },
+    "birthday": "1956-06-10",
+    "ip": "155.152.93.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Agree carry eat stage somebody value. May soon serious positive tax soon as. Board situation assume second.\nCare true who authority. Start north technology more.",
+        "bio": "Themselves for direction kid until trade. Enough between now worker heavy which.\nSet company great long clearly once. New night among then leg discussion."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
