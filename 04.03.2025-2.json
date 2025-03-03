@@ -1,0 +1,25 @@
+{
+    "name": "Dale Martinez",
+    "age": 38,
+    "address": {
+        "street": "Nicole Valley",
+        "city": "North Stacey",
+        "state": "Kansas",
+        "zip": "40994"
+    },
+    "contact": {
+        "phone": "635.501.5956x374",
+        "servicePhone": "800656346"
+    },
+    "birthday": "1987-12-04",
+    "ip": "214.130.172.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Let that American ahead strategy law. Skill explain recognize build. Experience modern character front Republican Republican scene.",
+        "bio": "Step common mission civil. Item sit whether thing. As attorney year.\nVarious remember system apply both since little. Join long keep person. Attack could role individual accept Mr son."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
