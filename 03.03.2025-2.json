@@ -1,0 +1,25 @@
+{
+    "name": "Mercedes Chen",
+    "age": 31,
+    "address": {
+        "street": "Miller Ports",
+        "city": "North Dale",
+        "state": "Louisiana",
+        "zip": "77291"
+    },
+    "contact": {
+        "phone": "9115710463",
+        "servicePhone": "800631705"
+    },
+    "birthday": "1994-14-11",
+    "ip": "181.115.238.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Necessary pretty machine very most friend choice. Line growth almost risk since. Information majority force lawyer. Recognize size dream themselves ok affect argue.",
+        "bio": "Interesting suddenly firm natural. Security friend they.\nShake this choose sea own nearly. Remember carry smile. Focus me magazine every east."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
