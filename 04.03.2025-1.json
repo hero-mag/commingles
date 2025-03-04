@@ -1,0 +1,25 @@
+{
+    "name": "Alan Mcdonald",
+    "age": 33,
+    "address": {
+        "street": "Melissa Rapids",
+        "city": "South Gary",
+        "state": "Arkansas",
+        "zip": "65649"
+    },
+    "contact": {
+        "phone": "393-769-0590x0959",
+        "servicePhone": "800986507"
+    },
+    "birthday": "1992-22-12",
+    "ip": "193.16.68.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Film class art young. Someone son eight consumer. Message training instead admit machine glass wrong.\nMore meeting above nice respond address. Western ability watch appear skill skin catch.",
+        "bio": "Poor make among yes blue whose. Memory tax event PM reason. Control anything recognize live detail threat blue very."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
