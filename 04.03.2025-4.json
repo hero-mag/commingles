@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Baker",
+    "age": 80,
+    "address": {
+        "street": "Nelson Forge",
+        "city": "Erikafort",
+        "state": "Idaho",
+        "zip": "69532"
+    },
+    "contact": {
+        "phone": "+1-533-637-8667",
+        "servicePhone": "800254360"
+    },
+    "birthday": "1945-08-06",
+    "ip": "47.37.172.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Senior inside section nothing thousand economy. Establish institution despite region environment around carry ability. Simply cost kid.",
+        "bio": "How clear especially. Leg citizen street meet book size.\nEntire life meeting cup. Argue crime learn south customer beautiful. Create song threat."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
