@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Price",
+    "age": 79,
+    "address": {
+        "street": "Wendy Gardens",
+        "city": "Castilloland",
+        "state": "Alabama",
+        "zip": "29026"
+    },
+    "contact": {
+        "phone": "+1-355-614-4315x50989",
+        "servicePhone": "800406969"
+    },
+    "birthday": "1946-14-04",
+    "ip": "93.181.126.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually body weight ten improve difference officer itself. See stuff although do born opportunity month college.\nCare tree staff. Beyond case health arrive keep create. Production show best east.",
+        "bio": "Decision power my above. Allow consider great hope mission.\nSection within create. Factor say draw compare today paper."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
