@@ -1,0 +1,25 @@
+{
+    "name": "David Ortiz",
+    "age": 70,
+    "address": {
+        "street": "Brooks Courts",
+        "city": "Brianmouth",
+        "state": "New Jersey",
+        "zip": "76472"
+    },
+    "contact": {
+        "phone": "407.371.1989",
+        "servicePhone": "800283218"
+    },
+    "birthday": "1955-19-06",
+    "ip": "51.0.165.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Society hit minute too. Race instead under computer. Front there under available sort investment sometimes.",
+        "bio": "Statement region deal article.\nThem realize buy try financial effect.\nAnalysis yet market camera value great. Clearly reflect team history. Although baby challenge military discover."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
