@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Katherine Richardson",
+    "age": 74,
+    "address": {
+        "street": "Robles Square",
+        "city": "Port Deborahport",
+        "state": "Connecticut",
+        "zip": "49813"
+    },
+    "contact": {
+        "phone": "956-702-4458x6493",
+        "servicePhone": "800525414"
+    },
+    "birthday": "1951-16-10",
+    "ip": "215.250.31.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Class nearly today benefit. This present past girl.\nPiece near land green. Product commercial long article leave. Company environmental drug outside look treatment Democrat head.",
+        "bio": "Provide or executive result sure sign. Drug plant young instead story whom focus large. Between both prepare exist."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
