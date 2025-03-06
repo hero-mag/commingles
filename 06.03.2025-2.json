@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hudson",
+    "age": 22,
+    "address": {
+        "street": "Larry Mission",
+        "city": "Robinsonbury",
+        "state": "Virginia",
+        "zip": "76949"
+    },
+    "contact": {
+        "phone": "553-450-5901x148",
+        "servicePhone": "800568611"
+    },
+    "birthday": "2003-15-06",
+    "ip": "45.211.24.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Too almost positive send realize almost. Senior security toward so free fly.\nEntire hotel Democrat mention. Civil movie note law itself agreement course.",
+        "bio": "Suggest she education buy before describe. Picture sometimes television front let.\nPeople American never why. Stop hear new stand term past within."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
