@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Middleton",
+    "age": 94,
+    "address": {
+        "street": "Claudia Mission",
+        "city": "Juliashire",
+        "state": "North Dakota",
+        "zip": "27191"
+    },
+    "contact": {
+        "phone": "001-675-234-9459x8396",
+        "servicePhone": "800096761"
+    },
+    "birthday": "1931-15-07",
+    "ip": "96.122.56.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw like marriage poor trip value employee. Interview bill feel well. Support kitchen chance.\nData foot modern wind only turn trade. Fund final interest.",
+        "bio": "Operation resource including management born back table. Front experience program tree above recognize.\nMeet day though image seek baby. First serve center physical character."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
