@@ -1,0 +1,25 @@
+{
+    "name": "Lori Cordova",
+    "age": 63,
+    "address": {
+        "street": "Shelton Mission",
+        "city": "New Rachelview",
+        "state": "New Mexico",
+        "zip": "79072"
+    },
+    "contact": {
+        "phone": "(672)920-6519",
+        "servicePhone": "800652763"
+    },
+    "birthday": "1962-24-06",
+    "ip": "108.102.163.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether attorney talk section be everybody source inside. Reflect notice middle high. Contain billion window course near serve.\nKid fall culture. Argue now religious choose example.",
+        "bio": "Must enjoy executive team able. Memory continue return game support surface effort. Trouble experience final approach yeah author top article."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
