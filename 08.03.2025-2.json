@@ -1,0 +1,25 @@
+{
+    "name": "Marcia Ellis",
+    "age": 74,
+    "address": {
+        "street": "Jessica Ridge",
+        "city": "New Christopher",
+        "state": "New Mexico",
+        "zip": "26139"
+    },
+    "contact": {
+        "phone": "001-532-448-8284x9316",
+        "servicePhone": "800794042"
+    },
+    "birthday": "1951-28-12",
+    "ip": "194.202.53.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer person enjoy buy want. Song myself study tonight himself. Race I wrong popular adult.",
+        "bio": "Before carry staff water glass decade. Get car world will baby per them. Poor we list cold. Prepare south use expect within."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
