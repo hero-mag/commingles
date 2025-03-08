@@ -1,0 +1,25 @@
+{
+    "name": "Judy Hernandez",
+    "age": 33,
+    "address": {
+        "street": "Kenneth Ferry",
+        "city": "Port Michael",
+        "state": "Connecticut",
+        "zip": "73173"
+    },
+    "contact": {
+        "phone": "001-244-505-8050x97373",
+        "servicePhone": "800134173"
+    },
+    "birthday": "1992-27-06",
+    "ip": "30.106.199.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Education trial create six your learn. Sign fact age speak figure each.\nPull follow only. International increase value house.",
+        "bio": "Decide knowledge grow understand similar rest.\nReady should level. Between never development dream table."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
