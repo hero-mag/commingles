@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Weaver",
+    "age": 53,
+    "address": {
+        "street": "Marshall Key",
+        "city": "South Candice",
+        "state": "New Jersey",
+        "zip": "11073"
+    },
+    "contact": {
+        "phone": "327-296-9171",
+        "servicePhone": "800407669"
+    },
+    "birthday": "1972-13-03",
+    "ip": "50.245.172.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Model wear commercial learn large. Fight crime fear hair present wait something. Shake treat college nor.\nNewspaper turn child cost identify next. Hour city push always option difficult.",
+        "bio": "Certain rest available year week challenge who. Race me only scientist. Feeling why away enjoy. Son history ask."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
