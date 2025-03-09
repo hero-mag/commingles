@@ -1,0 +1,25 @@
+{
+    "name": "Marilyn Hale",
+    "age": 113,
+    "address": {
+        "street": "Michelle View",
+        "city": "West Eugeneberg",
+        "state": "New Jersey",
+        "zip": "81633"
+    },
+    "contact": {
+        "phone": "001-245-461-5312",
+        "servicePhone": "800484043"
+    },
+    "birthday": "1912-29-09",
+    "ip": "203.9.208.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Year impact child computer return. Pretty health investment mean shake. Catch expect a also who commercial daughter.",
+        "bio": "Yet work rock same. Dinner mouth choose who artist raise sell. Five whose whose force question stop who."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
