@@ -1,0 +1,25 @@
+{
+    "name": "Lawrence Silva",
+    "age": 2,
+    "address": {
+        "street": "Roberts Spurs",
+        "city": "Aprilburgh",
+        "state": "Colorado",
+        "zip": "93530"
+    },
+    "contact": {
+        "phone": "(604)579-4918x90940",
+        "servicePhone": "800240320"
+    },
+    "birthday": "2023-18-09",
+    "ip": "213.123.88.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Record Congress remember degree pressure dinner first nothing. Popular these head quite. Senior explain but available answer all sure. Dinner indicate citizen different.",
+        "bio": "Material my environment she space level as. Green human for call every. Account paper team whom.\nTwo modern people remain. Clearly treat learn need party girl involve."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
