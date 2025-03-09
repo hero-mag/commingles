@@ -1,0 +1,25 @@
+{
+    "name": "Susan Lee",
+    "age": 23,
+    "address": {
+        "street": "Timothy Rapids",
+        "city": "South Julie",
+        "state": "Wyoming",
+        "zip": "17870"
+    },
+    "contact": {
+        "phone": "879-360-0609x60488",
+        "servicePhone": "800254679"
+    },
+    "birthday": "2002-20-08",
+    "ip": "181.146.105.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Actually despite people statement season provide series. Break city yard price nice. Finish school population visit actually skill civil keep.",
+        "bio": "Education politics out election business boy. During its matter home price where. Product significant mission season should customer.\nHealth state agree. Line food sister yet water market present."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
