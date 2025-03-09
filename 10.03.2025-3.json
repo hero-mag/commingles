@@ -1,0 +1,25 @@
+{
+    "name": "Brian Bennett",
+    "age": 51,
+    "address": {
+        "street": "Hudson Glen",
+        "city": "New Troy",
+        "state": "Wisconsin",
+        "zip": "07921"
+    },
+    "contact": {
+        "phone": "544-259-7901",
+        "servicePhone": "800059628"
+    },
+    "birthday": "1974-03-09",
+    "ip": "138.95.171.192",
+    "foo": "bar",
+    "profile": {
+        "about": "By deep might city guy drug. Every bag Mrs serve together. Officer writer green speak war almost history. Give color door know across.",
+        "bio": "Including discussion including worry myself rate community. Spend collection interest include.\nLaugh become player team fall in share. Somebody foreign more talk."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
