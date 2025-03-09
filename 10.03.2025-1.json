@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Carpenter",
+    "age": 33,
+    "address": {
+        "street": "Molina Lock",
+        "city": "Robinville",
+        "state": "Oklahoma",
+        "zip": "11534"
+    },
+    "contact": {
+        "phone": "(259)334-1649",
+        "servicePhone": "800427594"
+    },
+    "birthday": "1992-03-06",
+    "ip": "222.95.162.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut enough size go marriage student explain. Under few bed agent. Sort stay suffer that drug base push. Author seat want partner war such.\nSpeak the loss pressure.",
+        "bio": "According discussion not former have administration high modern. Soon soldier suggest owner old particular person. Nearly oil song real sit system suggest."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
