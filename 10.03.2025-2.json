@@ -1,0 +1,25 @@
+{
+    "name": "Megan Woods",
+    "age": 16,
+    "address": {
+        "street": "Wood Crest",
+        "city": "Port Marisaport",
+        "state": "Illinois",
+        "zip": "87787"
+    },
+    "contact": {
+        "phone": "+1-272-804-8564x450",
+        "servicePhone": "800360475"
+    },
+    "birthday": "2009-06-04",
+    "ip": "55.27.110.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Right be different role.\nCourse fly carry box almost article life. Raise environmental door. Management trade speak final policy.\nPrepare write produce. Staff decision talk participant.",
+        "bio": "Child life else billion girl environment. Land hold wide. Service above possible station pattern effort executive simply."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
