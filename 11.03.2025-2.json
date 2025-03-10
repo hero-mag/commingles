@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Barrett",
+    "age": 84,
+    "address": {
+        "street": "Sexton Forges",
+        "city": "Yubury",
+        "state": "Montana",
+        "zip": "98523"
+    },
+    "contact": {
+        "phone": "995-267-8211",
+        "servicePhone": "800673607"
+    },
+    "birthday": "1941-25-06",
+    "ip": "208.89.134.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Occur some change course perform. Will score positive shake. Former similar drive now have. Able investment green different.",
+        "bio": "Mr big animal human they perhaps hour buy. Agency find between current tell bring wear."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
