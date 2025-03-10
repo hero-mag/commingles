@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Howell",
+    "age": 38,
+    "address": {
+        "street": "Lopez Trace",
+        "city": "West Amber",
+        "state": "Utah",
+        "zip": "98717"
+    },
+    "contact": {
+        "phone": "001-904-779-3817x56770",
+        "servicePhone": "800347700"
+    },
+    "birthday": "1987-09-09",
+    "ip": "110.94.156.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Within modern finish next television use. Rather nice strategy improve wall. College impact happy if.\nRed south to. Suffer pull one audience concern everybody herself. Able physical here mind.",
+        "bio": "Political military best imagine enough note. Consider approach study.\nShort town win our. Market music indicate expert visit. Miss determine relate from."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
