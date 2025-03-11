@@ -1,0 +1,25 @@
+{
+    "name": "Amber Skinner",
+    "age": 34,
+    "address": {
+        "street": "Adam Rue",
+        "city": "East Lindsey",
+        "state": "Illinois",
+        "zip": "10468"
+    },
+    "contact": {
+        "phone": "580-763-0682",
+        "servicePhone": "800514701"
+    },
+    "birthday": "1991-09-05",
+    "ip": "170.165.20.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Practice building dog gun nor home start else. Including product think author gas night expect. Herself citizen idea wonder peace listen. Nearly face skill series.",
+        "bio": "Glass small open structure federal herself cause. Per media take reach continue apply. Rate skill evening. Into like different board easy center property drop."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
