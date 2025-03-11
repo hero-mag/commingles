@@ -1,0 +1,25 @@
+{
+    "name": "Donna Wilson",
+    "age": 97,
+    "address": {
+        "street": "Malone Crossing",
+        "city": "Jamesburgh",
+        "state": "Alabama",
+        "zip": "85731"
+    },
+    "contact": {
+        "phone": "7155594167",
+        "servicePhone": "800464522"
+    },
+    "birthday": "1928-11-03",
+    "ip": "68.217.177.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Hair ball possible. Nearly local within glass. Instead easy fear future government our pull.\nLarge recent education. Medical cultural want manager woman industry. None reduce listen.",
+        "bio": "Culture every girl of feel. On clear throw once. Finally through huge a technology affect catch.\nLine opportunity mother difference. Director generation over view."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
