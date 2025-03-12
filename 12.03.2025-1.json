@@ -1,0 +1,25 @@
+{
+    "name": "Mike Smith",
+    "age": 86,
+    "address": {
+        "street": "Wagner Crest",
+        "city": "New Ericland",
+        "state": "Kansas",
+        "zip": "87546"
+    },
+    "contact": {
+        "phone": "(311)709-4140",
+        "servicePhone": "800898974"
+    },
+    "birthday": "1939-25-04",
+    "ip": "105.34.62.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Will available quite fact. Could commercial Mrs Mrs anything.\nTest today rather rock general. Hit tonight name. Remain bill those set occur story hospital.",
+        "bio": "Sea program much. Work meet property foreign throw down song.\nFall than where hair color. Exactly send option parent.\nWhether administration military since return."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
