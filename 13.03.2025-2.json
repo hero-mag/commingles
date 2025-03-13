@@ -1,0 +1,25 @@
+{
+    "name": "Preston Mckinney",
+    "age": 45,
+    "address": {
+        "street": "Larry Mountain",
+        "city": "Lake Lisa",
+        "state": "Kansas",
+        "zip": "49378"
+    },
+    "contact": {
+        "phone": "001-691-211-0213x827",
+        "servicePhone": "800544556"
+    },
+    "birthday": "1980-16-01",
+    "ip": "65.193.51.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult treat impact student.\nPartner reveal plant election. Seek one watch reality yard the time. Receive computer anyone key.\nThough actually very marriage concern professor join.",
+        "bio": "Significant reason town agent. So kid effect our drive environment toward.\nBeat field up of. Happen experience movie manager media front. Product notice benefit local character power draw."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
