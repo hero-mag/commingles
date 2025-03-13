@@ -1,0 +1,25 @@
+{
+    "name": "Erik Atkins",
+    "age": 34,
+    "address": {
+        "street": "Williams Stream",
+        "city": "Mooreton",
+        "state": "Oklahoma",
+        "zip": "03657"
+    },
+    "contact": {
+        "phone": "234.975.5427",
+        "servicePhone": "800911557"
+    },
+    "birthday": "1991-05-09",
+    "ip": "107.103.186.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Off edge animal star central. Court game others not that rather.\nSuggest arm against professional walk. Staff spend understand hold arrive. Southern cost budget kid.",
+        "bio": "White represent true well fast church could. Accept happen leave customer cold. Leader however spend place simple.\nBecome practice painting reduce wonder lose natural. Artist trip manage perhaps."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
