@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Sanchez",
+    "age": 21,
+    "address": {
+        "street": "Andrews Loaf",
+        "city": "Kylefurt",
+        "state": "Louisiana",
+        "zip": "71433"
+    },
+    "contact": {
+        "phone": "574-914-4045x453",
+        "servicePhone": "800389305"
+    },
+    "birthday": "2004-13-02",
+    "ip": "34.87.183.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole able key morning available read. Six teacher among affect culture fast. Professional perhaps sport.\nChurch model each only serve sing. Stock deal spring generation head event join.",
+        "bio": "Share story night raise space coach theory chance.\nMarket find although weight common soldier free. See option baby apply. More imagine last goal.\nSmile my draw."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
