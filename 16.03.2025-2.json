@@ -1,0 +1,25 @@
+{
+    "name": "Mary Lowe",
+    "age": 78,
+    "address": {
+        "street": "Oneill Stravenue",
+        "city": "West Thomas",
+        "state": "Montana",
+        "zip": "89479"
+    },
+    "contact": {
+        "phone": "001-691-600-7038x71074",
+        "servicePhone": "800388679"
+    },
+    "birthday": "1947-04-04",
+    "ip": "162.87.228.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Future decision manager south. Account entire wife respond outside deep line.\nCustomer young according gun avoid. While cultural who control significant. Until particular of practice for.",
+        "bio": "Day base away professor radio. Last he room recently.\nPm teacher size thank Mrs. Turn center age respond arm area compare."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
