@@ -1,0 +1,25 @@
+{
+    "name": "Michael Simpson",
+    "age": 114,
+    "address": {
+        "street": "Golden Ramp",
+        "city": "Stephensstad",
+        "state": "West Virginia",
+        "zip": "88542"
+    },
+    "contact": {
+        "phone": "696.842.1975x76719",
+        "servicePhone": "800244063"
+    },
+    "birthday": "1911-05-08",
+    "ip": "98.221.184.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Class thousand different population night model land. Subject few hour growth ready capital.\nEver affect enter lawyer. Go door party if day study.",
+        "bio": "Close enough hair knowledge their attack candidate. Kid response themselves look why enjoy. Every establish throughout until and sometimes last."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
