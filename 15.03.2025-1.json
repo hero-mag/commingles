@@ -1,0 +1,25 @@
+{
+    "name": "Austin Williams",
+    "age": 83,
+    "address": {
+        "street": "Jones Circles",
+        "city": "Port Susan",
+        "state": "Oklahoma",
+        "zip": "00528"
+    },
+    "contact": {
+        "phone": "(562)925-2420",
+        "servicePhone": "800242514"
+    },
+    "birthday": "1942-07-01",
+    "ip": "108.18.199.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Drug somebody number answer letter either house. Pretty bed prevent room. West time summer need them.",
+        "bio": "Decide how war media candidate tend. Boy south authority camera business whatever girl. Well tough must office ground professional. Join economic challenge half firm."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
