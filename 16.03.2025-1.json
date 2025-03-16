@@ -1,0 +1,25 @@
+{
+    "name": "Chelsea Zimmerman",
+    "age": 51,
+    "address": {
+        "street": "Andrea Mission",
+        "city": "East Danielborough",
+        "state": "New York",
+        "zip": "27355"
+    },
+    "contact": {
+        "phone": "+1-952-373-9394x57612",
+        "servicePhone": "800730222"
+    },
+    "birthday": "1974-23-12",
+    "ip": "54.195.182.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Allow hundred smile news five child conference. Black budget carry church economy. Many research day city just executive.",
+        "bio": "Watch yard study appear. Whom admit serious growth city rise doctor. Hope conference tax."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
