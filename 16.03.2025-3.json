@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Greene",
+    "age": 108,
+    "address": {
+        "street": "Diane Trail",
+        "city": "Paulstad",
+        "state": "Arizona",
+        "zip": "45667"
+    },
+    "contact": {
+        "phone": "(436)501-6435",
+        "servicePhone": "800877341"
+    },
+    "birthday": "1917-26-11",
+    "ip": "149.44.186.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly boy military indicate simple. Board break yard reason. Hundred anything class great. Live high east.",
+        "bio": "Western ago table get add improve. Near significant their have. Compare food dark this.\nAs true mention than. Help fact class term democratic decade."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
