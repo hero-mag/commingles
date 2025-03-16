@@ -1,0 +1,25 @@
+{
+    "name": "Devon Obrien",
+    "age": 3,
+    "address": {
+        "street": "Perry Stravenue",
+        "city": "Cynthiamouth",
+        "state": "South Carolina",
+        "zip": "96076"
+    },
+    "contact": {
+        "phone": "344.930.6575x47006",
+        "servicePhone": "800663486"
+    },
+    "birthday": "2022-25-08",
+    "ip": "216.251.20.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure local world. Evening west relationship truth example cause shake.\nPolitical benefit seat well. Real leader thank professor.",
+        "bio": "Likely customer standard minute treatment white our. Successful popular again perhaps wear could around head.\nTreat dark form check man. Choose natural box environment hold dream wall."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
