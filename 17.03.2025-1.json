@@ -1,0 +1,25 @@
+{
+    "name": "Alan Curry",
+    "age": 80,
+    "address": {
+        "street": "Salinas Isle",
+        "city": "Sanchezland",
+        "state": "Montana",
+        "zip": "95880"
+    },
+    "contact": {
+        "phone": "698.837.0381x29481",
+        "servicePhone": "800746648"
+    },
+    "birthday": "1945-24-10",
+    "ip": "33.112.35.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Article eight Republican yes organization sure. Marriage consumer pick question. Painting relationship go area.",
+        "bio": "Side must remain contain. Road article act.\nGive free those thousand floor. Figure recognize down many upon."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
