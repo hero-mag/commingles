@@ -1,0 +1,25 @@
+{
+    "name": "Christina Chapman",
+    "age": 75,
+    "address": {
+        "street": "Ellison Flats",
+        "city": "South Nicolefort",
+        "state": "Delaware",
+        "zip": "41588"
+    },
+    "contact": {
+        "phone": "5385945439",
+        "servicePhone": "800850327"
+    },
+    "birthday": "1950-04-04",
+    "ip": "157.195.141.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider computer purpose nation pretty.\nRequire religious themselves skin at couple. Usually man cut another. So century plan create assume high.",
+        "bio": "Organization learn result. Eat physical Republican skin data sure.\nScience within ball woman character. Many risk choice or."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
