@@ -1,0 +1,25 @@
+{
+    "name": "Michael Lane",
+    "age": 112,
+    "address": {
+        "street": "Crawford Hollow",
+        "city": "South Jacobside",
+        "state": "Alabama",
+        "zip": "40765"
+    },
+    "contact": {
+        "phone": "242.942.7662",
+        "servicePhone": "800846012"
+    },
+    "birthday": "1913-24-06",
+    "ip": "41.167.14.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal account attorney then remain structure production. Crime professor sing send maintain.\nOwner see teacher go. Perform whole best follow health society end.",
+        "bio": "Traditional turn build third people. Position must inside.\nMost seek ahead once. Determine their scene turn eight."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
