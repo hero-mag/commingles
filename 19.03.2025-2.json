@@ -1,0 +1,25 @@
+{
+    "name": "Carlos Myers",
+    "age": 13,
+    "address": {
+        "street": "Dennis Motorway",
+        "city": "Clarkhaven",
+        "state": "Montana",
+        "zip": "02345"
+    },
+    "contact": {
+        "phone": "894.305.9183",
+        "servicePhone": "800160432"
+    },
+    "birthday": "2012-17-09",
+    "ip": "157.144.188.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager support other list officer eight sea. Opportunity stuff notice fight. Star bit use card.",
+        "bio": "Worker product along work someone feel take after. Include mouth discuss throughout. Skill kitchen likely much."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
