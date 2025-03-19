@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Kennedy PhD",
+    "age": 106,
+    "address": {
+        "street": "Lucas Port",
+        "city": "Garciatown",
+        "state": "Tennessee",
+        "zip": "63371"
+    },
+    "contact": {
+        "phone": "(284)334-8936x01032",
+        "servicePhone": "800237487"
+    },
+    "birthday": "1919-09-09",
+    "ip": "64.219.232.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Build family relationship.\nStatement interest forward or. Yet white think action sit true school simply. Lead peace analysis law relate lose.",
+        "bio": "Value young two try product score. News bed system represent piece heart house. Administration economy pressure early.\nTo day until star amount call. Hotel join citizen section effort detail impact."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
