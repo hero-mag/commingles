@@ -1,0 +1,25 @@
+{
+    "name": "Samantha James",
+    "age": 78,
+    "address": {
+        "street": "Joshua Freeway",
+        "city": "Riggston",
+        "state": "Georgia",
+        "zip": "37760"
+    },
+    "contact": {
+        "phone": "(631)292-7298x972",
+        "servicePhone": "800834230"
+    },
+    "birthday": "1947-07-03",
+    "ip": "58.139.21.227",
+    "foo": "bar",
+    "profile": {
+        "about": "So control many action full seem. Candidate different seek allow such result.\nWhole rock meet unit ever writer. Whom but middle quite. Condition contain nearly.",
+        "bio": "Choice color early entire night upon. Name but film. Less everyone arrive product source.\nTv would current child this part."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
