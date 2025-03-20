@@ -1,0 +1,25 @@
+{
+    "name": "Doris Fox",
+    "age": 57,
+    "address": {
+        "street": "Tamara Lock",
+        "city": "Johnstonville",
+        "state": "Vermont",
+        "zip": "42304"
+    },
+    "contact": {
+        "phone": "(658)635-7015",
+        "servicePhone": "800041008"
+    },
+    "birthday": "1968-20-08",
+    "ip": "95.190.143.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Research attention possible when sit physical. Opportunity film lay store seven explain. Democrat without yeah contain identify.",
+        "bio": "Travel responsibility bed at research necessary. Not race have present ever."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
