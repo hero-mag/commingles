@@ -1,0 +1,25 @@
+{
+    "name": "Sara Garza",
+    "age": 61,
+    "address": {
+        "street": "Alisha Walks",
+        "city": "New Erinland",
+        "state": "Washington",
+        "zip": "84194"
+    },
+    "contact": {
+        "phone": "(891)394-4973x62871",
+        "servicePhone": "800082605"
+    },
+    "birthday": "1964-16-06",
+    "ip": "59.128.194.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Election leave simply speak check impact. Year film training of side when I we. Past upon probably sort director yet.",
+        "bio": "Positive management instead Mr. Fear amount write when partner turn.\nCamera public possible drug work mission also tax. Cost letter catch never direction common."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
