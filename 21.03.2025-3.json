@@ -1,0 +1,25 @@
+{
+    "name": "Johnny Green",
+    "age": 88,
+    "address": {
+        "street": "Leah Neck",
+        "city": "Jodiberg",
+        "state": "Iowa",
+        "zip": "02074"
+    },
+    "contact": {
+        "phone": "001-308-412-4508x3319",
+        "servicePhone": "800835123"
+    },
+    "birthday": "1937-13-12",
+    "ip": "9.27.201.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Public modern really wait. Full nation opportunity score choose.\nShow resource instead more maintain budget protect. Particularly fear concern administration especially. Pm class daughter difference.",
+        "bio": "State owner space yet. Society back like president give leader.\nOver fast father like financial trouble history modern. Nearly little tend gun pay."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
