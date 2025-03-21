@@ -1,0 +1,25 @@
+{
+    "name": "Michael Byrd",
+    "age": 15,
+    "address": {
+        "street": "Meyer Brooks",
+        "city": "North Danielside",
+        "state": "New York",
+        "zip": "94215"
+    },
+    "contact": {
+        "phone": "(695)711-0559",
+        "servicePhone": "800450635"
+    },
+    "birthday": "2010-11-11",
+    "ip": "177.177.244.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed including traditional several collection. Cover feeling up along edge and.",
+        "bio": "Common them stay involve at. Audience to war represent feeling. Sense person activity themselves action tend show."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
