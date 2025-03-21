@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Fitzpatrick",
+    "age": 15,
+    "address": {
+        "street": "Spencer Extension",
+        "city": "Annafort",
+        "state": "Hawaii",
+        "zip": "91307"
+    },
+    "contact": {
+        "phone": "(627)614-3472",
+        "servicePhone": "800093889"
+    },
+    "birthday": "2010-02-06",
+    "ip": "221.231.217.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Peace wall trouble. Month look big language choose. Technology white become must wind market make buy.\nTeach around popular feel. Low interest off high.",
+        "bio": "Score common beyond sometimes matter.\nRemain total certain. Wind beautiful authority purpose new sport. Become offer air north analysis."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
