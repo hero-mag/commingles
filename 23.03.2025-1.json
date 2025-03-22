@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Zhang",
+    "age": 8,
+    "address": {
+        "street": "Dean Manor",
+        "city": "Lake Jessica",
+        "state": "Maryland",
+        "zip": "80572"
+    },
+    "contact": {
+        "phone": "(922)724-9002x784",
+        "servicePhone": "800310677"
+    },
+    "birthday": "2017-20-10",
+    "ip": "147.123.153.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern smile simply suffer wish argue. Smile argue nature might education draw democratic.\nEspecially cost television clear want once fight arrive. Republican perhaps drive during senior.",
+        "bio": "Wind understand actually social each.\nFace building stop happy various fill agree team. Rich interview measure role another nation unit member. Product player order color newspaper break present."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
