@@ -1,0 +1,25 @@
+{
+    "name": "Heather Cohen",
+    "age": 97,
+    "address": {
+        "street": "Jennifer Prairie",
+        "city": "East Robert",
+        "state": "North Carolina",
+        "zip": "11806"
+    },
+    "contact": {
+        "phone": "001-968-311-9071",
+        "servicePhone": "800350513"
+    },
+    "birthday": "1928-13-03",
+    "ip": "94.250.210.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Tax tree likely attack. Second service about.\nAgency resource give tax. Because report must industry almost. Spring event bed long tend perhaps.",
+        "bio": "Half how level analysis management conference oil. Institution subject moment life. Provide use reach around number thing much."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
