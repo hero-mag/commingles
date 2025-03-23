@@ -1,0 +1,25 @@
+{
+    "name": "Jason Neal",
+    "age": 29,
+    "address": {
+        "street": "Watson Roads",
+        "city": "Hannahberg",
+        "state": "Hawaii",
+        "zip": "94970"
+    },
+    "contact": {
+        "phone": "846-575-4331x88538",
+        "servicePhone": "800028896"
+    },
+    "birthday": "1996-17-10",
+    "ip": "161.255.89.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Nearly home once. West big simply forward often bring. Say modern reflect lawyer base rock.\nCivil whose debate and. Order opportunity human class bank until ability. Hot various matter trade night.",
+        "bio": "Really project near if animal light career. Throughout piece doctor course despite. Middle while hand such house cover. Century letter worry word.\nReceive dog charge cost family before sort air."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
