@@ -1,0 +1,25 @@
+{
+    "name": "Susan Williams",
+    "age": 29,
+    "address": {
+        "street": "Kelly Course",
+        "city": "South Brendaside",
+        "state": "Louisiana",
+        "zip": "55437"
+    },
+    "contact": {
+        "phone": "(753)410-7201x1435",
+        "servicePhone": "800703905"
+    },
+    "birthday": "1996-26-11",
+    "ip": "60.205.182.87",
+    "foo": "bar",
+    "profile": {
+        "about": "International maybe you rather room whom husband represent. Story large though there bit class put.\nShake street role toward itself amount. Person meeting only coach environment thing.",
+        "bio": "Administration present issue window interview must protect magazine. Watch play yes everybody theory some region. Suggest pay gun big hair physical."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
