@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Caldwell",
+    "age": 5,
+    "address": {
+        "street": "Carol Fords",
+        "city": "North Nicole",
+        "state": "South Dakota",
+        "zip": "38800"
+    },
+    "contact": {
+        "phone": "(875)727-3842x018",
+        "servicePhone": "800055184"
+    },
+    "birthday": "2020-16-08",
+    "ip": "125.175.125.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Recognize whole vote little design. Easy network even she back point require follow. Theory important activity all conference military increase.",
+        "bio": "Move behavior glass. Office worker interesting poor determine tell. Throw draw simple knowledge stand."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
