@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Soto",
+    "age": 15,
+    "address": {
+        "street": "Nathan Stream",
+        "city": "Wilsonton",
+        "state": "Tennessee",
+        "zip": "69833"
+    },
+    "contact": {
+        "phone": "001-973-513-1098x748",
+        "servicePhone": "800600915"
+    },
+    "birthday": "2010-02-08",
+    "ip": "77.234.240.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave government material executive hope office. Back but card behavior simple when choice. Air prevent cup benefit nice.\nForeign coach concern many. Produce smile mind skin most visit red tree.",
+        "bio": "Age doctor leave old. Interview democratic article rate arm. Tough agree moment us top risk.\nStrong seat weight provide less.\nTruth last standard."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
