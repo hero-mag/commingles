@@ -1,0 +1,25 @@
+{
+    "name": "John Torres",
+    "age": 99,
+    "address": {
+        "street": "Ramirez Field",
+        "city": "East Annmouth",
+        "state": "New York",
+        "zip": "86610"
+    },
+    "contact": {
+        "phone": "794.682.1638x022",
+        "servicePhone": "800407084"
+    },
+    "birthday": "1926-22-07",
+    "ip": "188.178.76.53",
+    "foo": "bar",
+    "profile": {
+        "about": "President ask pattern common get. Play news trial.\nOnto my approach imagine herself in. Investment interesting him want out candidate lawyer without.",
+        "bio": "Reason buy less past same. Like cold whose back same. Article above toward avoid."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
