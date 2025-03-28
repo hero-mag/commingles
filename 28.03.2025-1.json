@@ -1,0 +1,25 @@
+{
+    "name": "Breanna Grimes",
+    "age": 50,
+    "address": {
+        "street": "Mike Plain",
+        "city": "Dorseystad",
+        "state": "West Virginia",
+        "zip": "79470"
+    },
+    "contact": {
+        "phone": "993-873-5848x052",
+        "servicePhone": "800222138"
+    },
+    "birthday": "1975-29-07",
+    "ip": "188.39.104.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Most quite what now join yet. Hot heart figure off reduce find. Knowledge economy mission require agency sing.\nDeep pick point early through.",
+        "bio": "Seem soldier president specific seem another. Force part learn.\nCharge real talk deep garden. Take determine western concern hospital nature raise."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
