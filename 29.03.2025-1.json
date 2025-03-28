@@ -1,0 +1,25 @@
+{
+    "name": "Robert Hernandez",
+    "age": 55,
+    "address": {
+        "street": "Dana Estate",
+        "city": "Sarahside",
+        "state": "New Mexico",
+        "zip": "40294"
+    },
+    "contact": {
+        "phone": "+1-771-766-4452x045",
+        "servicePhone": "800832885"
+    },
+    "birthday": "1970-03-01",
+    "ip": "51.93.58.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Include these national stock nor control. Imagine yeah section together teach also. He international any local not red paper.",
+        "bio": "Better employee in daughter economy appear identify. Theory eat culture. Weight mission remember not same grow environmental.\nNext population do sense me age. Senior foreign thing both."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
