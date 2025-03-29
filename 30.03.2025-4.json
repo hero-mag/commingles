@@ -1,0 +1,25 @@
+{
+    "name": "Robert Norton",
+    "age": 77,
+    "address": {
+        "street": "Holly Walks",
+        "city": "Port Benjamin",
+        "state": "Arkansas",
+        "zip": "17845"
+    },
+    "contact": {
+        "phone": "6066154385",
+        "servicePhone": "800568120"
+    },
+    "birthday": "1948-01-07",
+    "ip": "140.31.181.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair attorney receive people share reveal chair. And yes drive none close table. Issue short catch computer event foreign close.",
+        "bio": "Game relate include piece the real. Unit mention bank southern government available.\nLeast poor writer evidence chance crime. Time fear lot become."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
