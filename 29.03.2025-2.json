@@ -1,0 +1,25 @@
+{
+    "name": "Russell Johnson",
+    "age": 26,
+    "address": {
+        "street": "Bailey Ridge",
+        "city": "Williamschester",
+        "state": "Michigan",
+        "zip": "19617"
+    },
+    "contact": {
+        "phone": "593.930.2834",
+        "servicePhone": "800817303"
+    },
+    "birthday": "1999-05-04",
+    "ip": "61.178.26.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Loss hope wish. Believe information fall method nor however while.\nFigure low development raise rise. Probably six than will player develop.\nWorry maybe later deep. Card father candidate affect.",
+        "bio": "Wide charge available reveal. Brother like together quality realize risk standard.\nSecond take career away partner herself. Particular surface civil set decision alone building."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
