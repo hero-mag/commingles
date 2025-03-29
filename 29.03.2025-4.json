@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Ryan",
+    "age": 67,
+    "address": {
+        "street": "Andrade Corners",
+        "city": "New Catherine",
+        "state": "California",
+        "zip": "17079"
+    },
+    "contact": {
+        "phone": "+1-382-410-6435x424",
+        "servicePhone": "800999634"
+    },
+    "birthday": "1958-01-12",
+    "ip": "136.119.91.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Several difficult event participant base on agent. Alone quality when capital sometimes sit. Movie go major explain single other.\nReduce yeah pay or. Expert even page including act no.",
+        "bio": "Hope look more view someone skill control.\nFirst far both feeling unit campaign avoid.\nCamera perhaps mouth against. Action fire require force. Build security often dinner side treat table."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
