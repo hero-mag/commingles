@@ -1,0 +1,25 @@
+{
+    "name": "Susan Simpson",
+    "age": 24,
+    "address": {
+        "street": "Marsh Turnpike",
+        "city": "Danielleburgh",
+        "state": "West Virginia",
+        "zip": "27219"
+    },
+    "contact": {
+        "phone": "939-532-3270x28253",
+        "servicePhone": "800125311"
+    },
+    "birthday": "2001-01-10",
+    "ip": "117.66.96.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Bit join president both air media matter. Cold picture own set card. The quality hour really.\nFear receive couple table. Loss whom difficult strong to question from.",
+        "bio": "Security must produce difficult appear ready suggest hour. Audience budget single hard safe. Resource probably simply start several size similar wrong."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
