@@ -1,0 +1,25 @@
+{
+    "name": "Ricky Lopez",
+    "age": 25,
+    "address": {
+        "street": "Riggs Stream",
+        "city": "West Alexiston",
+        "state": "Alaska",
+        "zip": "22330"
+    },
+    "contact": {
+        "phone": "001-434-446-5237x0723",
+        "servicePhone": "800248166"
+    },
+    "birthday": "2000-18-09",
+    "ip": "37.161.33.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss population nature perhaps create evening value. Meet audience hour stop outside where impact senior. City trial consumer will mean wait full.",
+        "bio": "Bill parent dog argue hot. Board return perform hand. Interest tonight ever phone course."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
