@@ -1,0 +1,25 @@
+{
+    "name": "Joel Flowers",
+    "age": 106,
+    "address": {
+        "street": "Rodney Rapid",
+        "city": "West Moniquetown",
+        "state": "Nevada",
+        "zip": "08548"
+    },
+    "contact": {
+        "phone": "215-817-6255x79761",
+        "servicePhone": "800474553"
+    },
+    "birthday": "1919-29-07",
+    "ip": "4.202.200.213",
+    "foo": "bar",
+    "profile": {
+        "about": "System western believe. Ball society thought actually school. Never professor large art film.\nAble left continue cultural require need. Type conference material purpose whose.",
+        "bio": "Suggest measure system nice state man under. Current religious recently time different. There drug force five parent more. Himself and then above."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
