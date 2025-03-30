@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Jackson",
+    "age": 9,
+    "address": {
+        "street": "Shawn Loop",
+        "city": "Paulland",
+        "state": "Ohio",
+        "zip": "50802"
+    },
+    "contact": {
+        "phone": "322.715.9060x68993",
+        "servicePhone": "800762892"
+    },
+    "birthday": "2016-04-07",
+    "ip": "38.189.168.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Imagine low amount sister debate occur region series. Half themselves production road television. Bring early job list detail manager identify. Five contain training answer important.",
+        "bio": "Information yard cut especially industry.\nScore section challenge start effect. By cause art begin. Each amount measure born I decade."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
