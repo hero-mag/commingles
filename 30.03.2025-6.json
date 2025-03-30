@@ -1,0 +1,25 @@
+{
+    "name": "Jonathon Turner",
+    "age": 42,
+    "address": {
+        "street": "Zachary Cliff",
+        "city": "Olsenhaven",
+        "state": "Massachusetts",
+        "zip": "57606"
+    },
+    "contact": {
+        "phone": "001-231-942-2744",
+        "servicePhone": "800676328"
+    },
+    "birthday": "1983-02-02",
+    "ip": "30.162.129.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager this lose PM. Success my parent might during too those.\nEither feeling image in along along. Relate indicate use truth possible. Term leader happy reach approach thus.",
+        "bio": "Billion few teacher father.\nAny system main trial remain develop. Public rest black recently result."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
