@@ -1,0 +1,25 @@
+{
+    "name": "Dean Reeves",
+    "age": 84,
+    "address": {
+        "street": "Amanda Glens",
+        "city": "South Jeffreymouth",
+        "state": "Maine",
+        "zip": "06203"
+    },
+    "contact": {
+        "phone": "(540)376-4874",
+        "servicePhone": "800500290"
+    },
+    "birthday": "1941-06-09",
+    "ip": "173.73.234.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Morning book evidence sometimes summer particular. Half tend to stop event. Allow maybe one.",
+        "bio": "Less live explain all hard. Experience carry painting drive huge ago start. Positive other option same reality. Stay social camera."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
