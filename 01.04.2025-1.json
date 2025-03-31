@@ -1,0 +1,25 @@
+{
+    "name": "Carol Black",
+    "age": 37,
+    "address": {
+        "street": "Haynes Overpass",
+        "city": "Lake Rebeccaside",
+        "state": "West Virginia",
+        "zip": "48136"
+    },
+    "contact": {
+        "phone": "317-550-4747x6652",
+        "servicePhone": "800094161"
+    },
+    "birthday": "1988-05-11",
+    "ip": "85.149.47.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Help police material call physical first choose. Similar provide paper contain page may.\nHe order great into way town. West group green everything fall form exist.",
+        "bio": "Animal age source feel thousand meet sell.\nSide book like author. None occur property health argue expect color."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
