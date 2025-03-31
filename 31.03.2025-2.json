@@ -1,0 +1,25 @@
+{
+    "name": "Michele Hernandez",
+    "age": 2,
+    "address": {
+        "street": "Davis Hill",
+        "city": "Amymouth",
+        "state": "Washington",
+        "zip": "72610"
+    },
+    "contact": {
+        "phone": "785-486-0118",
+        "servicePhone": "800096469"
+    },
+    "birthday": "2023-06-07",
+    "ip": "140.128.58.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Real artist cause. Work remember serious space nothing second go.\nPrepare oil deal against here ball. Summer computer assume. Raise too southern staff box you defense.",
+        "bio": "Political south large anything industry write upon."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
