@@ -1,0 +1,25 @@
+{
+    "name": "Sonia Rangel",
+    "age": 52,
+    "address": {
+        "street": "Mary Mews",
+        "city": "Sanchezton",
+        "state": "New York",
+        "zip": "96173"
+    },
+    "contact": {
+        "phone": "+1-436-448-1594x5945",
+        "servicePhone": "800649820"
+    },
+    "birthday": "1973-19-04",
+    "ip": "60.22.100.26",
+    "foo": "bar",
+    "profile": {
+        "about": "The scientist yeah official. Bill end follow finish nature.\nLearn our according mouth grow two. Else me skill view. Very floor heart group.\nExample who partner simple. Candidate start son situation.",
+        "bio": "How develop rule scientist without find set control. Return today what student civil organization remain.\nCare fast thank they join. Reach focus final practice star. Throughout report entire."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
