@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Martinez",
+    "age": 28,
+    "address": {
+        "street": "Michelle Spring",
+        "city": "Michelechester",
+        "state": "Virginia",
+        "zip": "63129"
+    },
+    "contact": {
+        "phone": "(242)387-6907",
+        "servicePhone": "800549108"
+    },
+    "birthday": "1997-05-04",
+    "ip": "220.145.213.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Industry everybody son claim. Discuss ready wear situation case play American.\nMedia join north practice able. Who author require. Seem should front address enter.",
+        "bio": "Onto case edge.\nWhole policy main at ago alone past child. Medical from campaign international baby morning."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
