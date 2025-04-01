@@ -1,0 +1,25 @@
+{
+    "name": "Trevor Green",
+    "age": 86,
+    "address": {
+        "street": "Eric Course",
+        "city": "South Erin",
+        "state": "Massachusetts",
+        "zip": "10580"
+    },
+    "contact": {
+        "phone": "001-237-551-4457x08686",
+        "servicePhone": "800249644"
+    },
+    "birthday": "1939-07-06",
+    "ip": "29.80.223.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Sort from home teacher reality. Soldier protect certainly letter environment go. Know cut east.\nNearly culture building admit voice under often. Dark have south above other buy such write.",
+        "bio": "Approach human manage another. Land realize pull customer. Include law build discover."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
