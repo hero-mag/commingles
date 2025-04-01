@@ -1,0 +1,25 @@
+{
+    "name": "Justin Fleming",
+    "age": 29,
+    "address": {
+        "street": "Lisa Walk",
+        "city": "Lake Jacquelineville",
+        "state": "Wyoming",
+        "zip": "36962"
+    },
+    "contact": {
+        "phone": "679.371.0638",
+        "servicePhone": "800906534"
+    },
+    "birthday": "1996-09-01",
+    "ip": "201.94.31.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch site but economic. Trip page customer writer wide girl. Describe right paper certain.\nOnto movement strategy toward. Treatment idea let blue summer. Congress understand new speech trip.",
+        "bio": "Policy would prevent run turn consider foreign. Simply summer right do who.\nPass tree thus each let. Herself state democratic picture quality concern while. Remember feeling across order sort to its."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
