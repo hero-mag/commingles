@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Cantu",
+    "age": 104,
+    "address": {
+        "street": "Wilson Parkways",
+        "city": "Rubenport",
+        "state": "Montana",
+        "zip": "63939"
+    },
+    "contact": {
+        "phone": "567.314.3204",
+        "servicePhone": "800997763"
+    },
+    "birthday": "1921-12-11",
+    "ip": "119.159.167.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother couple executive cause world. Today purpose policy maybe free lay.\nAdmit increase answer court style make. Also major live most level think.\nEdge friend official. Pattern trouble yes kitchen.",
+        "bio": "Life none challenge entire effect. Kind window support hair per.\nBlood give matter picture. Different guy prevent low major push."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
