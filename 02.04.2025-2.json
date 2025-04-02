@@ -1,0 +1,25 @@
+{
+    "name": "Karl House",
+    "age": 1,
+    "address": {
+        "street": "Tara Route",
+        "city": "New Cynthiaberg",
+        "state": "Oregon",
+        "zip": "38959"
+    },
+    "contact": {
+        "phone": "240-234-0523x402",
+        "servicePhone": "800917499"
+    },
+    "birthday": "2024-01-12",
+    "ip": "96.229.0.48",
+    "foo": "bar",
+    "profile": {
+        "about": "No voice bar deep its work. Offer threat professional lot away type threat. Citizen color worker hard feeling cell. Material police about huge.",
+        "bio": "Young eat charge each rather thus instead my. Half approach line impact law attack. Poor ability forget tough summer goal even."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
