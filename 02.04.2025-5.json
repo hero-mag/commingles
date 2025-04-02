@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Garcia",
+    "age": 13,
+    "address": {
+        "street": "Guerra Track",
+        "city": "Chloeville",
+        "state": "Virginia",
+        "zip": "77097"
+    },
+    "contact": {
+        "phone": "218-535-0143x4800",
+        "servicePhone": "800708562"
+    },
+    "birthday": "2012-18-07",
+    "ip": "60.22.39.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Society expect above lose. Today hundred forget ball commercial blue. Almost usually central fight choose everyone.",
+        "bio": "Son art almost child box expect. Fill than step part foot option experience. Offer change consider candidate born. Night describe meeting his."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
