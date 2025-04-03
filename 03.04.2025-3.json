@@ -1,0 +1,25 @@
+{
+    "name": "Cory Stone",
+    "age": 78,
+    "address": {
+        "street": "Gordon Parkways",
+        "city": "South Jesseborough",
+        "state": "Wisconsin",
+        "zip": "82673"
+    },
+    "contact": {
+        "phone": "508.501.9440",
+        "servicePhone": "800331756"
+    },
+    "birthday": "1947-07-06",
+    "ip": "206.30.147.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Cold hit cost born team toward. About own life evidence article grow until. Top recently various watch.\nSmall idea speech state professor third top. Teach party federal coach stop.",
+        "bio": "Hospital development election necessary. Responsibility improve season operation season defense enough. College should boy design station.\nMost wide me left soldier."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
