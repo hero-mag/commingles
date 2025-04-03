@@ -1,0 +1,25 @@
+{
+    "name": "Kelsey Brown",
+    "age": 67,
+    "address": {
+        "street": "Julie Glens",
+        "city": "East Kenneth",
+        "state": "North Dakota",
+        "zip": "30203"
+    },
+    "contact": {
+        "phone": "863-719-4449x3791",
+        "servicePhone": "800936537"
+    },
+    "birthday": "1958-30-08",
+    "ip": "5.192.130.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Learn fish matter serious senior white very. Participant team heavy cell behavior decision. Include language animal set out south.",
+        "bio": "Difficult performance speech early beyond house. Bill through situation serve better school speech affect.\nSimply energy produce every whom step."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
