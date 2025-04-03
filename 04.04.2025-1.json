@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Thomas",
+    "age": 91,
+    "address": {
+        "street": "Heather Square",
+        "city": "Thorntonburgh",
+        "state": "Indiana",
+        "zip": "34518"
+    },
+    "contact": {
+        "phone": "399.910.4662",
+        "servicePhone": "800000416"
+    },
+    "birthday": "1934-12-07",
+    "ip": "141.168.98.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture politics plant rather send. Politics business admit group research. Time interest fast body vote point treatment.",
+        "bio": "Relationship describe seven. Recognize charge west word produce. House want low society life tax tell necessary.\nWait win reveal Mrs new its one."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
