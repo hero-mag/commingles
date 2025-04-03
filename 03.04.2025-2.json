@@ -1,0 +1,25 @@
+{
+    "name": "Whitney Mcintosh",
+    "age": 62,
+    "address": {
+        "street": "Diaz Hills",
+        "city": "Lutztown",
+        "state": "Oklahoma",
+        "zip": "27445"
+    },
+    "contact": {
+        "phone": "+1-228-883-8455x70224",
+        "servicePhone": "800808730"
+    },
+    "birthday": "1963-31-12",
+    "ip": "120.222.36.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Enter forward since hot. Keep politics whom view.\nLawyer bar time for pretty social really. Benefit adult part with. Rather cold certainly adult.",
+        "bio": "Begin whom over safe inside. Organization practice who fish us feeling statement late."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
