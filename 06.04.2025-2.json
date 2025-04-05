@@ -1,0 +1,25 @@
+{
+    "name": "Michael Campbell",
+    "age": 70,
+    "address": {
+        "street": "Bryant Fall",
+        "city": "New Adam",
+        "state": "Iowa",
+        "zip": "70315"
+    },
+    "contact": {
+        "phone": "001-409-951-7603x73627",
+        "servicePhone": "800507285"
+    },
+    "birthday": "1955-19-12",
+    "ip": "33.123.86.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Officer think establish left. Appear pressure about executive option toward boy. Almost conference sense.",
+        "bio": "These majority continue least another something. Popular star box fly resource. Board certain firm off course box popular."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
