@@ -1,0 +1,25 @@
+{
+    "name": "John Gutierrez",
+    "age": 16,
+    "address": {
+        "street": "Villa Mission",
+        "city": "Jordanside",
+        "state": "Wyoming",
+        "zip": "36452"
+    },
+    "contact": {
+        "phone": "(948)346-8988",
+        "servicePhone": "800618667"
+    },
+    "birthday": "2009-03-12",
+    "ip": "30.223.72.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground issue couple heavy street. Role fact growth movement series. Alone choose become possible.",
+        "bio": "Threat use read perform mean record.\nNote brother economic fly of budget town memory. Open cultural gun every hand sure.\nMouth common entire writer. Image artist easy system themselves learn."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
