@@ -1,0 +1,25 @@
+{
+    "name": "Theresa Watts",
+    "age": 8,
+    "address": {
+        "street": "Garcia Drive",
+        "city": "Melindafort",
+        "state": "Michigan",
+        "zip": "62695"
+    },
+    "contact": {
+        "phone": "+1-810-437-7493x625",
+        "servicePhone": "800671048"
+    },
+    "birthday": "2017-16-03",
+    "ip": "125.96.44.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget everything life base. Human same in boy here own.\nTable believe area forget add. Probably full explain born test.",
+        "bio": "Official example loss participant wife economic. Event whatever anything factor resource support."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
