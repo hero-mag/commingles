@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Robinson",
+    "age": 28,
+    "address": {
+        "street": "Logan Light",
+        "city": "East Stevenmouth",
+        "state": "Idaho",
+        "zip": "56219"
+    },
+    "contact": {
+        "phone": "647-269-0813x9083",
+        "servicePhone": "800361401"
+    },
+    "birthday": "1997-25-09",
+    "ip": "137.116.239.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Responsibility discussion sense difficult. As his community to body choice charge.\nIndeed write no around contain source air. Child everybody answer. Decade thousand many discuss ability foreign.",
+        "bio": "With throughout reality. Until may finish guess source build amount radio.\nMorning enjoy last. Finish with though probably population produce international.\nMachine how bank have rock well."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
