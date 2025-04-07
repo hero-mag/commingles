@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Graham",
+    "age": 17,
+    "address": {
+        "street": "Carrie Fall",
+        "city": "Kathrynfort",
+        "state": "New York",
+        "zip": "41959"
+    },
+    "contact": {
+        "phone": "501-864-8915",
+        "servicePhone": "800006260"
+    },
+    "birthday": "2008-31-10",
+    "ip": "110.66.139.216",
+    "foo": "bar",
+    "profile": {
+        "about": "System large deep response. Compare group minute guy evening lawyer.",
+        "bio": "Again picture team hold account language get. Marriage modern change. Democratic he watch late another firm."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
