@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Cohen",
+    "age": 17,
+    "address": {
+        "street": "Melissa Locks",
+        "city": "Harrisonland",
+        "state": "Massachusetts",
+        "zip": "79514"
+    },
+    "contact": {
+        "phone": "703-277-8356",
+        "servicePhone": "800923868"
+    },
+    "birthday": "2008-10-03",
+    "ip": "47.122.172.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Anything coach occur national various. Reveal one choose imagine claim. Consider spring most design unit help.\nBelieve young brother customer believe. Door lead room guess style country.",
+        "bio": "Everyone people reality case none number. Message performance pick ten. Us world environment article save born still.\nVote half someone me population respond if."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
