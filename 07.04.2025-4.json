@@ -1,0 +1,25 @@
+{
+    "name": "William Baker",
+    "age": 68,
+    "address": {
+        "street": "William Springs",
+        "city": "Catherineville",
+        "state": "Illinois",
+        "zip": "82024"
+    },
+    "contact": {
+        "phone": "(620)760-9582x230",
+        "servicePhone": "800355891"
+    },
+    "birthday": "1957-15-05",
+    "ip": "112.101.11.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Another oil member make. Way science present. Already back level start bed article.",
+        "bio": "House police drive difference mission represent. Across despite truth similar check.\nEven score little total power like work follow. Above five animal treat president site camera."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
