@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Hopkins",
+    "age": 39,
+    "address": {
+        "street": "Garza Ridge",
+        "city": "Lake Cindy",
+        "state": "Utah",
+        "zip": "82035"
+    },
+    "contact": {
+        "phone": "(270)806-8660x823",
+        "servicePhone": "800590210"
+    },
+    "birthday": "1986-21-10",
+    "ip": "135.207.169.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Society when turn. Impact beyond trip number store. Color house field include.\nLanguage president happy move listen sort. Institution site bed. Yourself way unit.",
+        "bio": "Hard arrive reduce decision leave him any. Popular voice seem skin. Around cell again former responsibility though end.\nOr media room. Also travel heart Mrs society north."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
