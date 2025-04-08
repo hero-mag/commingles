@@ -1,0 +1,25 @@
+{
+    "name": "Kelsey Vasquez",
+    "age": 47,
+    "address": {
+        "street": "Gregory Forest",
+        "city": "Kimberlyshire",
+        "state": "Iowa",
+        "zip": "38398"
+    },
+    "contact": {
+        "phone": "322.742.5185x297",
+        "servicePhone": "800055624"
+    },
+    "birthday": "1978-13-07",
+    "ip": "152.102.87.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Care piece local. Page discussion guy individual glass itself mean. Too state them matter body ball yet.\nTravel lawyer people fact yourself lose. Certain during represent dinner both rise senior.",
+        "bio": "Serve method finish get. Relate area myself hear. Wonder remain on.\nWhole exactly run show reduce. Blood theory country health."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
