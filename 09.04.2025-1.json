@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Castro",
+    "age": 98,
+    "address": {
+        "street": "Lopez Drive",
+        "city": "Karinatown",
+        "state": "South Dakota",
+        "zip": "74582"
+    },
+    "contact": {
+        "phone": "664.241.3728x8784",
+        "servicePhone": "800753200"
+    },
+    "birthday": "1927-20-11",
+    "ip": "22.96.251.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Source deal camera will wait hospital. Trade amount meeting stock home bring letter.\nCar moment assume minute. Surface account skill design in plant attorney.",
+        "bio": "Seem send me bed cup everyone student add. Rather scene town collection financial.\nExpert note reveal me. Long prove economy professor big. Stand community pick floor."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
