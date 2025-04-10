@@ -1,0 +1,25 @@
+{
+    "name": "Donald Casey",
+    "age": 60,
+    "address": {
+        "street": "Luke Causeway",
+        "city": "New Amyside",
+        "state": "New Jersey",
+        "zip": "57942"
+    },
+    "contact": {
+        "phone": "001-909-449-7582x1521",
+        "servicePhone": "800036563"
+    },
+    "birthday": "1965-23-03",
+    "ip": "211.107.54.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan lay try. Time town address moment wonder. Oil various hour impact.\nThey store kitchen. Smile career yes hard movie even.",
+        "bio": "Woman when election me. Four yes heart buy toward help. General prepare notice weight. Military traditional whether this already some including."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
