@@ -1,0 +1,25 @@
+{
+    "name": "David Wallace",
+    "age": 43,
+    "address": {
+        "street": "Herrera Turnpike",
+        "city": "Mitchellland",
+        "state": "Pennsylvania",
+        "zip": "25521"
+    },
+    "contact": {
+        "phone": "+1-620-878-4880",
+        "servicePhone": "800925558"
+    },
+    "birthday": "1982-19-12",
+    "ip": "169.76.72.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Think child dream social mission. Structure foreign listen daughter.\nWith yard practice economy onto meet simply be. Treat whether all charge worry.\nBut bring whose.",
+        "bio": "Thought at bar analysis. Everybody by hard.\nFormer family property soldier describe level. Part rise however wrong different family energy.\nCard whole look tend somebody."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
