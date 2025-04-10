@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Barnes",
+    "age": 103,
+    "address": {
+        "street": "Cynthia Meadow",
+        "city": "Camposfort",
+        "state": "Massachusetts",
+        "zip": "71667"
+    },
+    "contact": {
+        "phone": "897.299.3883x4625",
+        "servicePhone": "800359174"
+    },
+    "birthday": "1922-23-09",
+    "ip": "183.189.15.237",
+    "foo": "bar",
+    "profile": {
+        "about": "May prove step on unit physical guy boy. Describe relationship employee bit agree. Sometimes plan understand pressure amount.\nList from who. Whatever likely energy put car amount bit use.",
+        "bio": "Base line drug son fight new first.\nIssue unit foot deal research. Almost education left word without behind still feel. Decade measure at responsibility foot next rule east."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
