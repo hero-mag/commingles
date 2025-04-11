@@ -1,0 +1,25 @@
+{
+    "name": "Janet Cisneros",
+    "age": 59,
+    "address": {
+        "street": "Andrew Inlet",
+        "city": "Lake Susan",
+        "state": "New York",
+        "zip": "88017"
+    },
+    "contact": {
+        "phone": "001-819-682-1269x48032",
+        "servicePhone": "800140090"
+    },
+    "birthday": "1966-12-01",
+    "ip": "33.42.114.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Run thank enough form.\nSurface consumer maybe no get. Shake identify thought. Tell reflect whole religious idea who avoid manager. Analysis quite sit five.",
+        "bio": "Subject institution other wait. Scientist certainly show girl. Very stay trial though dream establish again.\nCoach should long factor. Realize where strong part ten."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
