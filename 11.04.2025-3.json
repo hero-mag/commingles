@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Huff",
+    "age": 75,
+    "address": {
+        "street": "Jonathan Circle",
+        "city": "Mosleychester",
+        "state": "Washington",
+        "zip": "96872"
+    },
+    "contact": {
+        "phone": "(480)459-8620x79684",
+        "servicePhone": "800338963"
+    },
+    "birthday": "1950-02-01",
+    "ip": "21.179.97.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Cost television book produce. Physical return everything religious standard last prevent. Seven change money federal fish.",
+        "bio": "Guess measure less those subject artist one budget. Role easy decide during. Minute fall cover once weight. Work until account paper will new year need."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
