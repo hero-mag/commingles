@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Weber",
+    "age": 73,
+    "address": {
+        "street": "Tanya River",
+        "city": "Port Seanside",
+        "state": "North Dakota",
+        "zip": "86266"
+    },
+    "contact": {
+        "phone": "488.638.4241",
+        "servicePhone": "800167191"
+    },
+    "birthday": "1952-14-04",
+    "ip": "86.128.204.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay role have former for.\nAdult black woman air performance senior could born. Scene act only finally just.",
+        "bio": "Child provide window military send task. But condition point soon represent. Lawyer life appear under.\nShare sea size fly of. Produce science expect. Attack hundred full prove about size reach."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
