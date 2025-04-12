@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Lopez",
+    "age": 49,
+    "address": {
+        "street": "Johnson Crossroad",
+        "city": "Davidfort",
+        "state": "South Carolina",
+        "zip": "99296"
+    },
+    "contact": {
+        "phone": "(981)909-1898x371",
+        "servicePhone": "800445060"
+    },
+    "birthday": "1976-29-11",
+    "ip": "117.225.142.147",
+    "foo": "bar",
+    "profile": {
+        "about": "With soldier page.\nPay now serious analysis threat. Officer executive fight. Campaign down bed bill left turn. Hope movie money computer decide someone short.\nSea success budget these top since.",
+        "bio": "Large stuff stage and. Receive stand father late listen. Money stop friend its even executive almost."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
