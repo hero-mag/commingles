@@ -1,0 +1,25 @@
+{
+    "name": "Jeremiah Moore",
+    "age": 70,
+    "address": {
+        "street": "James Bypass",
+        "city": "New Alexisfurt",
+        "state": "New Hampshire",
+        "zip": "86627"
+    },
+    "contact": {
+        "phone": "(579)598-8777",
+        "servicePhone": "800823730"
+    },
+    "birthday": "1955-30-11",
+    "ip": "185.220.57.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Many study according concern but theory. Suggest condition first father. Both similar read attorney improve.",
+        "bio": "Public man data live reveal.\nPractice ball establish appear season. Rule the stuff mind cost. Weight several authority career."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
