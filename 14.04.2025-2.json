@@ -1,0 +1,25 @@
+{
+    "name": "Margaret James DDS",
+    "age": 57,
+    "address": {
+        "street": "Levine Fall",
+        "city": "Stokeston",
+        "state": "Arizona",
+        "zip": "05156"
+    },
+    "contact": {
+        "phone": "(870)492-1851",
+        "servicePhone": "800753851"
+    },
+    "birthday": "1968-30-08",
+    "ip": "11.73.227.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Total member baby fine available price fight. Total join high clearly debate.",
+        "bio": "Perhaps home also everyone relate hair us. Usually positive that history marriage.\nGroup effect produce community quality land. Suffer face usually the condition force over. Seem bring bank."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
