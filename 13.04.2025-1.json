@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Farmer",
+    "age": 13,
+    "address": {
+        "street": "Aaron Hill",
+        "city": "Lake Stephen",
+        "state": "South Carolina",
+        "zip": "89529"
+    },
+    "contact": {
+        "phone": "(563)958-7551",
+        "servicePhone": "800428970"
+    },
+    "birthday": "2012-17-07",
+    "ip": "78.137.181.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Dinner song factor party start garden. Bit beyond help. Remember whole kitchen number treat brother thank. Two position full number international step challenge.",
+        "bio": "Prepare occur allow animal. Strong government nearly itself food.\nApproach modern personal relationship never like section national. Age finish worry piece strong. Music choice player fight fight."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
