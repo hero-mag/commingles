@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Young Jr.",
+    "age": 62,
+    "address": {
+        "street": "Kelly Viaduct",
+        "city": "East Erika",
+        "state": "Alabama",
+        "zip": "39394"
+    },
+    "contact": {
+        "phone": "001-443-826-4892x3410",
+        "servicePhone": "800807913"
+    },
+    "birthday": "1963-14-01",
+    "ip": "50.91.129.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Window together recognize figure event physical economy spring. Get we provide study hand drive sure building. Response life individual sometimes seven enough.",
+        "bio": "Father no catch work across message voice.\nEnd indicate newspaper affect. They soldier organization debate subject new."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
