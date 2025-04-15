@@ -1,0 +1,25 @@
+{
+    "name": "David Anderson",
+    "age": 4,
+    "address": {
+        "street": "Gonzalez Rest",
+        "city": "Cynthiaborough",
+        "state": "North Carolina",
+        "zip": "08466"
+    },
+    "contact": {
+        "phone": "+1-342-395-1427x3275",
+        "servicePhone": "800158311"
+    },
+    "birthday": "2021-07-01",
+    "ip": "198.24.155.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Radio particularly senior image nothing his. Apply day by political quality. Along suggest information same again.\nReason list chair recent type this blood.",
+        "bio": "Argue society since memory civil first score join. So health degree card full. Citizen authority first reveal manage already political."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
