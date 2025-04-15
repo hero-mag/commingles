@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Erica Warner",
+    "age": 101,
+    "address": {
+        "street": "Lamb Shore",
+        "city": "Masseyton",
+        "state": "Florida",
+        "zip": "17700"
+    },
+    "contact": {
+        "phone": "391.835.6542x85100",
+        "servicePhone": "800206683"
+    },
+    "birthday": "1924-01-03",
+    "ip": "180.251.74.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Medical though few culture. Teacher though others build music her point individual. Officer computer show public decision half.\nOccur year yeah successful store. What level range five same.",
+        "bio": "Whatever eye west late part candidate. Nothing different adult dark it debate. Career ask information way street between.\nAct fund audience list wide. Remain end nation entire much sort total."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
