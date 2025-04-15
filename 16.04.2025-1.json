@@ -1,0 +1,25 @@
+{
+    "name": "Mark Fischer",
+    "age": 16,
+    "address": {
+        "street": "Elizabeth Pines",
+        "city": "Julieberg",
+        "state": "Tennessee",
+        "zip": "26370"
+    },
+    "contact": {
+        "phone": "(211)474-0032",
+        "servicePhone": "800590543"
+    },
+    "birthday": "2009-30-05",
+    "ip": "110.174.154.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Four laugh first investment. Course good agree family explain since economic son. Important film dream physical eight material myself food.\nSeason call share. Enter others school some gun him.",
+        "bio": "Individual month dinner shake everything lose international war. Top eye glass every couple such responsibility. Eat smile teacher always agree. Employee put president police result."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
