@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Rodriguez",
+    "age": 115,
+    "address": {
+        "street": "Donald Loop",
+        "city": "Cooperborough",
+        "state": "Pennsylvania",
+        "zip": "77934"
+    },
+    "contact": {
+        "phone": "+1-550-515-2227x815",
+        "servicePhone": "800725536"
+    },
+    "birthday": "1910-06-01",
+    "ip": "79.108.206.241",
+    "foo": "bar",
+    "profile": {
+        "about": "To gun plan man shake enough. Available city this prevent.\nFear low rule history box enjoy agent bar. Enter grow condition appear model cover.",
+        "bio": "Than such case base some specific allow receive. Then the ever bank figure event.\nPlant set leave street responsibility level. Herself find skin administration discover. Up direction politics worry."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
