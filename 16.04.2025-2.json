@@ -1,0 +1,25 @@
+{
+    "name": "Robert Acosta",
+    "age": 108,
+    "address": {
+        "street": "Melissa Wall",
+        "city": "Port Stephanieborough",
+        "state": "California",
+        "zip": "65825"
+    },
+    "contact": {
+        "phone": "455.251.8964",
+        "servicePhone": "800983765"
+    },
+    "birthday": "1917-06-04",
+    "ip": "39.157.237.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Left cultural any personal beyond. Case respond three result dinner carry.\nDebate industry action firm lay seek. Perform management minute large especially husband drug.",
+        "bio": "Woman enter feeling behind past trade. Your rock concern film under do realize.\nThing simply someone food worker. Room between idea tax. Fall either exactly science defense Mr source use."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
