@@ -1,0 +1,25 @@
+{
+    "name": "Robin Murphy",
+    "age": 90,
+    "address": {
+        "street": "Zachary Circles",
+        "city": "North Katrinamouth",
+        "state": "Nebraska",
+        "zip": "46314"
+    },
+    "contact": {
+        "phone": "(224)912-9760x6752",
+        "servicePhone": "800671997"
+    },
+    "birthday": "1935-01-04",
+    "ip": "1.162.114.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Research tax fine be leader use. Probably light assume kind skin. Fill his news foreign who month reach.",
+        "bio": "Left however director above you. Expert newspaper management how pass report Democrat. Contain short major learn seat."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
