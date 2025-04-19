@@ -1,0 +1,25 @@
+{
+    "name": "Natalie Randall",
+    "age": 59,
+    "address": {
+        "street": "Gabriela Lodge",
+        "city": "Stacyport",
+        "state": "Indiana",
+        "zip": "11840"
+    },
+    "contact": {
+        "phone": "876-268-5463",
+        "servicePhone": "800798619"
+    },
+    "birthday": "1966-09-04",
+    "ip": "211.210.254.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Up boy all son far second. Least ball quickly report voice brother.\nKnowledge national billion opportunity chair road. But black on have. Approach must style sister ball actually threat draw.",
+        "bio": "Determine guy we place human public. Indicate last personal require head.\nRequire very interesting want."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
