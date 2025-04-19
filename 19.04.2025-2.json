@@ -1,0 +1,25 @@
+{
+    "name": "James Pena",
+    "age": 99,
+    "address": {
+        "street": "Moss Squares",
+        "city": "Bradleychester",
+        "state": "Utah",
+        "zip": "84053"
+    },
+    "contact": {
+        "phone": "920-697-7212",
+        "servicePhone": "800953407"
+    },
+    "birthday": "1926-14-01",
+    "ip": "66.41.242.204",
+    "foo": "bar",
+    "profile": {
+        "about": "My room necessary region establish. Visit myself trouble.\nSound travel subject exist realize couple. Sing back impact democratic question. Situation care admit during clearly.",
+        "bio": "Per doctor key not dog industry hot. Member effort marriage prepare industry. These will place. Their hit message real treat federal."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
