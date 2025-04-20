@@ -1,0 +1,25 @@
+{
+    "name": "Nathaniel Nelson",
+    "age": 10,
+    "address": {
+        "street": "Davis Well",
+        "city": "Aprilmouth",
+        "state": "Kansas",
+        "zip": "71184"
+    },
+    "contact": {
+        "phone": "562-793-6758x857",
+        "servicePhone": "800093630"
+    },
+    "birthday": "2015-01-09",
+    "ip": "8.0.65.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Project between seem behind goal fact story run. Life its course interest. Water eight even article.\nView fish network blood with. Sometimes apply level wait just.",
+        "bio": "Similar military usually into these. Of although entire four Republican. For so across mind particular."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
