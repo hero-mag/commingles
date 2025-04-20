@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Williams",
+    "age": 65,
+    "address": {
+        "street": "Figueroa Groves",
+        "city": "East Linda",
+        "state": "Arizona",
+        "zip": "29697"
+    },
+    "contact": {
+        "phone": "+1-467-538-1693x352",
+        "servicePhone": "800279183"
+    },
+    "birthday": "1960-08-01",
+    "ip": "70.48.22.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward morning eat unit article.\nPersonal eat question bank card concern friend. Each outside have to argue.",
+        "bio": "Mouth message treatment various central low. Water conference show hard gas accept. Standard treatment out discuss."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
