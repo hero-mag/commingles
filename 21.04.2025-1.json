@@ -1,0 +1,25 @@
+{
+    "name": "Brandi Lam",
+    "age": 79,
+    "address": {
+        "street": "Michael Forges",
+        "city": "North Jessicaburgh",
+        "state": "California",
+        "zip": "52217"
+    },
+    "contact": {
+        "phone": "(655)446-5856x96193",
+        "servicePhone": "800571463"
+    },
+    "birthday": "1946-28-03",
+    "ip": "97.175.98.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Past language beyond team work that. Down rather six first kid we coach system. Yes financial raise to.",
+        "bio": "Happy education agent machine crime create. Want generation poor there use stock carry."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
