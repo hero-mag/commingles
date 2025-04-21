@@ -1,0 +1,25 @@
+{
+    "name": "Paul Alexander",
+    "age": 38,
+    "address": {
+        "street": "Owens Trace",
+        "city": "Olivermouth",
+        "state": "Oregon",
+        "zip": "06101"
+    },
+    "contact": {
+        "phone": "444.935.1987",
+        "servicePhone": "800782006"
+    },
+    "birthday": "1987-22-04",
+    "ip": "4.170.38.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Agree social few bank space another station computer. Wait tonight international among soon.\nFar former forget. Sea lead maybe method of carry. Pass investment itself series walk sit skill ever.",
+        "bio": "Knowledge city small worker. Dark fish cell. Force choose usually million.\nIncluding hard president start art. Environment feel prove evening home edge."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
