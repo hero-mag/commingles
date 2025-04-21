@@ -1,0 +1,25 @@
+{
+    "name": "Frank Hill",
+    "age": 106,
+    "address": {
+        "street": "Nicole Curve",
+        "city": "Lake Christophermouth",
+        "state": "New Hampshire",
+        "zip": "52886"
+    },
+    "contact": {
+        "phone": "840-705-2217",
+        "servicePhone": "800162298"
+    },
+    "birthday": "1919-14-06",
+    "ip": "11.240.133.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Crime economy public social because sort. Same specific color network. Arrive throughout sport perform go.\nFilm Congress region painting push white. Fund mind this return.",
+        "bio": "Head less tree. Most term thank tend as receive class.\nHe everybody bed. They sign size public. Third black station argue administration international suffer. Trial enter big only."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
