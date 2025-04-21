@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Angela Fischer",
+    "age": 10,
+    "address": {
+        "street": "Stanley Landing",
+        "city": "New Valerieton",
+        "state": "Illinois",
+        "zip": "63537"
+    },
+    "contact": {
+        "phone": "950-669-2912x193",
+        "servicePhone": "800732443"
+    },
+    "birthday": "2015-20-02",
+    "ip": "137.10.198.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish must business anything. Paper discussion keep who world.\nNote interest summer man. Marriage cup protect eight join administration less. Expect reduce under relationship.",
+        "bio": "Know bar race figure. Of story shoulder turn between explain.\nFilm side shake suffer. Development certain court establish happen tough her. Likely example computer see."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
