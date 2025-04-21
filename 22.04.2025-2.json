@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Campbell",
+    "age": 16,
+    "address": {
+        "street": "Mcdowell Mountains",
+        "city": "South Stephanie",
+        "state": "Maryland",
+        "zip": "79902"
+    },
+    "contact": {
+        "phone": "001-893-333-9086x1359",
+        "servicePhone": "800017590"
+    },
+    "birthday": "2009-16-03",
+    "ip": "187.101.167.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Truth inside drop purpose make teach glass. Find adult whom model visit.\nTax time culture enough enjoy. Glass others course today.",
+        "bio": "Article outside final hour heart usually season get.\nRest career create difference agent modern there. Only partner ever possible Republican them student."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
