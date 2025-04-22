@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Salazar",
+    "age": 92,
+    "address": {
+        "street": "Zachary Orchard",
+        "city": "Franciscotown",
+        "state": "Alabama",
+        "zip": "43138"
+    },
+    "contact": {
+        "phone": "(459)751-0423x8243",
+        "servicePhone": "800553906"
+    },
+    "birthday": "1933-24-06",
+    "ip": "125.146.236.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Process consider dream our learn.\nNone become then government practice everyone. Couple south car month.\nChoose effect own city guy. Money force with. Father future medical bad apply establish tend.",
+        "bio": "Boy another environment power college rule. Spring hit bit actually. Surface receive degree other exactly risk one.\nSea market me me. Agree property spend such analysis purpose lawyer."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
