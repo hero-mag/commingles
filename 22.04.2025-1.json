@@ -1,0 +1,25 @@
+{
+    "name": "Karen Neal",
+    "age": 33,
+    "address": {
+        "street": "Luis Inlet",
+        "city": "West Jeremybury",
+        "state": "Virginia",
+        "zip": "05263"
+    },
+    "contact": {
+        "phone": "001-337-953-3981x8826",
+        "servicePhone": "800074393"
+    },
+    "birthday": "1992-30-10",
+    "ip": "172.127.164.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Truth see level floor resource under. Bill building finally news. Hear offer site ability already model.\nHave star need suddenly night. Trade business course season.",
+        "bio": "At we discover meeting anyone piece.\nWhat number land finally bar never herself. Nor teach her especially everybody."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
