@@ -1,0 +1,25 @@
+{
+    "name": "Mark Johnson",
+    "age": 25,
+    "address": {
+        "street": "Luis Brooks",
+        "city": "West Kimberly",
+        "state": "Utah",
+        "zip": "97339"
+    },
+    "contact": {
+        "phone": "(880)889-2498",
+        "servicePhone": "800669913"
+    },
+    "birthday": "2000-25-07",
+    "ip": "88.35.47.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Author news popular follow. Outside play by walk result. Glass then food really wall yourself space available.",
+        "bio": "Cultural democratic street prevent almost thousand. Recently student live training.\nNumber long whose move son garden season."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
