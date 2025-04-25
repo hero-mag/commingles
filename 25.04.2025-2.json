@@ -1,0 +1,25 @@
+{
+    "name": "David Cook",
+    "age": 12,
+    "address": {
+        "street": "Ramos Summit",
+        "city": "New Laurie",
+        "state": "Mississippi",
+        "zip": "90705"
+    },
+    "contact": {
+        "phone": "713-699-7172x83076",
+        "servicePhone": "800833989"
+    },
+    "birthday": "2013-31-12",
+    "ip": "14.119.254.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover billion style believe bill summer want. Present agree accept team those. Left single buy sometimes though computer reach.",
+        "bio": "Mouth avoid far data bank. Culture material you decade herself pretty up. Worry consider later remember technology ten."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
