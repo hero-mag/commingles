@@ -1,0 +1,25 @@
+{
+    "name": "Karen Nunez",
+    "age": 16,
+    "address": {
+        "street": "Phelps Hills",
+        "city": "Kaylaside",
+        "state": "Pennsylvania",
+        "zip": "50185"
+    },
+    "contact": {
+        "phone": "001-677-478-8161x2181",
+        "servicePhone": "800191409"
+    },
+    "birthday": "2009-28-07",
+    "ip": "27.119.118.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Hot suddenly spring election war true be. Artist minute seat black class food consider. Shoulder her local worker above purpose.",
+        "bio": "Effort over network budget. Compare market federal off into concern. Especially western alone least little natural."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
