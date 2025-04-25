@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Johnson",
+    "age": 7,
+    "address": {
+        "street": "Henderson Track",
+        "city": "Lake Claudia",
+        "state": "Mississippi",
+        "zip": "06635"
+    },
+    "contact": {
+        "phone": "858-491-9341x64249",
+        "servicePhone": "800696561"
+    },
+    "birthday": "2018-24-02",
+    "ip": "99.133.138.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare heavy nature whose color. Consider Congress look low must rock Republican. Science use heavy street but recently could.",
+        "bio": "Like make deal low have may other everyone. Could keep face training open condition only better.\nOfficer series whether. Feeling town current. Increase similar trial act truth."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
