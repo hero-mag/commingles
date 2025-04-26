@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Howard",
+    "age": 47,
+    "address": {
+        "street": "Joshua Corner",
+        "city": "Waltonside",
+        "state": "Arkansas",
+        "zip": "80543"
+    },
+    "contact": {
+        "phone": "(517)459-8940x6369",
+        "servicePhone": "800658162"
+    },
+    "birthday": "1978-12-07",
+    "ip": "121.92.45.83",
+    "foo": "bar",
+    "profile": {
+        "about": "End apply natural network garden benefit. Must night election. Risk doctor school subject stop happy study.\nKnow beat ok support. Successful never south full success you majority.",
+        "bio": "Agreement back note young system focus size attention. Expert campaign trade family. Event see at ok control surface.\nOld no civil term assume imagine individual. Instead need take soldier build too."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
