@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Vasquez",
+    "age": 75,
+    "address": {
+        "street": "Rosario Overpass",
+        "city": "Port Crystalberg",
+        "state": "Arkansas",
+        "zip": "51784"
+    },
+    "contact": {
+        "phone": "5104343031",
+        "servicePhone": "800350027"
+    },
+    "birthday": "1950-03-07",
+    "ip": "104.124.93.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake find interview surface. Hot talk challenge in alone evidence tax. Allow enjoy position weight mean. Ability medical partner.",
+        "bio": "Democrat at item able stock only ask.\nPublic than policy check deal travel world responsibility. Environment trade many difference author TV."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
