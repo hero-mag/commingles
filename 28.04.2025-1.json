@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Oconnell",
+    "age": 42,
+    "address": {
+        "street": "William Lodge",
+        "city": "North Bradleyshire",
+        "state": "Mississippi",
+        "zip": "04813"
+    },
+    "contact": {
+        "phone": "621-970-7744x7930",
+        "servicePhone": "800810589"
+    },
+    "birthday": "1983-11-06",
+    "ip": "154.104.109.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Others sign such course heavy tough. After picture week could. Thousand beyond crime but believe present cold ready. Me wife offer long piece across discover affect.",
+        "bio": "How health ask everyone spend fine economic. Pattern home prepare far a. Store fact participant too.\nOn everyone paper task fire.\nNearly recent try build. Nature though mouth. Political dream just."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
