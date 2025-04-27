@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Thomas",
+    "age": 99,
+    "address": {
+        "street": "Benjamin Harbor",
+        "city": "Lake Joannabury",
+        "state": "Vermont",
+        "zip": "06792"
+    },
+    "contact": {
+        "phone": "602.319.8030x0254",
+        "servicePhone": "800304154"
+    },
+    "birthday": "1926-10-10",
+    "ip": "28.56.32.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Push fall prove several seem town me. Remember article already response tax discuss what. Over lose position authority.",
+        "bio": "Loss region Democrat action. Clearly race character key.\nPainting news easy by call garden. Another finish whole future may common energy. Its American describe foreign current feeling."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
