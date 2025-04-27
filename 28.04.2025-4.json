@@ -1,0 +1,25 @@
+{
+    "name": "Michael Lee",
+    "age": 90,
+    "address": {
+        "street": "Hopkins Coves",
+        "city": "Pamelaborough",
+        "state": "Michigan",
+        "zip": "90825"
+    },
+    "contact": {
+        "phone": "+1-372-306-6958x8901",
+        "servicePhone": "800657418"
+    },
+    "birthday": "1935-28-07",
+    "ip": "5.227.246.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk concern so onto song move finally. Image mean study region executive. Too trip art test me which.",
+        "bio": "Game cover system along usually learn everyone. No entire explain increase. Medical leader class which particular away."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
