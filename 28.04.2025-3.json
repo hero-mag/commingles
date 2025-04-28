@@ -1,0 +1,25 @@
+{
+    "name": "Julie Gardner",
+    "age": 108,
+    "address": {
+        "street": "Savannah Springs",
+        "city": "Jennifershire",
+        "state": "Tennessee",
+        "zip": "51521"
+    },
+    "contact": {
+        "phone": "658-578-6165x32239",
+        "servicePhone": "800786301"
+    },
+    "birthday": "1917-23-12",
+    "ip": "107.117.90.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Add measure type morning toward candidate. Even left near happen five. Air position seat those back.",
+        "bio": "Cold rise product difference politics young scientist. North people argue student. Ask research bar region prove language phone."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
