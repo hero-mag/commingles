@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Lambert",
+    "age": 114,
+    "address": {
+        "street": "Webb Flats",
+        "city": "Wrightchester",
+        "state": "Nevada",
+        "zip": "86749"
+    },
+    "contact": {
+        "phone": "001-956-902-4273",
+        "servicePhone": "800984102"
+    },
+    "birthday": "1911-25-12",
+    "ip": "133.29.60.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Eight public eat seat without team west.\nBoy century likely together. Medical industry range. Nature few ok beat.",
+        "bio": "Pass head vote contain. Yourself walk culture poor someone too. Those could challenge surface drug network almost.\nCamera particularly religious race machine."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
