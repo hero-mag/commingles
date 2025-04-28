@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Wilson",
+    "age": 27,
+    "address": {
+        "street": "Richmond Burgs",
+        "city": "Maxwellville",
+        "state": "Montana",
+        "zip": "01882"
+    },
+    "contact": {
+        "phone": "760.599.9890x1267",
+        "servicePhone": "800690898"
+    },
+    "birthday": "1998-20-10",
+    "ip": "120.103.97.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Their able wife chance. Community wait pull must.\nHotel yes nearly material miss. Total issue apply others way rather choice. Child around shake capital difference back.",
+        "bio": "Call like too vote. Believe read more city whether owner effect least."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
