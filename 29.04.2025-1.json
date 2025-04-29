@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Forbes",
+    "age": 45,
+    "address": {
+        "street": "Brittany Road",
+        "city": "Port Garyborough",
+        "state": "Nevada",
+        "zip": "44262"
+    },
+    "contact": {
+        "phone": "918-703-6363",
+        "servicePhone": "800477186"
+    },
+    "birthday": "1980-23-06",
+    "ip": "54.234.56.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Whatever black bag station site left. Own religious bring close teacher for.\nBy structure amount way. Performance add help.",
+        "bio": "Plant information assume away. Everyone prove market exist else tend attack night. Media conference real right."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
