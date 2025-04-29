@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany May",
+    "age": 106,
+    "address": {
+        "street": "Juarez Circle",
+        "city": "Stephanieburgh",
+        "state": "New York",
+        "zip": "42000"
+    },
+    "contact": {
+        "phone": "001-882-682-8674x26651",
+        "servicePhone": "800942034"
+    },
+    "birthday": "1919-13-07",
+    "ip": "15.225.19.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm within above service start our. Picture real push. Son four our attention member best respond.\nWell area agree less treatment as. Less quite fire ten start today. This talk site animal beat plan.",
+        "bio": "Appear south pay late official risk space window. Enter power radio."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
