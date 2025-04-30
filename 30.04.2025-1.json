@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Lowe",
+    "age": 105,
+    "address": {
+        "street": "Michelle Rapids",
+        "city": "Port Johnberg",
+        "state": "New Jersey",
+        "zip": "65902"
+    },
+    "contact": {
+        "phone": "335.743.4009x7092",
+        "servicePhone": "800254036"
+    },
+    "birthday": "1920-30-11",
+    "ip": "57.188.129.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Business gas alone factor away.\nBaby work ahead out relate.\nHundred agent shoulder. Yourself cold general nor trouble court hotel.\nReality life so station. Drive visit friend side.",
+        "bio": "Billion say want camera. Million over military community good.\nCondition you modern exist teacher trip. Perhaps put evidence serious.\nAccording social Democrat special leave their."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
