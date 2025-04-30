@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Zachary Francis",
+    "age": 61,
+    "address": {
+        "street": "Roberts Harbors",
+        "city": "Dunlaptown",
+        "state": "Arkansas",
+        "zip": "27115"
+    },
+    "contact": {
+        "phone": "492.647.5112x136",
+        "servicePhone": "800233885"
+    },
+    "birthday": "1964-03-08",
+    "ip": "23.75.147.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Again often positive human perhaps policy do kid. Pass though among plan before base. Trial begin push as consider difficult what.",
+        "bio": "Building activity radio yard gas. Stuff administration person service.\nLeave approach agree skin research discuss. Me left system number often capital. Partner include decide development blood."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
