@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Stanley",
+    "age": 82,
+    "address": {
+        "street": "James Way",
+        "city": "Marquezland",
+        "state": "Ohio",
+        "zip": "67470"
+    },
+    "contact": {
+        "phone": "(482)375-5130x36052",
+        "servicePhone": "800993815"
+    },
+    "birthday": "1943-20-06",
+    "ip": "57.224.57.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Imagine which common system hard skin black agree. Especially manage recently time security southern social. Leg number one specific specific support.",
+        "bio": "Country meeting campaign prevent agent finish. Us job rest interview. Them entire bit share later.\nGuess amount management trouble either. Time deep change."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
