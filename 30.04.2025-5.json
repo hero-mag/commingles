@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Thornton",
+    "age": 87,
+    "address": {
+        "street": "David Islands",
+        "city": "West Williamview",
+        "state": "Arkansas",
+        "zip": "84243"
+    },
+    "contact": {
+        "phone": "+1-993-553-8022",
+        "servicePhone": "800327922"
+    },
+    "birthday": "1938-15-11",
+    "ip": "165.137.152.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Return avoid pretty wife especially present team significant. Specific after machine.\nCell market carry option project family. Collection director debate American enough strong.",
+        "bio": "Collection today sure statement. Growth stand reveal national respond project for. Enter soldier particularly technology various final. Three age several understand social five shoulder picture."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
