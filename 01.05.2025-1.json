@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Griffin",
+    "age": 71,
+    "address": {
+        "street": "Johnson Freeway",
+        "city": "Ashleyview",
+        "state": "Missouri",
+        "zip": "66631"
+    },
+    "contact": {
+        "phone": "693-391-9822",
+        "servicePhone": "800840646"
+    },
+    "birthday": "1954-27-12",
+    "ip": "23.177.13.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Five anything hard. Official environment during close successful economy technology herself. Blue human she property pattern win available.",
+        "bio": "Anything north address major them produce line. Example camera rich performance technology car hospital six. Like itself beyond international answer. Unit partner write group talk center."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
