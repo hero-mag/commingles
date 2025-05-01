@@ -1,0 +1,25 @@
+{
+    "name": "Kathy Lutz",
+    "age": 95,
+    "address": {
+        "street": "David Drive",
+        "city": "Perkinston",
+        "state": "Washington",
+        "zip": "84328"
+    },
+    "contact": {
+        "phone": "001-471-881-2795x741",
+        "servicePhone": "800550977"
+    },
+    "birthday": "1930-28-06",
+    "ip": "64.120.233.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Raise wish another poor. Similar occur feel no so. Present value yet audience.\nNetwork set cultural approach against.",
+        "bio": "Box task hard stage. Democrat edge serve should half hand case.\nIssue part indicate change source son. Camera public light democratic appear wish discussion poor. Only individual approach."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
