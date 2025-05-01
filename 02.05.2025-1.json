@@ -1,0 +1,25 @@
+{
+    "name": "Anna Morton",
+    "age": 61,
+    "address": {
+        "street": "Nancy Cliff",
+        "city": "Wagnermouth",
+        "state": "Virginia",
+        "zip": "51968"
+    },
+    "contact": {
+        "phone": "+1-843-612-9891x249",
+        "servicePhone": "800676738"
+    },
+    "birthday": "1964-16-11",
+    "ip": "169.195.249.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Care six sister if information former. Hair financial agree visit most better.\nChoose land force close marriage. Central involve help officer eight evening. Player read staff there civil maybe.",
+        "bio": "Congress civil effect natural. Traditional suffer series by too who interest."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
