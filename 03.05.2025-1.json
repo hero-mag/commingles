@@ -1,0 +1,25 @@
+{
+    "name": "Michael Martin",
+    "age": 115,
+    "address": {
+        "street": "Daniel Fields",
+        "city": "Petersview",
+        "state": "Idaho",
+        "zip": "58089"
+    },
+    "contact": {
+        "phone": "592-610-0078",
+        "servicePhone": "800977274"
+    },
+    "birthday": "1910-21-11",
+    "ip": "14.154.29.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Down red leave agent degree work. Test focus visit to cell. Responsibility themselves interest wish main get culture.\nForeign community finish. General organization carry grow sing notice discover.",
+        "bio": "Often meeting quite over there manager boy. Top real audience trade end its participant. Meet value concern through.\nMedia whether consider."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
