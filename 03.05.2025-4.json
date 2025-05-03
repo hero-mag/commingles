@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Boyd",
+    "age": 44,
+    "address": {
+        "street": "Susan Tunnel",
+        "city": "Darrenberg",
+        "state": "Florida",
+        "zip": "21670"
+    },
+    "contact": {
+        "phone": "001-342-758-7837x295",
+        "servicePhone": "800414737"
+    },
+    "birthday": "1981-06-02",
+    "ip": "3.85.123.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Executive carry girl often reveal whom process. Summer consumer man article light consumer radio. Common station relate behavior friend Republican difficult.",
+        "bio": "Consider ready card with similar method. It commercial fine. Although as hot father.\nParent me three sort soldier.\nDaughter staff choice night subject film memory style. Civil sit produce someone."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
