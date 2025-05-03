@@ -1,0 +1,25 @@
+{
+    "name": "Matthew White",
+    "age": 0,
+    "address": {
+        "street": "Watkins Hills",
+        "city": "Hartport",
+        "state": "Massachusetts",
+        "zip": "03922"
+    },
+    "contact": {
+        "phone": "+1-290-332-8791",
+        "servicePhone": "800609408"
+    },
+    "birthday": "2025-16-02",
+    "ip": "110.246.103.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Player increase several eat past office magazine. Member detail well watch.\nSingle get water full of bed high. Woman public poor door.",
+        "bio": "Often worry ever include he produce. Fly management party friend chair detail. We ten will stop throw mind them. Hold even into actually near wrong."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
