@@ -1,0 +1,25 @@
+{
+    "name": "Ana Miller",
+    "age": 81,
+    "address": {
+        "street": "Hicks Stravenue",
+        "city": "New Nancyview",
+        "state": "Nevada",
+        "zip": "88145"
+    },
+    "contact": {
+        "phone": "843-818-5860x6415",
+        "servicePhone": "800196232"
+    },
+    "birthday": "1944-09-05",
+    "ip": "122.125.143.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason which sister explain. Either begin training service public country home red. Raise item hold worker free but.",
+        "bio": "Tell ten only method tough.\nFeeling along reach weight. Animal lawyer safe five believe. Push past Congress look stay your.\nCertainly attack cell feel. Bad structure son computer. Tell ball manager."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
