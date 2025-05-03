@@ -1,0 +1,25 @@
+{
+    "name": "Adriana Anderson",
+    "age": 84,
+    "address": {
+        "street": "Lee Flat",
+        "city": "North Whitney",
+        "state": "New Hampshire",
+        "zip": "45886"
+    },
+    "contact": {
+        "phone": "2496063546",
+        "servicePhone": "800458561"
+    },
+    "birthday": "1941-04-12",
+    "ip": "154.14.132.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Message yourself go population laugh rule election. Recent shoulder song professional focus.",
+        "bio": "Seek poor production very at week expect science. Senior health work guess last nation fund. Now structure plant same this. Make our high budget along it.\nMuch follow sit."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
