@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Pace",
+    "age": 40,
+    "address": {
+        "street": "Mclean Grove",
+        "city": "Aaronmouth",
+        "state": "Missouri",
+        "zip": "56634"
+    },
+    "contact": {
+        "phone": "001-600-723-5129x6211",
+        "servicePhone": "800774689"
+    },
+    "birthday": "1985-29-12",
+    "ip": "169.207.236.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Table end thank century subject paper reach. Control end across question. Peace sit happen word.\nFree indeed make face. Ground really performance million serve statement.",
+        "bio": "Land role high remember fire difference. Land set behavior threat really project. Charge purpose throw eye newspaper idea.\nLess Republican help decide red. Budget measure sure while."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
