@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Baker",
+    "age": 22,
+    "address": {
+        "street": "Stein Isle",
+        "city": "New Mark",
+        "state": "Nevada",
+        "zip": "29286"
+    },
+    "contact": {
+        "phone": "001-539-865-5411x77790",
+        "servicePhone": "800037788"
+    },
+    "birthday": "2003-12-09",
+    "ip": "154.76.76.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Dog despite fight strong floor. Per suffer organization again.\nResult daughter information main first if. New people other arrive pattern unit.",
+        "bio": "Should I article ask beyond five. Wonder economic check teach. Or them worry same herself day door.\nWhole if heart deal. Land different particularly."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
