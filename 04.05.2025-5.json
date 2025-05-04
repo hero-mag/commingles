@@ -1,0 +1,25 @@
+{
+    "name": "Darrell Arellano",
+    "age": 59,
+    "address": {
+        "street": "Brooks Common",
+        "city": "Port Jennifer",
+        "state": "Connecticut",
+        "zip": "01712"
+    },
+    "contact": {
+        "phone": "946-762-8854x3127",
+        "servicePhone": "800372510"
+    },
+    "birthday": "1966-28-10",
+    "ip": "129.65.159.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Real building since sure half yourself claim. Less out oil visit floor. On stock public.",
+        "bio": "Education bar cold minute key everything up. Mind decade any big order man. Might be determine but daughter enjoy why."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
