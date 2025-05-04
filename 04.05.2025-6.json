@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Rogers",
+    "age": 99,
+    "address": {
+        "street": "Hamilton Rapid",
+        "city": "Nicoleside",
+        "state": "Kansas",
+        "zip": "32195"
+    },
+    "contact": {
+        "phone": "931.446.9033x0551",
+        "servicePhone": "800470117"
+    },
+    "birthday": "1926-02-05",
+    "ip": "55.108.203.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Check hospital involve nearly me. Student along five billion south those but. Computer approach painting address who test.\nSome better positive face hour guy up.",
+        "bio": "Despite process field than whom understand. We first mission.\nSave attack call far investment. Sound get prevent expect trouble by. Herself bank significant young still first."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
