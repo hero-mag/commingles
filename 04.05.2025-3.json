@@ -1,0 +1,25 @@
+{
+    "name": "David Vasquez",
+    "age": 23,
+    "address": {
+        "street": "Christine Square",
+        "city": "North Robertside",
+        "state": "New Mexico",
+        "zip": "08676"
+    },
+    "contact": {
+        "phone": "418-395-5663",
+        "servicePhone": "800631442"
+    },
+    "birthday": "2002-22-09",
+    "ip": "78.162.97.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Water feeling huge conference participant. Institution maintain along deep. Risk safe different adult they very improve.",
+        "bio": "Part we few than vote population. After animal charge hot young.\nDo accept our concern either. Yes game true effect. Smile citizen these ask perform term."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
