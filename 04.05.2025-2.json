@@ -1,0 +1,25 @@
+{
+    "name": "Christina Bentley",
+    "age": 45,
+    "address": {
+        "street": "Heidi Divide",
+        "city": "Juarezton",
+        "state": "Missouri",
+        "zip": "83571"
+    },
+    "contact": {
+        "phone": "001-725-890-4182x22137",
+        "servicePhone": "800562355"
+    },
+    "birthday": "1980-25-06",
+    "ip": "78.138.30.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Level probably including increase unit. True work any father stand.\nPresent few occur art Republican technology. Successful remain tree.",
+        "bio": "Reason condition form despite over staff rule. Reflect reality none herself test writer democratic.\nPlace even yourself about short. Different person some even."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
