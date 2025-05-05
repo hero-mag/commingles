@@ -1,0 +1,25 @@
+{
+    "name": "Kerry Osborne",
+    "age": 62,
+    "address": {
+        "street": "Chavez Road",
+        "city": "Rachelshire",
+        "state": "Texas",
+        "zip": "77143"
+    },
+    "contact": {
+        "phone": "001-900-434-5612",
+        "servicePhone": "800406678"
+    },
+    "birthday": "1963-19-11",
+    "ip": "4.87.159.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Question necessary culture house result growth. Treatment another for similar thank employee few.",
+        "bio": "Movement store data no most because term. Return leg blue up someone reflect. Music around move rich hotel four PM. Nothing entire wrong put long pattern article."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
