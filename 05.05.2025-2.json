@@ -1,0 +1,25 @@
+{
+    "name": "Emma Medina",
+    "age": 12,
+    "address": {
+        "street": "Bailey Rue",
+        "city": "Gutierrezton",
+        "state": "Illinois",
+        "zip": "52147"
+    },
+    "contact": {
+        "phone": "(478)987-5592x04556",
+        "servicePhone": "800024438"
+    },
+    "birthday": "2013-08-10",
+    "ip": "104.143.131.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal Mr someone call big walk candidate. Show by fund paper society around. Line matter than just rise fight.",
+        "bio": "Follow wonder blue voice. Weight across decade new whatever.\nIncluding serve century occur allow beyond. Stock head station mother. Us speak inside fall challenge."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
