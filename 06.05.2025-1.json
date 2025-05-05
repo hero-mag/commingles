@@ -1,0 +1,25 @@
+{
+    "name": "Antonio Lin",
+    "age": 29,
+    "address": {
+        "street": "Mcguire Coves",
+        "city": "South Jermaine",
+        "state": "Maine",
+        "zip": "68077"
+    },
+    "contact": {
+        "phone": "(277)248-5193",
+        "servicePhone": "800508453"
+    },
+    "birthday": "1996-02-05",
+    "ip": "7.184.44.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Than either real. Author south that care anything drop. Happy young century bag believe question expect must.\nRemain thing can factor pay involve. Save raise structure deep personal.",
+        "bio": "Worker stage painting. Yard per a across. Protect agree dark per dark.\nFire show pass per until around on. Or father imagine red."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
