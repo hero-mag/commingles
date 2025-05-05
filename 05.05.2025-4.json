@@ -1,0 +1,25 @@
+{
+    "name": "Larry Smith",
+    "age": 108,
+    "address": {
+        "street": "Cheryl Glens",
+        "city": "Blairview",
+        "state": "Georgia",
+        "zip": "52236"
+    },
+    "contact": {
+        "phone": "(754)200-3393x05715",
+        "servicePhone": "800876558"
+    },
+    "birthday": "1917-16-06",
+    "ip": "98.132.235.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Few else outside issue heavy safe among. Course end woman. Easy sport check treat compare point.\nVery its small tax girl best choose. Myself question group style bag visit.",
+        "bio": "Magazine soldier popular wind others. Green adult worker member case analysis whether.\nImpact wall ten address stand own. War happy ask fly century thus. Range writer time."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
