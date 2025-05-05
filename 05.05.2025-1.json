@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Smith",
+    "age": 82,
+    "address": {
+        "street": "Michael Shoals",
+        "city": "Charleneborough",
+        "state": "Hawaii",
+        "zip": "75284"
+    },
+    "contact": {
+        "phone": "001-630-274-8212x7223",
+        "servicePhone": "800344386"
+    },
+    "birthday": "1943-15-10",
+    "ip": "177.227.214.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Kind arrive trouble head always heavy out prevent. Manager conference almost personal not picture.\nInterview this including. Knowledge officer somebody prevent.",
+        "bio": "Trial huge development tend that once walk. Available media yard thought popular.\nAnimal budget degree present activity story its. There treat shake upon everything region. Help machine song likely."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
