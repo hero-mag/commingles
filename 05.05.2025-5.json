@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Garrison",
+    "age": 3,
+    "address": {
+        "street": "Mark Mission",
+        "city": "East Robert",
+        "state": "Delaware",
+        "zip": "27299"
+    },
+    "contact": {
+        "phone": "248-749-9555x91571",
+        "servicePhone": "800888800"
+    },
+    "birthday": "2022-27-12",
+    "ip": "131.217.123.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Soldier put above set middle. Open back investment star woman choose should.\nPlan among population chance perhaps agree. Leg be stay test out fight. Ball physical respond year.",
+        "bio": "Budget leg page whose difficult feel tell walk. Every two suddenly age finish kid. Sing parent activity yes note detail.\nWhich take whom choice. That way husband bag."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
