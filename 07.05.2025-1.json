@@ -1,0 +1,25 @@
+{
+    "name": "Brittney Reyes",
+    "age": 90,
+    "address": {
+        "street": "Riley Trace",
+        "city": "Port Johnfurt",
+        "state": "Virginia",
+        "zip": "42494"
+    },
+    "contact": {
+        "phone": "764.845.4730",
+        "servicePhone": "800304372"
+    },
+    "birthday": "1935-13-08",
+    "ip": "99.20.163.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Mouth traditional paper age religious. Blood each image theory wish again ahead. Type purpose loss per.\nMiss only able tough. Idea including suggest front plant.",
+        "bio": "Officer Democrat yet your opportunity. Seek risk see. She both into arrive for final.\nFace us foreign next. Sea bank story leader animal kid field threat."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
