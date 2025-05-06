@@ -1,0 +1,25 @@
+{
+    "name": "Donna Hudson",
+    "age": 50,
+    "address": {
+        "street": "Desiree Fords",
+        "city": "Brownshire",
+        "state": "Kansas",
+        "zip": "92365"
+    },
+    "contact": {
+        "phone": "+1-826-893-6751x4661",
+        "servicePhone": "800076346"
+    },
+    "birthday": "1975-10-09",
+    "ip": "44.90.20.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Marriage laugh often wife. Now already laugh return open culture bank. Recent adult seem lay. Film information treatment throw different its.",
+        "bio": "Memory business blood and later before party. Then difficult senior degree pull usually practice."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
