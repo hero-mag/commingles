@@ -1,0 +1,25 @@
+{
+    "name": "Mary Young",
+    "age": 41,
+    "address": {
+        "street": "Dwayne Plaza",
+        "city": "Griffithmouth",
+        "state": "Kansas",
+        "zip": "48651"
+    },
+    "contact": {
+        "phone": "322.460.7225",
+        "servicePhone": "800655648"
+    },
+    "birthday": "1984-28-06",
+    "ip": "192.13.82.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair nature knowledge shake. Special north increase own put stock.",
+        "bio": "Good everybody clear night. Phone person vote within. News whom itself.\nEdge western so kind statement just treatment. Learn white attack work."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
