@@ -1,0 +1,25 @@
+{
+    "name": "Eric Taylor",
+    "age": 71,
+    "address": {
+        "street": "Cummings Dale",
+        "city": "Karenland",
+        "state": "Delaware",
+        "zip": "75777"
+    },
+    "contact": {
+        "phone": "(858)208-1425x832",
+        "servicePhone": "800255340"
+    },
+    "birthday": "1954-06-02",
+    "ip": "150.118.86.174",
+    "foo": "bar",
+    "profile": {
+        "about": "History loss market drug even hear. Trouble speak visit old occur realize else she.\nCouple become difficult series truth plant let. Crime return job suddenly this maintain old.",
+        "bio": "Wish ago room collection happy well family. Cut cover figure house.\nRock my wear million strong. Reach three skin itself meet budget challenge. Meet finally collection since we quality can."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
