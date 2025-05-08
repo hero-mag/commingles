@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Lindsey",
+    "age": 16,
+    "address": {
+        "street": "Smith Roads",
+        "city": "East Thomas",
+        "state": "Nevada",
+        "zip": "91724"
+    },
+    "contact": {
+        "phone": "788.360.3719x3403",
+        "servicePhone": "800719827"
+    },
+    "birthday": "2009-10-05",
+    "ip": "14.180.33.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship trial purpose pay project artist loss. Military nature computer music. Sing chance international today. Participant ground order company stay respond.",
+        "bio": "Choose over establish collection born. Very security maintain physical than ever artist."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
