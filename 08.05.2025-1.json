@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Lee",
+    "age": 54,
+    "address": {
+        "street": "Jimenez Locks",
+        "city": "East Paulaview",
+        "state": "Mississippi",
+        "zip": "50085"
+    },
+    "contact": {
+        "phone": "224.975.2827",
+        "servicePhone": "800211349"
+    },
+    "birthday": "1971-15-10",
+    "ip": "2.16.86.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Whatever dark between this offer price like. Deep side remain against.\nEnter true from area. Fall voice security fall next surface town. Father measure world certain.",
+        "bio": "Level interview with success between. Require not his still.\nNetwork yeah future capital cost. Everybody suffer administration you back bar."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
