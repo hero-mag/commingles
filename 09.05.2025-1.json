@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Castillo",
+    "age": 15,
+    "address": {
+        "street": "Duane Green",
+        "city": "East Justinstad",
+        "state": "Idaho",
+        "zip": "06332"
+    },
+    "contact": {
+        "phone": "404.748.9886x184",
+        "servicePhone": "800460586"
+    },
+    "birthday": "2010-05-06",
+    "ip": "52.95.89.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Decide give control usually meeting size. Lawyer matter understand two. Character understand sea yourself analysis executive.\nTeam win side watch maintain sort. Glass age exist.",
+        "bio": "Agree few early college. Officer method professional defense court thus. Door international plan mean."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
