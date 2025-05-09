@@ -1,0 +1,25 @@
+{
+    "name": "Collin Campbell",
+    "age": 10,
+    "address": {
+        "street": "Velazquez Lake",
+        "city": "Wrightbury",
+        "state": "Maine",
+        "zip": "50578"
+    },
+    "contact": {
+        "phone": "714.400.5637x06537",
+        "servicePhone": "800978505"
+    },
+    "birthday": "2015-14-07",
+    "ip": "40.73.230.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Pretty executive kitchen either network vote rather.\nRecognize stand yeah fly final four cold. Back recognize world write forward trip. Boy well national Mrs sort.",
+        "bio": "Politics subject bad. House wind example dark get little."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
