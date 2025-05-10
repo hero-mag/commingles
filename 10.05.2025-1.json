@@ -1,0 +1,25 @@
+{
+    "name": "Lori Mendez",
+    "age": 76,
+    "address": {
+        "street": "Berry Dale",
+        "city": "Briannafort",
+        "state": "Hawaii",
+        "zip": "51373"
+    },
+    "contact": {
+        "phone": "637.258.6891x8121",
+        "servicePhone": "800600031"
+    },
+    "birthday": "1949-04-07",
+    "ip": "181.169.107.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain tax stay time develop. Media their series price suffer ready number least. Give single term particularly time.\nHuge measure adult theory.",
+        "bio": "View herself range.\nParticularly study send market value least figure. According firm later relate knowledge nation modern relate. Moment minute agree. Second audience fine sure."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
