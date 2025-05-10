@@ -1,0 +1,25 @@
+{
+    "name": "David Fry",
+    "age": 20,
+    "address": {
+        "street": "Fisher Track",
+        "city": "Obrienside",
+        "state": "North Carolina",
+        "zip": "39214"
+    },
+    "contact": {
+        "phone": "+1-555-496-3323x32204",
+        "servicePhone": "800422531"
+    },
+    "birthday": "2005-31-12",
+    "ip": "122.12.37.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Action pretty every imagine trip condition third next. Professional mind room window direction data nation. And drug culture minute moment law test.\nQuality day air coach water finally third toward.",
+        "bio": "Lay site must into. Whether school ten perhaps reveal mean never.\nSingle shake thank certainly many debate industry section. Will keep brother treat consider long actually."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
