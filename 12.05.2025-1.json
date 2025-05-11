@@ -1,0 +1,25 @@
+{
+    "name": "Tony Clay",
+    "age": 86,
+    "address": {
+        "street": "Jesse Ports",
+        "city": "Port Ryan",
+        "state": "New Hampshire",
+        "zip": "28177"
+    },
+    "contact": {
+        "phone": "812.763.0864",
+        "servicePhone": "800697003"
+    },
+    "birthday": "1939-24-12",
+    "ip": "215.124.184.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Several share line matter doctor should dark. Time your range spend glass citizen. Feeling south painting turn without.\nTraining own stand. Example nearly admit action.",
+        "bio": "Production apply plan four forward also. Meeting me draw strong about know.\nModern once common surface. Rather fund area them. Politics nothing director decide."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
