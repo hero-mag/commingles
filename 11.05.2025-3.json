@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hernandez",
+    "age": 59,
+    "address": {
+        "street": "Gonzalez Center",
+        "city": "Rileybury",
+        "state": "Wyoming",
+        "zip": "96242"
+    },
+    "contact": {
+        "phone": "676.509.9285",
+        "servicePhone": "800945729"
+    },
+    "birthday": "1966-07-05",
+    "ip": "58.176.67.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Name beyond thank moment southern per. However here authority experience summer character. Type pretty seem heavy.\nHer yes see so point. Work order similar without. Create sing actually model grow.",
+        "bio": "End simple leg east different if. Skill no remember call.\nAir fire month.\nSouthern culture research yourself if worry history. Win south buy white. Place thousand night suggest set change."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
