@@ -1,0 +1,25 @@
+{
+    "name": "Marc Guzman",
+    "age": 52,
+    "address": {
+        "street": "Rhonda Trail",
+        "city": "East Taylorchester",
+        "state": "Indiana",
+        "zip": "42441"
+    },
+    "contact": {
+        "phone": "308-334-7053x39047",
+        "servicePhone": "800009745"
+    },
+    "birthday": "1973-03-01",
+    "ip": "124.176.57.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Street up couple wide skin event its themselves. Physical red generation tend medical choice boy six. Outside seven education.",
+        "bio": "Foot total order meeting. Step protect travel day finally trial industry. Subject plant agency operation beautiful worry wide.\nChoose gas star miss. Center draw stock still above."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
