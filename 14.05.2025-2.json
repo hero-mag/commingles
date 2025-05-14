@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Rios",
+    "age": 89,
+    "address": {
+        "street": "Juan Stravenue",
+        "city": "East Jacob",
+        "state": "Minnesota",
+        "zip": "87373"
+    },
+    "contact": {
+        "phone": "4816537251",
+        "servicePhone": "800481990"
+    },
+    "birthday": "1936-19-02",
+    "ip": "128.210.9.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce treat standard onto each bed feel reveal. Debate avoid customer half.\nCondition choose difference prevent party friend. Concern walk or kid side reflect.",
+        "bio": "Their purpose Republican use. Close cover election cultural tend above husband."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
