@@ -1,0 +1,25 @@
+{
+    "name": "Jason Day",
+    "age": 73,
+    "address": {
+        "street": "Malone Stravenue",
+        "city": "Johnview",
+        "state": "Alabama",
+        "zip": "61738"
+    },
+    "contact": {
+        "phone": "607.656.1779x91388",
+        "servicePhone": "800422946"
+    },
+    "birthday": "1952-12-11",
+    "ip": "107.235.130.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Already I Republican reveal understand dog we task. Race ahead plant away. Term animal find rule finally.\nHow Mrs relate only necessary study ask. Speech city detail bit.",
+        "bio": "Item fly lawyer during.\nAmerican garden free somebody water. Possible fish form research usually. Method similar want rich."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
