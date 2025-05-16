@@ -1,0 +1,25 @@
+{
+    "name": "Makayla Ibarra",
+    "age": 48,
+    "address": {
+        "street": "Kelli Rapids",
+        "city": "New Tracy",
+        "state": "Idaho",
+        "zip": "56665"
+    },
+    "contact": {
+        "phone": "+1-273-512-6332",
+        "servicePhone": "800995963"
+    },
+    "birthday": "1977-25-05",
+    "ip": "161.44.132.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Why ask direction identify report response machine. Cold food product others rest likely those. Program outside high establish.",
+        "bio": "Member back remember site machine society worker deal. Left family none team performance from. Others record military include."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
