@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Williams",
+    "age": 78,
+    "address": {
+        "street": "Hoffman Glens",
+        "city": "Cassandramouth",
+        "state": "California",
+        "zip": "48566"
+    },
+    "contact": {
+        "phone": "+1-954-625-2023x7644",
+        "servicePhone": "800974150"
+    },
+    "birthday": "1947-04-06",
+    "ip": "137.241.184.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag hand maybe your hot. Loss some onto data push. Call appear animal poor education home or address.",
+        "bio": "Must after decade author. Shake bar allow carry market cup fact successful.\nGas art which city child. Make go coach indeed price hospital. Station apply reach war likely."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
