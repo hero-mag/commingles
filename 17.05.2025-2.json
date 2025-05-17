@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Brown",
+    "age": 75,
+    "address": {
+        "street": "Alexandra Skyway",
+        "city": "Kylemouth",
+        "state": "Nevada",
+        "zip": "13135"
+    },
+    "contact": {
+        "phone": "(531)814-7731",
+        "servicePhone": "800832211"
+    },
+    "birthday": "1950-21-08",
+    "ip": "75.89.105.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Us visit hear management hard support receive. Mind citizen blue raise study. Guy either able sell though girl most.",
+        "bio": "Drug these allow account arm. Industry realize cover most."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
