@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Simmons",
+    "age": 49,
+    "address": {
+        "street": "Green Key",
+        "city": "South Michael",
+        "state": "California",
+        "zip": "51875"
+    },
+    "contact": {
+        "phone": "001-921-924-8906x620",
+        "servicePhone": "800893624"
+    },
+    "birthday": "1976-19-11",
+    "ip": "172.117.242.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Course budget whom build turn guess teach.\nLeave play across. Ball star book.\nYou check person miss cause practice star.\nGun reveal common like street forget. Once security still smile.",
+        "bio": "Difference store voice recently. Wear cause record huge appear follow stuff design."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
