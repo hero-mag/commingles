@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Avila",
+    "age": 113,
+    "address": {
+        "street": "Jay Bypass",
+        "city": "West Juliehaven",
+        "state": "North Dakota",
+        "zip": "62766"
+    },
+    "contact": {
+        "phone": "878.647.2998",
+        "servicePhone": "800443059"
+    },
+    "birthday": "1912-08-03",
+    "ip": "74.158.32.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Particularly write just need our. Chair with road feel what give. Quality others wind account bar.\nOf determine owner commercial consider career decision likely.",
+        "bio": "Dream environmental civil. Century design oil bit else.\nFine risk indeed wear too bring likely. Only understand history model course generation. Travel war senior kid."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
