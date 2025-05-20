@@ -1,0 +1,25 @@
+{
+    "name": "Angelica Vargas",
+    "age": 92,
+    "address": {
+        "street": "Jones Mills",
+        "city": "Gravesside",
+        "state": "West Virginia",
+        "zip": "03419"
+    },
+    "contact": {
+        "phone": "+1-908-606-2635x0674",
+        "servicePhone": "800599555"
+    },
+    "birthday": "1933-12-10",
+    "ip": "165.77.9.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Great maybe not church science continue safe. Itself degree able wish turn also.\nSeat technology model wide. Contain close road star college personal general.",
+        "bio": "Wear trip garden risk night team. Forget more she national choose.\nBody guess real modern less record.\nSpeech also tough set. Difficult save order investment recently try bring."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
