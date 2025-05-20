@@ -1,0 +1,25 @@
+{
+    "name": "Hunter Larson",
+    "age": 53,
+    "address": {
+        "street": "Herring Common",
+        "city": "South William",
+        "state": "North Dakota",
+        "zip": "44640"
+    },
+    "contact": {
+        "phone": "(578)350-6379x9748",
+        "servicePhone": "800971940"
+    },
+    "birthday": "1972-29-02",
+    "ip": "222.168.119.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Share inside sell poor sure different party. Morning outside Democrat suggest place glass. Best painting when both public.\nPicture onto parent that camera purpose.",
+        "bio": "Know apply gun your expect animal. Tv matter ground baby yes who religious. Wear student practice police whom moment management.\nPresident message tonight Democrat response difficult long too."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
