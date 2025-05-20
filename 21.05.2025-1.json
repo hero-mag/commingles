@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Walker",
+    "age": 77,
+    "address": {
+        "street": "Sanders Throughway",
+        "city": "Taylorbury",
+        "state": "Pennsylvania",
+        "zip": "32277"
+    },
+    "contact": {
+        "phone": "(821)438-4606",
+        "servicePhone": "800651007"
+    },
+    "birthday": "1948-04-10",
+    "ip": "10.106.247.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Feeling production form value. Realize bill them hot tonight hope hear. Lawyer exist save head use.\nStrong image allow end treatment morning. Claim sound wonder kind.",
+        "bio": "Theory cause inside kind near. Dark show will change. Each threat reason join listen actually. Recognize candidate worry suggest.\nWhile conference sing pretty why green just. So here small world."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
