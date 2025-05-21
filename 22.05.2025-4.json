@@ -1,0 +1,25 @@
+{
+    "name": "Alexa King",
+    "age": 51,
+    "address": {
+        "street": "Patrick Squares",
+        "city": "Johnsonfurt",
+        "state": "Kansas",
+        "zip": "62485"
+    },
+    "contact": {
+        "phone": "(237)958-7425x2844",
+        "servicePhone": "800780749"
+    },
+    "birthday": "1974-25-04",
+    "ip": "194.201.221.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Act other democratic trial. Relate process eat join its. Mr page foreign significant our onto.",
+        "bio": "Assume evidence painting poor each. Group collection anything seem grow. Finally various assume major.\nIssue allow seven watch. Including left huge camera Mr. Lose also door issue political."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
