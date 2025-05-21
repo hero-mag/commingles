@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Mitchell",
+    "age": 48,
+    "address": {
+        "street": "James Bypass",
+        "city": "West Saraport",
+        "state": "Hawaii",
+        "zip": "99351"
+    },
+    "contact": {
+        "phone": "+1-444-899-5600x77944",
+        "servicePhone": "800037755"
+    },
+    "birthday": "1977-05-03",
+    "ip": "156.65.39.145",
+    "foo": "bar",
+    "profile": {
+        "about": "International practice whom only prove. Herself raise social hand most determine he do. After south hot kitchen crime.\nEverything move computer drug return. Above color Mrs improve apply serious.",
+        "bio": "Both stuff until beautiful police. Where someone little put product. Simply art agree. She wife environmental animal read."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
