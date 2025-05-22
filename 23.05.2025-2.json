@@ -1,0 +1,25 @@
+{
+    "name": "Christopher West",
+    "age": 19,
+    "address": {
+        "street": "Stephen Skyway",
+        "city": "Kristenmouth",
+        "state": "California",
+        "zip": "32454"
+    },
+    "contact": {
+        "phone": "+1-760-441-5010x13452",
+        "servicePhone": "800664494"
+    },
+    "birthday": "2006-16-06",
+    "ip": "1.12.14.54",
+    "foo": "bar",
+    "profile": {
+        "about": "How clearly ask break itself hit. Paper dinner performance partner next another street.\nLittle realize full each vote skin. Old third letter young about view arrive.",
+        "bio": "Real book rich try rise and development point. Floor memory the improve western time painting. Strategy situation despite low research song chance. Large wear late hot hard this ready."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
