@@ -1,0 +1,25 @@
+{
+    "name": "Amy Cain",
+    "age": 38,
+    "address": {
+        "street": "Santana Viaduct",
+        "city": "Donnashire",
+        "state": "Tennessee",
+        "zip": "65952"
+    },
+    "contact": {
+        "phone": "5515864061",
+        "servicePhone": "800307661"
+    },
+    "birthday": "1987-20-03",
+    "ip": "205.202.51.172",
+    "foo": "bar",
+    "profile": {
+        "about": "In newspaper education owner maybe rest. Include student type bed event woman full.\nBag young field less to discussion. Sea situation off.",
+        "bio": "Behavior special home natural several task.\nWorker reveal resource agent say trouble model. Protect however own free expect statement happen. Eye wall southern art director."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
