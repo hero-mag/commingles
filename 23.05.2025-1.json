@@ -1,0 +1,25 @@
+{
+    "name": "Heather Chandler",
+    "age": 83,
+    "address": {
+        "street": "Jones Court",
+        "city": "Doyleside",
+        "state": "Arkansas",
+        "zip": "06112"
+    },
+    "contact": {
+        "phone": "407-638-2504",
+        "servicePhone": "800359951"
+    },
+    "birthday": "1942-26-03",
+    "ip": "120.120.40.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Style air itself they unit choice whom. Fine ago property on deep.\nJust along law. Make join story hospital lay sister his industry. Truth beyond score raise good. Unit thus impact direction eight.",
+        "bio": "Similar real theory likely. Poor everyone vote win night at. Picture song sea play.\nVoice play out some common wall wish. Result how including forward. Despite table discuss so many."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
