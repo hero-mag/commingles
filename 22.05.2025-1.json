@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Young",
+    "age": 29,
+    "address": {
+        "street": "Miller Garden",
+        "city": "Lake Daniel",
+        "state": "Oklahoma",
+        "zip": "48406"
+    },
+    "contact": {
+        "phone": "458-913-1963",
+        "servicePhone": "800865495"
+    },
+    "birthday": "1996-15-10",
+    "ip": "116.106.156.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether study itself recognize than cost kitchen including. Past not child son easy. By second account.\nOpportunity their property another heart.",
+        "bio": "Event close truth woman. Approach among decision bed ever eight like born.\nExpert kind experience consumer head. Local next maybe wrong. Nothing thought class include thought."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
