@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Sanchez",
+    "age": 78,
+    "address": {
+        "street": "Medina Knoll",
+        "city": "Lynnfort",
+        "state": "Utah",
+        "zip": "98966"
+    },
+    "contact": {
+        "phone": "001-900-626-9622x4906",
+        "servicePhone": "800514989"
+    },
+    "birthday": "1947-26-05",
+    "ip": "162.109.249.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Product former hospital million. Him wall financial even can out. Natural myself reason more.",
+        "bio": "Will left cup help soldier concern operation. Artist change term spring operation design source.\nAgent year state live continue. Stand fear north. Half through yourself yeah."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
