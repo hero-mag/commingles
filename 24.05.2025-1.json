@@ -1,0 +1,25 @@
+{
+    "name": "Caroline Bender",
+    "age": 59,
+    "address": {
+        "street": "Haney Circle",
+        "city": "Jonesstad",
+        "state": "Nebraska",
+        "zip": "00821"
+    },
+    "contact": {
+        "phone": "(272)909-5743x22341",
+        "servicePhone": "800888908"
+    },
+    "birthday": "1966-05-12",
+    "ip": "181.173.115.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer over away from down.\nActivity eight manager behavior. Blue around table prepare adult country person. Strong long student six record. Especially late tax win force.",
+        "bio": "Ever only pick. Then bit statement simple. Receive stand recent despite here interesting artist.\nBy his rise produce. Feel see country decision."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
