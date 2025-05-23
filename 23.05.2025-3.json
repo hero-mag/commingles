@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Robinson",
+    "age": 111,
+    "address": {
+        "street": "Nelson Fall",
+        "city": "Richardport",
+        "state": "New Jersey",
+        "zip": "30735"
+    },
+    "contact": {
+        "phone": "412.222.6659x474",
+        "servicePhone": "800215709"
+    },
+    "birthday": "1914-12-10",
+    "ip": "57.121.15.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine be relate difficult wife question popular. Dinner fish though interest. Dream eight safe year office. Language traditional hospital rate.\nPlayer cup side full.",
+        "bio": "Even according service believe staff medical. Under training language serious west morning resource interesting."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
