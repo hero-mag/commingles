@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Nelson",
+    "age": 43,
+    "address": {
+        "street": "Emma Curve",
+        "city": "Barnettside",
+        "state": "Montana",
+        "zip": "54512"
+    },
+    "contact": {
+        "phone": "001-440-526-5299x2689",
+        "servicePhone": "800395759"
+    },
+    "birthday": "1982-15-02",
+    "ip": "210.134.33.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Claim process building total exist resource deep necessary. Determine bank voice heart major major.",
+        "bio": "Fact rather wide majority thousand this yet walk. Growth itself short day marriage. Without affect stock.\nLive region attorney role process she music example. Player network choose whatever."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
