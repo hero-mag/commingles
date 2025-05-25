@@ -1,0 +1,25 @@
+{
+    "name": "Ms. Teresa Fleming",
+    "age": 60,
+    "address": {
+        "street": "Melissa Canyon",
+        "city": "New Rebeccafurt",
+        "state": "Arizona",
+        "zip": "22536"
+    },
+    "contact": {
+        "phone": "001-352-416-4523x8640",
+        "servicePhone": "800477080"
+    },
+    "birthday": "1965-09-04",
+    "ip": "176.33.70.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Field message expert exactly thing even. Person kind none address civil short.\nReveal cup least animal follow successful how enjoy. Make history hand sometimes agree.",
+        "bio": "Wife out if third seat long head. Decision require develop trade protect also peace. Its song air significant task animal word paper.\nSoldier film stock black detail customer interesting history."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
