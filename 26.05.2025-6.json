@@ -1,0 +1,25 @@
+{
+    "name": "Darrell Phillips",
+    "age": 107,
+    "address": {
+        "street": "Taylor Spur",
+        "city": "Port Brandonberg",
+        "state": "Florida",
+        "zip": "05305"
+    },
+    "contact": {
+        "phone": "514.201.3690x602",
+        "servicePhone": "800570119"
+    },
+    "birthday": "1918-20-08",
+    "ip": "124.133.24.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Coach Republican character product past explain.\nLight list car. Forward wife to.\nHope help marriage note sit cause. Skin push at effort body third.",
+        "bio": "Industry after away trade whatever. Hour cover matter new become clearly. Probably song interesting player huge fear the show."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
