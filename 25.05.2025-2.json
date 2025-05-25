@@ -1,0 +1,25 @@
+{
+    "name": "David Moore",
+    "age": 29,
+    "address": {
+        "street": "Megan Ranch",
+        "city": "New Annette",
+        "state": "Vermont",
+        "zip": "71271"
+    },
+    "contact": {
+        "phone": "001-774-575-5534x688",
+        "servicePhone": "800972046"
+    },
+    "birthday": "1996-19-06",
+    "ip": "73.218.6.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Federal hospital loss company what although officer. Father this carry former drive pretty data poor.",
+        "bio": "Charge notice although instead peace than past. Image matter strategy head involve a including him. Write share possible employee relate morning."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
