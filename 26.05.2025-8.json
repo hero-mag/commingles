@@ -1,0 +1,25 @@
+{
+    "name": "Renee Salazar",
+    "age": 99,
+    "address": {
+        "street": "Stephanie Cove",
+        "city": "Johnsonchester",
+        "state": "Alaska",
+        "zip": "04062"
+    },
+    "contact": {
+        "phone": "001-915-618-4901",
+        "servicePhone": "800480390"
+    },
+    "birthday": "1926-03-11",
+    "ip": "207.200.103.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Hair show bar radio. Draw style treatment weight believe.\nGo child PM rest mother. Exactly explain sit see participant. Thing color across former contain.",
+        "bio": "Get couple discover particularly send. Them general order upon. Evidence animal fish enough stand form little affect.\nEvidence data here house.\nReal age deep wait. Lead up score near."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
