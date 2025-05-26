@@ -1,0 +1,25 @@
+{
+    "name": "Charles Robbins",
+    "age": 20,
+    "address": {
+        "street": "Cynthia Prairie",
+        "city": "Lake Mike",
+        "state": "Wisconsin",
+        "zip": "23789"
+    },
+    "contact": {
+        "phone": "(305)360-6469",
+        "servicePhone": "800398396"
+    },
+    "birthday": "2005-05-03",
+    "ip": "61.59.89.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Look represent daughter staff culture. Stop somebody then beautiful painting successful practice. Establish man sometimes front close score. Suddenly different focus finish.",
+        "bio": "Each manage building until. Station great family who tonight light people hour. Manager purpose here human believe gun."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
