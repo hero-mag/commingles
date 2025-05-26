@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Johnson",
+    "age": 44,
+    "address": {
+        "street": "Robin Burg",
+        "city": "Edwardburgh",
+        "state": "Virginia",
+        "zip": "22820"
+    },
+    "contact": {
+        "phone": "451.618.9369x23902",
+        "servicePhone": "800241254"
+    },
+    "birthday": "1981-22-01",
+    "ip": "171.19.135.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Each way occur seem benefit. Alone prove bag man road coach threat.",
+        "bio": "Listen yet usually product. Student with chair conference.\nMight put actually certainly fast design. Great trial onto."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
