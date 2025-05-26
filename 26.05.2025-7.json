@@ -1,0 +1,25 @@
+{
+    "name": "Kim Harrington",
+    "age": 105,
+    "address": {
+        "street": "Padilla Key",
+        "city": "Osbornfurt",
+        "state": "Indiana",
+        "zip": "67010"
+    },
+    "contact": {
+        "phone": "(400)320-0870",
+        "servicePhone": "800835477"
+    },
+    "birthday": "1920-20-05",
+    "ip": "176.32.38.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Strategy area often. Free recognize have. Seek stock book threat something discuss. Determine director central able approach share fight skin.",
+        "bio": "Bad you around election. Under city course early. Her food wait dog result rule firm.\nBusiness relationship young first politics buy for want. Amount sit voice front. Tonight girl sister success."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
