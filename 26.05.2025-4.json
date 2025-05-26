@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Keller",
+    "age": 108,
+    "address": {
+        "street": "Carla Trafficway",
+        "city": "Flynnside",
+        "state": "Montana",
+        "zip": "36378"
+    },
+    "contact": {
+        "phone": "6105844417",
+        "servicePhone": "800796656"
+    },
+    "birthday": "1917-09-03",
+    "ip": "75.43.191.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood ground so church different firm clear movie. Hit seek power ball fine sing professor.",
+        "bio": "Effect per leave newspaper. Physical behind than security."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
