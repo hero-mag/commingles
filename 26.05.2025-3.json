@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Forbes",
+    "age": 113,
+    "address": {
+        "street": "Thompson Road",
+        "city": "Arnoldshire",
+        "state": "Oregon",
+        "zip": "62896"
+    },
+    "contact": {
+        "phone": "866.791.2243",
+        "servicePhone": "800036771"
+    },
+    "birthday": "1912-09-03",
+    "ip": "102.25.166.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Themselves manager least impact same consider right. Not wall involve radio improve most understand. Dinner attorney page professional pressure.",
+        "bio": "Peace call particular debate Republican recent strategy. According poor front study."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
