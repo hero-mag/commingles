@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Lee",
+    "age": 84,
+    "address": {
+        "street": "Gomez Station",
+        "city": "South Gabrielleborough",
+        "state": "New Hampshire",
+        "zip": "93783"
+    },
+    "contact": {
+        "phone": "471.539.4971x5302",
+        "servicePhone": "800628021"
+    },
+    "birthday": "1941-16-10",
+    "ip": "40.227.230.60",
+    "foo": "bar",
+    "profile": {
+        "about": "All project blue exist occur share long. Point floor develop effect successful.\nUsually attention experience ready. Machine guess garden within ready.",
+        "bio": "Whose others surface water could option. State happy body trial would science coach. Station line marriage country affect."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
