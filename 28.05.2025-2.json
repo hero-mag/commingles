@@ -1,0 +1,25 @@
+{
+    "name": "Walter Cain Jr.",
+    "age": 30,
+    "address": {
+        "street": "Alan Ridges",
+        "city": "Port Jessicachester",
+        "state": "Massachusetts",
+        "zip": "88971"
+    },
+    "contact": {
+        "phone": "564.409.2838x4577",
+        "servicePhone": "800539282"
+    },
+    "birthday": "1995-16-11",
+    "ip": "112.72.55.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Region tree country visit money. Expect scientist it. Society decide but far same.",
+        "bio": "Finally under push meet agree. Us north between agent whose seem computer.\nShake seven itself service everybody. Amount put its late opportunity. Body result nation education such."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
