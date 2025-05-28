@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Williams",
+    "age": 64,
+    "address": {
+        "street": "Tom Spurs",
+        "city": "Jennifermouth",
+        "state": "South Carolina",
+        "zip": "66727"
+    },
+    "contact": {
+        "phone": "001-307-252-6297x154",
+        "servicePhone": "800728682"
+    },
+    "birthday": "1961-21-05",
+    "ip": "220.183.57.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut entire agreement green of pressure. Seek then continue only forward dinner determine. Score life fear travel close wait.",
+        "bio": "Opportunity music memory military even still company. Why along system often six kind program. Government factor personal thus consider financial them point."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
