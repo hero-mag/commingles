@@ -1,0 +1,25 @@
+{
+    "name": "Ana Hobbs",
+    "age": 73,
+    "address": {
+        "street": "Warren Isle",
+        "city": "East Shawn",
+        "state": "Maryland",
+        "zip": "55124"
+    },
+    "contact": {
+        "phone": "961-896-0942",
+        "servicePhone": "800429428"
+    },
+    "birthday": "1952-29-08",
+    "ip": "180.102.129.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon view time later enjoy. Project either yeah wind off.\nTrue land ask sense politics. Poor modern draw.",
+        "bio": "Play stage there work. Student citizen way reveal analysis."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
