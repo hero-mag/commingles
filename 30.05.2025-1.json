@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Price",
+    "age": 70,
+    "address": {
+        "street": "Michelle Mount",
+        "city": "West Joeville",
+        "state": "Colorado",
+        "zip": "66231"
+    },
+    "contact": {
+        "phone": "405-443-2355x2597",
+        "servicePhone": "800914354"
+    },
+    "birthday": "1955-10-12",
+    "ip": "117.27.168.22",
+    "foo": "bar",
+    "profile": {
+        "about": "News quickly against discuss think set. During section daughter north Mrs national song. Decade listen however skill.\nWonder still move middle occur nature. Catch least girl serve.",
+        "bio": "Might stock total strategy just. Trouble stuff ready.\nTwo all spend allow pressure investment pressure. Play meeting sea reality its."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
