@@ -1,0 +1,25 @@
+{
+    "name": "Dale Tyler",
+    "age": 16,
+    "address": {
+        "street": "Michael Fords",
+        "city": "West Matthew",
+        "state": "Wisconsin",
+        "zip": "74279"
+    },
+    "contact": {
+        "phone": "5632257153",
+        "servicePhone": "800562695"
+    },
+    "birthday": "2009-01-02",
+    "ip": "87.236.68.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Performance from hand air. Rule within thing lead as simply give. While doctor there lead tell.",
+        "bio": "Rather ten speech. Build weight space step. Admit animal color seek television article.\nBe TV middle. Different lot between anything."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
