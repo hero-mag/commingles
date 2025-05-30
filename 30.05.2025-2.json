@@ -1,0 +1,25 @@
+{
+    "name": "Alexandra Davis",
+    "age": 35,
+    "address": {
+        "street": "Shari Spring",
+        "city": "Sharphaven",
+        "state": "Vermont",
+        "zip": "20201"
+    },
+    "contact": {
+        "phone": "+1-282-444-4724",
+        "servicePhone": "800648300"
+    },
+    "birthday": "1990-07-07",
+    "ip": "57.243.247.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Fight want or nation smile. Response interest which night.\nLife subject maintain religious expect whether. Their resource box edge new. Allow view other likely front do.",
+        "bio": "Green organization half. Listen support never continue. Then likely successful without.\nResponsibility wall central buy. Middle treat center rise into."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
