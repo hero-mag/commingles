@@ -1,0 +1,25 @@
+{
+    "name": "David Fletcher",
+    "age": 64,
+    "address": {
+        "street": "Stewart Centers",
+        "city": "Dylanland",
+        "state": "Alaska",
+        "zip": "05892"
+    },
+    "contact": {
+        "phone": "391-423-8654x8500",
+        "servicePhone": "800273075"
+    },
+    "birthday": "1961-08-08",
+    "ip": "194.100.235.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent worry fish mention training. Outside specific sing camera. Memory there door about former door.",
+        "bio": "Soldier physical fire evidence friend state down. Fight live despite yes notice message. Woman mouth people professor of store adult."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
