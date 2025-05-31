@@ -1,0 +1,25 @@
+{
+    "name": "Madeline Merritt",
+    "age": 77,
+    "address": {
+        "street": "Michelle Ferry",
+        "city": "Hessburgh",
+        "state": "North Carolina",
+        "zip": "02843"
+    },
+    "contact": {
+        "phone": "585.336.3882",
+        "servicePhone": "800421371"
+    },
+    "birthday": "1948-01-02",
+    "ip": "207.179.201.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Rule forward argue page letter. Measure hour operation there. Character tax century.\nSister cold everybody together very white system kitchen. Practice nearly politics list strategy structure.",
+        "bio": "Market six spring sing Democrat difficult else. Reach collection fish only it. That evening environment professor. Describe rock medical area."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
