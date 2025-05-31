@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Jillian Singleton",
+    "age": 77,
+    "address": {
+        "street": "Christopher Unions",
+        "city": "South Manuel",
+        "state": "Oklahoma",
+        "zip": "60263"
+    },
+    "contact": {
+        "phone": "5107612142",
+        "servicePhone": "800650983"
+    },
+    "birthday": "1948-13-11",
+    "ip": "146.248.157.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability gun clear also. Spring would picture today chair part.\nSignificant cup against imagine course factor. Show prevent low suddenly industry size very. Mother air official ready among more.",
+        "bio": "Open within sea design partner law rich. Call surface per before strong whatever appear old."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
