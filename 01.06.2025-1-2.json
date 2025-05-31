@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Martinez",
+    "age": 50,
+    "address": {
+        "street": "Kimberly Canyon",
+        "city": "Joanneland",
+        "state": "Oregon",
+        "zip": "06175"
+    },
+    "contact": {
+        "phone": "+1-828-606-0855x240",
+        "servicePhone": "800734865"
+    },
+    "birthday": "1975-22-05",
+    "ip": "43.4.196.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Hard conference simple let size left option. Republican hold large law be detail west deep. Gun probably bill.\nA summer PM whole. Office type probably teach.",
+        "bio": "Fund choice once three join resource. Alone time visit tree with save. Sound price fast event eat work. Budget hear seem although have."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
