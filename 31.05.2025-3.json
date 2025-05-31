@@ -1,0 +1,25 @@
+{
+    "name": "John Beard",
+    "age": 48,
+    "address": {
+        "street": "Russell Course",
+        "city": "Michelleton",
+        "state": "Tennessee",
+        "zip": "62381"
+    },
+    "contact": {
+        "phone": "866.371.5378x3343",
+        "servicePhone": "800188689"
+    },
+    "birthday": "1977-18-11",
+    "ip": "62.19.233.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Try federal hard certain represent get. Question above call music born. Need trade stuff get hand table adult change.",
+        "bio": "Lead deal surface step service. Remember quality under. Compare finish statement seat raise far choice consider."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
