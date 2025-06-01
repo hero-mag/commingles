@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Scott",
+    "age": 40,
+    "address": {
+        "street": "Barbara Ford",
+        "city": "Nelsonbury",
+        "state": "Idaho",
+        "zip": "76710"
+    },
+    "contact": {
+        "phone": "543-350-8731x8514",
+        "servicePhone": "800067761"
+    },
+    "birthday": "1985-06-07",
+    "ip": "23.218.135.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Writer question dream here song. Yeah imagine partner drive trial sport green possible. Democrat ten go speech store among.\nNote painting discuss. Public issue near order management democratic.",
+        "bio": "Again piece over care city trade mission. Throw brother enter attack approach. Military energy foreign store keep."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
