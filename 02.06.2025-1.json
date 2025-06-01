@@ -1,0 +1,25 @@
+{
+    "name": "Derek Keith",
+    "age": 56,
+    "address": {
+        "street": "Alexander Shoals",
+        "city": "Arroyoside",
+        "state": "Georgia",
+        "zip": "66929"
+    },
+    "contact": {
+        "phone": "902.471.5149",
+        "servicePhone": "800331327"
+    },
+    "birthday": "1969-08-08",
+    "ip": "4.143.71.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish tax we hand without executive all.\nRule them how. Upon plant may lot. Between first author operation.",
+        "bio": "Tough over inside government. Window mention total popular half.\nSuggest worry firm TV. Arrive check represent tend war. Project specific amount firm."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
