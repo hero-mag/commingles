@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Bates",
+    "age": 27,
+    "address": {
+        "street": "Katie Trail",
+        "city": "Adamchester",
+        "state": "Missouri",
+        "zip": "87900"
+    },
+    "contact": {
+        "phone": "934.614.5435",
+        "servicePhone": "800427620"
+    },
+    "birthday": "1998-16-04",
+    "ip": "96.255.215.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Fast everyone country themselves we few include. Event various like role investment marriage dream firm.",
+        "bio": "Management way over everyone statement hit impact figure. Above teacher view everybody difference skill when. Bring decide their report include sell meet."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
