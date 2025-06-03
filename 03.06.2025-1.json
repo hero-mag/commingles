@@ -1,0 +1,25 @@
+{
+    "name": "Karen Erickson",
+    "age": 100,
+    "address": {
+        "street": "Jimenez Forges",
+        "city": "Lorraineburgh",
+        "state": "Ohio",
+        "zip": "88082"
+    },
+    "contact": {
+        "phone": "(248)728-1097",
+        "servicePhone": "800658132"
+    },
+    "birthday": "1925-20-03",
+    "ip": "186.125.168.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Business medical price poor official guess. Figure rather minute evening herself herself.\nOnce fast pretty wait. Table significant society notice eye guess into anyone. Trip thousand sea.",
+        "bio": "Pick lot hope personal notice wide. Mission how catch sure. Sea break case value affect every unit.\nEvening job line wonder simple defense need couple. Student word whose quality law town hold."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
