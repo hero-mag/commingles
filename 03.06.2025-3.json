@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Burton",
+    "age": 19,
+    "address": {
+        "street": "Meghan Shoal",
+        "city": "South Steven",
+        "state": "New Hampshire",
+        "zip": "45756"
+    },
+    "contact": {
+        "phone": "001-429-975-0281x952",
+        "servicePhone": "800826582"
+    },
+    "birthday": "2006-28-03",
+    "ip": "23.84.179.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Else standard interview travel worker exist represent economic. Leader apply foreign fish doctor history indeed. Way down chance director always or hold politics.",
+        "bio": "Become middle need certain. Professor past perform chair.\nOnly table generation finally know. Cup business note discuss industry letter will want. Pattern special detail manage long apply know."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
