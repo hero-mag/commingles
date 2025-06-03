@@ -1,0 +1,25 @@
+{
+    "name": "Debra Hogan",
+    "age": 55,
+    "address": {
+        "street": "Richard Drive",
+        "city": "East Tannerview",
+        "state": "Louisiana",
+        "zip": "55078"
+    },
+    "contact": {
+        "phone": "584.563.9855",
+        "servicePhone": "800797012"
+    },
+    "birthday": "1970-08-11",
+    "ip": "41.6.98.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Air public year. Check off able. Customer represent property point.",
+        "bio": "Investment someone work wall ago. Everybody despite street nice physical than blue.\nSea situation chance camera fish. Share care fear bar clear sign."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
