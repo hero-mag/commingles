@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Cook",
+    "age": 84,
+    "address": {
+        "street": "Simmons Land",
+        "city": "Woodsview",
+        "state": "Massachusetts",
+        "zip": "02123"
+    },
+    "contact": {
+        "phone": "+1-311-436-8512x56335",
+        "servicePhone": "800374430"
+    },
+    "birthday": "1941-30-12",
+    "ip": "184.172.188.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye but agency until structure many. Act significant real specific open can.\nHappen each more series support. Debate whole each project lead parent.",
+        "bio": "Physical fact science audience. Win answer range ok too form.\nFinal involve return month environment vote. Theory per pressure contain president major."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
