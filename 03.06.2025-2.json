@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Gonzales",
+    "age": 108,
+    "address": {
+        "street": "Vang Trail",
+        "city": "Port Wendy",
+        "state": "Delaware",
+        "zip": "37062"
+    },
+    "contact": {
+        "phone": "340.836.3959x321",
+        "servicePhone": "800830540"
+    },
+    "birthday": "1917-08-01",
+    "ip": "197.17.135.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Him tend check blood resource some present. Though friend glass.\nAny her single agent still leg. Foreign help late him.",
+        "bio": "Enter course ready example easy. Produce change west system son really sit. Present development during employee machine international himself quite."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
