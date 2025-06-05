@@ -1,0 +1,25 @@
+{
+    "name": "Justin Dillon",
+    "age": 112,
+    "address": {
+        "street": "Stephanie Union",
+        "city": "North Derekfort",
+        "state": "Michigan",
+        "zip": "16874"
+    },
+    "contact": {
+        "phone": "001-839-942-4698x5228",
+        "servicePhone": "800747220"
+    },
+    "birthday": "1913-01-10",
+    "ip": "206.101.157.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Control politics value.\nBecome lose such American difference dog easy.\nImprove white good tonight. Ever defense parent interview check carry. Ball hair ok recent year live.",
+        "bio": "Artist something our option animal. Music pattern sign. Want claim adult item.\nTraditional few edge energy. Travel management nor yourself art base grow."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
