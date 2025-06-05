@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Ryan",
+    "age": 114,
+    "address": {
+        "street": "Flores Skyway",
+        "city": "Ryanberg",
+        "state": "Louisiana",
+        "zip": "87283"
+    },
+    "contact": {
+        "phone": "(609)392-4280x5879",
+        "servicePhone": "800947361"
+    },
+    "birthday": "1911-04-08",
+    "ip": "141.32.247.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly mouth draw Mr speak happy model. Forget sport option for performance. Talk I ago interview economy responsibility difference.",
+        "bio": "Avoid sort finally industry whom. Enjoy hundred around prepare. War after as pretty food."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
