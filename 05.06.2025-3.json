@@ -1,0 +1,25 @@
+{
+    "name": "Tom Hahn",
+    "age": 77,
+    "address": {
+        "street": "Michael Causeway",
+        "city": "South Betty",
+        "state": "Oregon",
+        "zip": "48744"
+    },
+    "contact": {
+        "phone": "790.252.5337x26222",
+        "servicePhone": "800546412"
+    },
+    "birthday": "1948-14-12",
+    "ip": "86.100.213.101",
+    "foo": "bar",
+    "profile": {
+        "about": "State red the. Bit consumer six animal five.\nClass travel able life painting. Federal parent war sport those toward allow.\nBehind natural man side suddenly.",
+        "bio": "Loss whether simple here.\nContinue meeting play real very maybe follow. Billion blood culture southern their cause attack."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
