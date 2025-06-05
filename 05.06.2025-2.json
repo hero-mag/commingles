@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Reynolds",
+    "age": 3,
+    "address": {
+        "street": "Johnson Fall",
+        "city": "Joemouth",
+        "state": "Arizona",
+        "zip": "21905"
+    },
+    "contact": {
+        "phone": "8468154706",
+        "servicePhone": "800146939"
+    },
+    "birthday": "2022-24-11",
+    "ip": "199.225.88.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Deal white economic national care themselves size. Forward ability most air between us country. Late fear site for bill article experience.",
+        "bio": "Green language do consider test statement win. Level follow claim pull power.\nAcross seat item high hour. Eye artist you she message. Movement into power central draw."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
