@@ -1,0 +1,25 @@
+{
+    "name": "Amy Wright",
+    "age": 26,
+    "address": {
+        "street": "Obrien Drives",
+        "city": "Gregoryborough",
+        "state": "New Jersey",
+        "zip": "06031"
+    },
+    "contact": {
+        "phone": "488-872-0455x82561",
+        "servicePhone": "800777883"
+    },
+    "birthday": "1999-03-04",
+    "ip": "6.56.149.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Imagine involve however manage eye decade. Candidate science method paper. Thus sure go adult site.\nHot but these sort nor message. Charge would morning budget news not tough.",
+        "bio": "Sure cost reflect company land central minute future. Local it what learn range surface.\nCase series ok set education between letter. Wait start answer may. To marriage woman crime past game quickly."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
