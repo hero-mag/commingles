@@ -1,0 +1,25 @@
+{
+    "name": "Darin Little",
+    "age": 53,
+    "address": {
+        "street": "Gonzalez Pike",
+        "city": "Devinberg",
+        "state": "Hawaii",
+        "zip": "56558"
+    },
+    "contact": {
+        "phone": "686.667.7975x55371",
+        "servicePhone": "800809916"
+    },
+    "birthday": "1972-22-04",
+    "ip": "52.234.116.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Now meet economy employee. Movement interesting to occur Mr letter create.\nTalk talk trouble sure control term. Information read along foot collection try doctor. Just east onto many around.",
+        "bio": "A bank east nothing save. Then say same account career charge us. Goal up total certainly day.\nScore themselves enter she blue sit."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
