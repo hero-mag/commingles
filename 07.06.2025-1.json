@@ -1,0 +1,25 @@
+{
+    "name": "Linda Carr",
+    "age": 42,
+    "address": {
+        "street": "Seth Curve",
+        "city": "South Christopher",
+        "state": "Nebraska",
+        "zip": "64635"
+    },
+    "contact": {
+        "phone": "(451)670-8588x2925",
+        "servicePhone": "800861799"
+    },
+    "birthday": "1983-29-11",
+    "ip": "202.58.158.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Our together whom drive sing direction. Statement behavior be throw pass.\nActivity she situation manage each arm difficult. Left back law easy often.",
+        "bio": "Guess agree end.\nWell job official billion up. No talk care strong view. Scientist career guess prepare series offer.\nPattern purpose money whether shake east book thank."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
