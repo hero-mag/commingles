@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Mendoza",
+    "age": 31,
+    "address": {
+        "street": "Hernandez Glens",
+        "city": "North Elizabeth",
+        "state": "Rhode Island",
+        "zip": "45196"
+    },
+    "contact": {
+        "phone": "964.344.3816",
+        "servicePhone": "800913470"
+    },
+    "birthday": "1994-19-11",
+    "ip": "53.80.80.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Although plant artist different senior direction. Sell finish require simple. Beat describe actually hair. Create miss generation similar.",
+        "bio": "Sometimes total learn remember. Beautiful place hotel likely. Goal drop which operation maybe successful. Agreement college heart war special often."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
