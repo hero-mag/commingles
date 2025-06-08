@@ -1,0 +1,25 @@
+{
+    "name": "John Clayton",
+    "age": 5,
+    "address": {
+        "street": "Anna Village",
+        "city": "Lake Joshua",
+        "state": "Florida",
+        "zip": "61629"
+    },
+    "contact": {
+        "phone": "608-538-0436x1648",
+        "servicePhone": "800964590"
+    },
+    "birthday": "2020-29-09",
+    "ip": "222.40.217.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Green Republican bit fine stop personal. Tell may begin wrong main source meet.\nMiddle sort scientist institution indeed. Every sell change fund plant player gas approach.",
+        "bio": "Public travel ground suggest clearly save. Audience finally which threat research act off bag.\nTask generation thus kid. Off while various series."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
