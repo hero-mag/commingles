@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Berg",
+    "age": 46,
+    "address": {
+        "street": "Nicole Street",
+        "city": "Nelsonmouth",
+        "state": "Minnesota",
+        "zip": "97489"
+    },
+    "contact": {
+        "phone": "(992)863-6632x758",
+        "servicePhone": "800344307"
+    },
+    "birthday": "1979-25-08",
+    "ip": "206.119.172.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Account key item treat now rich. Nice hospital over offer who expert sit amount.\nFeeling prove special quality themselves indeed agree visit. Station probably history. Pull join lay everybody.",
+        "bio": "Watch section military rate. Word here wear arrive. Condition determine statement.\nWill stand director surface turn. Social guy popular PM degree individual."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
