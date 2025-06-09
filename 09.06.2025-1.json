@@ -1,0 +1,25 @@
+{
+    "name": "Sabrina Barker",
+    "age": 33,
+    "address": {
+        "street": "Kemp Meadows",
+        "city": "West Williamview",
+        "state": "Florida",
+        "zip": "36100"
+    },
+    "contact": {
+        "phone": "+1-898-715-2804x0191",
+        "servicePhone": "800904208"
+    },
+    "birthday": "1992-27-02",
+    "ip": "217.92.50.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Table attorney benefit certainly woman dinner. General easy finally whole.\nFocus unit wish woman. Deep most partner company politics language west. Fight response likely situation property notice.",
+        "bio": "Benefit spring situation trial growth want. Evening live improve bit before itself.\nLeast save leg small issue. Dream against free almost avoid dream."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
