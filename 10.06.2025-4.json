@@ -1,0 +1,25 @@
+{
+    "name": "Norman Bates",
+    "age": 72,
+    "address": {
+        "street": "Smith Cliffs",
+        "city": "Tranborough",
+        "state": "Missouri",
+        "zip": "71175"
+    },
+    "contact": {
+        "phone": "+1-439-850-8774x41314",
+        "servicePhone": "800574184"
+    },
+    "birthday": "1953-25-01",
+    "ip": "208.225.192.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge example company character close leader firm pattern. Arrive purpose election side building. Four interesting begin every alone.",
+        "bio": "Identify trouble stage surface common guy. Challenge only win form economic.\nFuture move hope power vote concern individual. Woman although meeting note. Only direction morning difference."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
