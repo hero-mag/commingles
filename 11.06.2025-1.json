@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mcpherson",
+    "age": 65,
+    "address": {
+        "street": "Michael Fall",
+        "city": "North Christina",
+        "state": "Utah",
+        "zip": "68507"
+    },
+    "contact": {
+        "phone": "371.687.5719",
+        "servicePhone": "800282297"
+    },
+    "birthday": "1960-06-04",
+    "ip": "99.33.12.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Prove significant skill. Professional blue country gun tough lead technology name. Power exactly beautiful number sure agent. Program one environment general.",
+        "bio": "Base hot take five then likely. Institution onto represent despite. Relationship use approach tree.\nMovement participant no series. Dream any range later road business."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
