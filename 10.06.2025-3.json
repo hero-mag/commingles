@@ -1,0 +1,25 @@
+{
+    "name": "Tyrone Nelson",
+    "age": 113,
+    "address": {
+        "street": "Wade Motorway",
+        "city": "Alexanderport",
+        "state": "Vermont",
+        "zip": "95406"
+    },
+    "contact": {
+        "phone": "335.603.1366",
+        "servicePhone": "800672314"
+    },
+    "birthday": "1912-29-01",
+    "ip": "71.54.244.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Available south free economic all likely. Thousand many wish box each. Necessary thing on.\nOften friend learn. Table successful although business onto technology trip fear.",
+        "bio": "Market society two decade. Later husband practice behavior card begin.\nPlan yes government blood tree six firm. Ask report central name its get care. Star realize material."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
