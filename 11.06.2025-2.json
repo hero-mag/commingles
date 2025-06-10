@@ -1,0 +1,25 @@
+{
+    "name": "Randy Holt",
+    "age": 49,
+    "address": {
+        "street": "Wilcox Rapid",
+        "city": "Torresview",
+        "state": "Alabama",
+        "zip": "66718"
+    },
+    "contact": {
+        "phone": "733.680.7697",
+        "servicePhone": "800797169"
+    },
+    "birthday": "1976-19-12",
+    "ip": "135.28.89.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Piece week Democrat right drug. Popular bed first high mean tonight.\nNone argue Mr staff candidate. Stay any car fly.",
+        "bio": "Once begin method along ball appear significant. Beautiful whatever she design movie quite. Game agree fly interest sea. Arrive under necessary approach provide."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
