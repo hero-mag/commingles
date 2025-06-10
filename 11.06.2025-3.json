@@ -1,0 +1,25 @@
+{
+    "name": "Kerry Mays",
+    "age": 11,
+    "address": {
+        "street": "Rogers Lodge",
+        "city": "Monroemouth",
+        "state": "Michigan",
+        "zip": "94333"
+    },
+    "contact": {
+        "phone": "671.306.9669x2277",
+        "servicePhone": "800427504"
+    },
+    "birthday": "2014-03-02",
+    "ip": "9.79.128.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Drop second open owner. Our part point top discuss information. Get actually challenge like parent billion.",
+        "bio": "Only response either stand close. Total focus center operation culture media I. Network threat difference beyond. They there charge investment use allow all."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
