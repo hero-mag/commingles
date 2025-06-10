@@ -1,0 +1,25 @@
+{
+    "name": "John Perez",
+    "age": 92,
+    "address": {
+        "street": "Murphy Mountain",
+        "city": "Skinnerside",
+        "state": "Missouri",
+        "zip": "78321"
+    },
+    "contact": {
+        "phone": "7249486188",
+        "servicePhone": "800407513"
+    },
+    "birthday": "1933-14-02",
+    "ip": "133.160.200.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch five similar today leave. Drive her risk this air think perform. Pay partner near without those.",
+        "bio": "Set individual move play cost. Save wife spend wind dog writer. Heavy everybody officer culture usually various third rest.\nTerm mind us concern. Evening two order eight."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
