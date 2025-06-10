@@ -1,0 +1,25 @@
+{
+    "name": "Beth Bray",
+    "age": 79,
+    "address": {
+        "street": "Robert Glen",
+        "city": "South Justin",
+        "state": "Nebraska",
+        "zip": "30908"
+    },
+    "contact": {
+        "phone": "001-397-663-2393",
+        "servicePhone": "800920127"
+    },
+    "birthday": "1946-15-04",
+    "ip": "195.26.248.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound various market probably leader. Million officer star purpose chair industry.\nThird way only lose property treat my now. Wall real data station whole laugh simple reduce. Person green professor.",
+        "bio": "Move heavy job parent black approach along. Affect themselves involve of car themselves.\nOn century strategy blood catch. Body vote add situation easy computer present. Collection bag item."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
