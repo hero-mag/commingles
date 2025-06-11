@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Lucero",
+    "age": 45,
+    "address": {
+        "street": "Angela Viaduct",
+        "city": "Lake Adrian",
+        "state": "South Carolina",
+        "zip": "56611"
+    },
+    "contact": {
+        "phone": "411.727.7403",
+        "servicePhone": "800102761"
+    },
+    "birthday": "1980-06-01",
+    "ip": "219.36.221.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Mrs play simple often. Them every official knowledge open success certain.\nTurn easy sort reveal four maintain decade. Doctor sign yard international.",
+        "bio": "Bed apply involve need. Style drop safe camera what. Such toward health can international fear receive individual."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
