@@ -1,0 +1,25 @@
+{
+    "name": "Donald Mendoza",
+    "age": 61,
+    "address": {
+        "street": "Ashley Drive",
+        "city": "Lake Cynthiaport",
+        "state": "Nebraska",
+        "zip": "01824"
+    },
+    "contact": {
+        "phone": "925-305-9021",
+        "servicePhone": "800202999"
+    },
+    "birthday": "1964-10-01",
+    "ip": "54.208.161.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Free city two ready forward. Bit trouble put much. Life similar north believe yeah blood at least.\nStrong seat then although town animal.",
+        "bio": "Prepare get young. Present over here live land make source.\nTry middle through shake quality institution concern treatment."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
