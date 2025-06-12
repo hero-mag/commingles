@@ -1,0 +1,25 @@
+{
+    "name": "Adam Johnson",
+    "age": 113,
+    "address": {
+        "street": "Shaw Pike",
+        "city": "Navarrotown",
+        "state": "Missouri",
+        "zip": "69067"
+    },
+    "contact": {
+        "phone": "+1-761-527-1143x68765",
+        "servicePhone": "800956815"
+    },
+    "birthday": "1912-10-06",
+    "ip": "177.86.43.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical organization similar any. Wear exactly both pull. Positive only research mouth need board situation.\nSeven charge protect page society young. Strategy politics clear start in.",
+        "bio": "Learn success two poor true federal. Turn technology hotel see card rich consider future. See next push across light others."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
