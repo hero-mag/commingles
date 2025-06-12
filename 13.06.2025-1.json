@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Graham",
+    "age": 37,
+    "address": {
+        "street": "Bryan Manor",
+        "city": "Halemouth",
+        "state": "Iowa",
+        "zip": "55908"
+    },
+    "contact": {
+        "phone": "334.925.3769x3083",
+        "servicePhone": "800861550"
+    },
+    "birthday": "1988-29-05",
+    "ip": "69.132.42.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Both culture best stand particularly find their. Short could establish answer interesting try adult. Any sign state federal organization pressure account art.",
+        "bio": "Talk interest account dark after. Culture girl beyond manage. Up tax good receive manager.\nStrong black beat continue and. Family understand land note goal character. Purpose accept act sound."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
