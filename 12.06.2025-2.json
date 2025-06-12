@@ -1,0 +1,25 @@
+{
+    "name": "Alan Jennings",
+    "age": 85,
+    "address": {
+        "street": "Daniel Expressway",
+        "city": "Colemouth",
+        "state": "New Jersey",
+        "zip": "88052"
+    },
+    "contact": {
+        "phone": "781-521-0887",
+        "servicePhone": "800148174"
+    },
+    "birthday": "1940-29-02",
+    "ip": "96.117.90.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Population agency contain television provide. Pattern common personal check. Effect wish major professional.",
+        "bio": "What seek well deep child. Power want but wall move wait program. Like physical relate analysis.\nWatch street rich not might. Treatment forward discussion glass where.\nStyle serious nature skin test."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
