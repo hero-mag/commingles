@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Scott",
+    "age": 36,
+    "address": {
+        "street": "Caroline Crossing",
+        "city": "Alanport",
+        "state": "Oregon",
+        "zip": "72403"
+    },
+    "contact": {
+        "phone": "8489044365",
+        "servicePhone": "800660958"
+    },
+    "birthday": "1989-05-04",
+    "ip": "155.34.140.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Quality our concern fall glass subject top dinner. Item hear bank require.\nHome crime police wife source.\nTv soon arrive talk his they decade. Small across reveal senior beat read family.",
+        "bio": "South popular act opportunity recent anyone win. About cause join Democrat myself hard.\nMan fill play third. Majority board successful sign health."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
