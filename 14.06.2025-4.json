@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Munoz",
+    "age": 112,
+    "address": {
+        "street": "Stephen Valleys",
+        "city": "Brownborough",
+        "state": "Arizona",
+        "zip": "97442"
+    },
+    "contact": {
+        "phone": "(659)968-5734",
+        "servicePhone": "800669496"
+    },
+    "birthday": "1913-29-01",
+    "ip": "144.162.236.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Drive discover physical own. Off expect factor.\nImage measure above wear. Point mouth gun little positive away range. Tree chance worry pressure new.",
+        "bio": "Common industry including thank require. Image consider find though.\nPhone sound something mention service sure. And chance we traditional mission work. Place mind out plant sort similar claim."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
