@@ -1,0 +1,25 @@
+{
+    "name": "Allison Patterson",
+    "age": 11,
+    "address": {
+        "street": "Catherine Garden",
+        "city": "East Briantown",
+        "state": "New Hampshire",
+        "zip": "96564"
+    },
+    "contact": {
+        "phone": "001-641-812-8026x020",
+        "servicePhone": "800001101"
+    },
+    "birthday": "2014-17-04",
+    "ip": "40.253.254.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Forward south news me interview account write. Arm similar line under. Time expert theory vote black structure well.",
+        "bio": "Watch go early matter manager there. Coach news by mention beyond behavior arrive. Main personal prepare according. May wall finish down single action prepare just."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
