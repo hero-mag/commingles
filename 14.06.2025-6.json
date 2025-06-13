@@ -1,0 +1,25 @@
+{
+    "name": "Laura Foster",
+    "age": 15,
+    "address": {
+        "street": "Moody Forest",
+        "city": "Port Danieltown",
+        "state": "Minnesota",
+        "zip": "88139"
+    },
+    "contact": {
+        "phone": "999-721-1947x456",
+        "servicePhone": "800808554"
+    },
+    "birthday": "2010-26-07",
+    "ip": "197.209.39.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Life lead red city break. Set bad catch side smile southern expect.\nAway product physical moment population matter. School under treatment process conference wear tough.",
+        "bio": "View deal professor thus. Value local church.\nInvestment why half perhaps along around. Main capital sport focus."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
