@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Sullivan",
+    "age": 23,
+    "address": {
+        "street": "Brian Ports",
+        "city": "Tammyburgh",
+        "state": "Arkansas",
+        "zip": "35866"
+    },
+    "contact": {
+        "phone": "858-696-3491x549",
+        "servicePhone": "800830331"
+    },
+    "birthday": "2002-29-07",
+    "ip": "146.75.109.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Soldier respond sell majority magazine. Side girl himself purpose site. Himself between Mrs board lot.\nLaw hope same. Police own use.\nFour take reality here evidence. Agent its ask myself.",
+        "bio": "Catch eye company in. Treat growth from word. Different eye always step phone.\nHimself offer rich itself staff note."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
