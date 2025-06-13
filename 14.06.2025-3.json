@@ -1,0 +1,25 @@
+{
+    "name": "Allison Greene",
+    "age": 55,
+    "address": {
+        "street": "Daniels Coves",
+        "city": "Lukechester",
+        "state": "Georgia",
+        "zip": "47363"
+    },
+    "contact": {
+        "phone": "+1-729-602-9149x21189",
+        "servicePhone": "800133680"
+    },
+    "birthday": "1970-05-06",
+    "ip": "113.247.85.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Before morning perform such article. Rise whether scientist collection force industry. Move identify tend under character check. Media improve decade my phone address.",
+        "bio": "Off reason skin example prove. Day economic movement party successful trip. Despite prove wide without. Occur energy baby only green must information."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
