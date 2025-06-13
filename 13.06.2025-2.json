@@ -1,0 +1,25 @@
+{
+    "name": "Frederick Carey",
+    "age": 7,
+    "address": {
+        "street": "Garcia Brook",
+        "city": "West Ashley",
+        "state": "Montana",
+        "zip": "79855"
+    },
+    "contact": {
+        "phone": "+1-429-555-5738x4170",
+        "servicePhone": "800693269"
+    },
+    "birthday": "2018-25-09",
+    "ip": "57.71.103.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole seat soldier another state forward. President send difference executive night drive political job. Become look challenge what note others oil positive. Technology everybody although well.",
+        "bio": "State leg investment everything. Benefit among discussion."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
