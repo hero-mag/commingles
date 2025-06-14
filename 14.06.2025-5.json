@@ -1,0 +1,25 @@
+{
+    "name": "Maria Ward",
+    "age": 1,
+    "address": {
+        "street": "Stewart Mill",
+        "city": "Reynoldschester",
+        "state": "Utah",
+        "zip": "52100"
+    },
+    "contact": {
+        "phone": "457.487.2913x3641",
+        "servicePhone": "800926708"
+    },
+    "birthday": "2024-23-09",
+    "ip": "68.117.51.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough environment television career fine. Cause every wrong local. Move foot outside yard produce allow.\nHigh themselves Democrat. Its former wrong security decide party.",
+        "bio": "Language kid term budget child. Reduce speech as can. Material write share assume. There eat skin trial within chair decade."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
