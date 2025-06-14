@@ -1,0 +1,25 @@
+{
+    "name": "Kirsten Hanson",
+    "age": 77,
+    "address": {
+        "street": "Summer Mills",
+        "city": "North Alison",
+        "state": "New Hampshire",
+        "zip": "34809"
+    },
+    "contact": {
+        "phone": "983-335-8192x75291",
+        "servicePhone": "800454680"
+    },
+    "birthday": "1948-19-11",
+    "ip": "33.73.63.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Who audience PM rule. Write difficult walk adult level market.",
+        "bio": "Likely deal represent yourself sell capital into. Responsibility floor card site some ball.\nEight service baby sense. Doctor serve much no customer get sea."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
