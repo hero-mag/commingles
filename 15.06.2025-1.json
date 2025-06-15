@@ -1,0 +1,25 @@
+{
+    "name": "Lori Conway",
+    "age": 6,
+    "address": {
+        "street": "Frank Squares",
+        "city": "Maynardshire",
+        "state": "Virginia",
+        "zip": "20715"
+    },
+    "contact": {
+        "phone": "+1-204-265-7098x57609",
+        "servicePhone": "800500706"
+    },
+    "birthday": "2019-29-10",
+    "ip": "106.149.119.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Important necessary describe party attack seat talk. Join more everybody drop option.",
+        "bio": "Off all occur. Pay go compare style.\nFinish among animal party. Week near chance research. Visit about eight idea visit free grow."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
