@@ -1,0 +1,25 @@
+{
+    "name": "Jodi Jefferson",
+    "age": 52,
+    "address": {
+        "street": "Crawford Glen",
+        "city": "Port Michael",
+        "state": "South Dakota",
+        "zip": "47196"
+    },
+    "contact": {
+        "phone": "001-268-683-8573x072",
+        "servicePhone": "800534218"
+    },
+    "birthday": "1973-11-03",
+    "ip": "112.9.81.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Hit head point. Occur home ready cultural. Sort conference relate down.\nExpert us need article rest probably letter good. Local idea feel fish bank face difficult rock.",
+        "bio": "Exist stay affect moment everything collection easy.\nPosition purpose girl make energy indeed. The assume like memory situation."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
