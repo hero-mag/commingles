@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Johnson",
+    "age": 0,
+    "address": {
+        "street": "Brian Parkway",
+        "city": "Wilsonhaven",
+        "state": "Mississippi",
+        "zip": "35745"
+    },
+    "contact": {
+        "phone": "(758)794-4652",
+        "servicePhone": "800047136"
+    },
+    "birthday": "2025-08-04",
+    "ip": "43.112.210.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Team ball same help effect gun keep whether. During clear single total. One every expect finally happy left.",
+        "bio": "Father protect threat threat include. Weight manager fire.\nBefore act condition affect trip. Any up provide nature hold rest. Certainly happy apply trial test."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
