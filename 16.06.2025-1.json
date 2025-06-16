@@ -1,0 +1,25 @@
+{
+    "name": "Sara Roberts",
+    "age": 87,
+    "address": {
+        "street": "Williams Extension",
+        "city": "Jeffreyshire",
+        "state": "Kansas",
+        "zip": "14950"
+    },
+    "contact": {
+        "phone": "7375995750",
+        "servicePhone": "800966085"
+    },
+    "birthday": "1938-17-05",
+    "ip": "36.54.215.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Peace discuss really understand spring would. Impact former break knowledge any cell owner. Class again mission road place hot account.",
+        "bio": "Meeting red more fund research country she. You movement herself benefit pressure we recently. Next on space radio sport. Practice language main rule involve ready."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
