@@ -1,0 +1,25 @@
+{
+    "name": "Tamara Rodriguez",
+    "age": 79,
+    "address": {
+        "street": "Michael Spring",
+        "city": "North Alberttown",
+        "state": "Connecticut",
+        "zip": "79167"
+    },
+    "contact": {
+        "phone": "358.254.7883x5807",
+        "servicePhone": "800632797"
+    },
+    "birthday": "1946-02-04",
+    "ip": "77.188.115.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Congress writer about finally community contain. Child loss decision four officer goal wrong. See Mrs treat form. Notice support which full.",
+        "bio": "You similar prove edge. Article Mrs child baby serious thousand. Mission general far majority quality. Certainly how vote under car key today."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
