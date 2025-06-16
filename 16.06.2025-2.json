@@ -1,0 +1,25 @@
+{
+    "name": "Laura Johnson",
+    "age": 105,
+    "address": {
+        "street": "Chen Terrace",
+        "city": "Port Derek",
+        "state": "Montana",
+        "zip": "32095"
+    },
+    "contact": {
+        "phone": "404.378.8084",
+        "servicePhone": "800682592"
+    },
+    "birthday": "1920-02-04",
+    "ip": "71.42.196.0",
+    "foo": "bar",
+    "profile": {
+        "about": "High seven painting what religious skin. Politics short present language interview. Film experience toward entire. Edge evidence hit mother.",
+        "bio": "Other improve in community. Stop last late movie.\nLetter notice meet this.\nLeave discussion single red at. Bit amount on yet reality."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
