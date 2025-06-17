@@ -1,0 +1,25 @@
+{
+    "name": "Sean Meyer",
+    "age": 43,
+    "address": {
+        "street": "Robbins Underpass",
+        "city": "Port Heathertown",
+        "state": "Maryland",
+        "zip": "23114"
+    },
+    "contact": {
+        "phone": "(232)673-0417",
+        "servicePhone": "800378607"
+    },
+    "birthday": "1982-08-01",
+    "ip": "47.128.157.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Record heavy rise deal continue item reason news. Left exactly child stay science official. Throw great lawyer design American.",
+        "bio": "Resource agent head training home off us she. Drive audience leg nor.\nClose plant dinner exist note for. Our half fear direction where successful."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
