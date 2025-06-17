@@ -1,0 +1,25 @@
+{
+    "name": "Scott Vance",
+    "age": 93,
+    "address": {
+        "street": "Susan Ways",
+        "city": "East Susanchester",
+        "state": "Mississippi",
+        "zip": "92546"
+    },
+    "contact": {
+        "phone": "(896)753-6919x1401",
+        "servicePhone": "800068778"
+    },
+    "birthday": "1932-11-09",
+    "ip": "194.10.75.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk shoulder get from risk take half. Pick try message learn fine three back. Machine actually pick baby their discussion a. Something moment growth.",
+        "bio": "Case fund thing may these writer white. Voice specific down score. Field particular seven involve PM wide history."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
