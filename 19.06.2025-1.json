@@ -1,0 +1,25 @@
+{
+    "name": "Sara Campbell",
+    "age": 67,
+    "address": {
+        "street": "Brown Cliff",
+        "city": "Port Valerie",
+        "state": "Iowa",
+        "zip": "87130"
+    },
+    "contact": {
+        "phone": "(345)851-0083x508",
+        "servicePhone": "800379801"
+    },
+    "birthday": "1958-21-01",
+    "ip": "209.175.106.35",
+    "foo": "bar",
+    "profile": {
+        "about": "They source none father indeed value single. Would thus note heart section. Recognize college yet parent material.\nThey international any example experience few.",
+        "bio": "Although water race better. Lawyer respond reflect president however hear.\nBefore different decision market side start."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
