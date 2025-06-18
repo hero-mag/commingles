@@ -1,0 +1,25 @@
+{
+    "name": "Donna Winters",
+    "age": 46,
+    "address": {
+        "street": "Patterson Lane",
+        "city": "Marthaview",
+        "state": "North Carolina",
+        "zip": "05109"
+    },
+    "contact": {
+        "phone": "001-319-543-3136x235",
+        "servicePhone": "800758393"
+    },
+    "birthday": "1979-03-03",
+    "ip": "159.202.127.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Radio chance late game.\nLocal art which usually sometimes. It market section card question want herself. Situation second along high public foot less performance. Enough trip hand eight itself.",
+        "bio": "Right five listen after step. Special keep answer world turn.\nLess shake trade write TV key process population. Until around somebody child you open. Provide real after able middle reflect policy PM."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
