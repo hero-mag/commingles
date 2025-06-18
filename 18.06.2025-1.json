@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Hansen",
+    "age": 54,
+    "address": {
+        "street": "David Course",
+        "city": "Michelleberg",
+        "state": "Nebraska",
+        "zip": "58746"
+    },
+    "contact": {
+        "phone": "(631)644-6938x615",
+        "servicePhone": "800711100"
+    },
+    "birthday": "1971-28-01",
+    "ip": "70.206.180.181",
+    "foo": "bar",
+    "profile": {
+        "about": "One cultural break heart.\nFly assume that wind watch Mr. What oil see rock receive. More office peace break along up.",
+        "bio": "Professor girl be region fast. Plan value throughout which so. Serve plant like until task lead.\nKey true approach cost whatever control.\nFive ten color perhaps anyone least dog."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
