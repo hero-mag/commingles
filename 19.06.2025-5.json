@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Burns",
+    "age": 109,
+    "address": {
+        "street": "Jay Meadow",
+        "city": "Heatherberg",
+        "state": "South Dakota",
+        "zip": "38073"
+    },
+    "contact": {
+        "phone": "(981)608-8633x08904",
+        "servicePhone": "800735497"
+    },
+    "birthday": "1916-07-01",
+    "ip": "19.67.227.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound defense where visit popular floor daughter. Focus door politics road available. Without feeling report political job.\nLong kid from study while recent doctor like.",
+        "bio": "Newspaper executive of free likely identify. Push agreement also forward. Born nothing message position whom speak Mr."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
