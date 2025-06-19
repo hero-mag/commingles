@@ -1,0 +1,25 @@
+{
+    "name": "Clinton Davies",
+    "age": 79,
+    "address": {
+        "street": "Richard Ways",
+        "city": "South Sabrina",
+        "state": "New Jersey",
+        "zip": "11362"
+    },
+    "contact": {
+        "phone": "5139304239",
+        "servicePhone": "800279239"
+    },
+    "birthday": "1946-12-10",
+    "ip": "38.74.62.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal huge story sure house. Seem strategy address water against community mind.\nBeat theory quickly effort create herself. Thousand go address none only peace.",
+        "bio": "Voice feeling relate light young.\nAttorney skill fight clear. Role show stay him score moment consider.\nFollow bar behavior could."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
