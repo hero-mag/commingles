@@ -1,0 +1,25 @@
+{
+    "name": "Christine Lopez",
+    "age": 17,
+    "address": {
+        "street": "Zamora Burg",
+        "city": "New Stacy",
+        "state": "Missouri",
+        "zip": "03932"
+    },
+    "contact": {
+        "phone": "6248417535",
+        "servicePhone": "800578064"
+    },
+    "birthday": "2008-12-08",
+    "ip": "28.92.81.230",
+    "foo": "bar",
+    "profile": {
+        "about": "National whole bit whole so. Expect every should. Red the available.\nGreen sense security. Or exist friend identify cover much.",
+        "bio": "Their beat take partner. Move somebody simple long along left.\nAmong bit response first.\nManager body film fish. Partner lead major smile billion. Hear case place market director central."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
