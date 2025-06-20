@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Jennifer Jackson DVM",
+    "age": 85,
+    "address": {
+        "street": "Hubbard Cove",
+        "city": "Staceyland",
+        "state": "Nevada",
+        "zip": "39915"
+    },
+    "contact": {
+        "phone": "384.826.2886x4008",
+        "servicePhone": "800266222"
+    },
+    "birthday": "1940-17-04",
+    "ip": "48.78.135.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Success occur fast situation.\nVery democratic share coach mother election. Any senior blood three medical guy more. Sign someone possible western listen individual left.",
+        "bio": "Already large yourself hot maybe health like. Not get name chair individual wife economic. Stay sport operation final relate."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
