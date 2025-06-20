@@ -1,0 +1,25 @@
+{
+    "name": "Austin Martinez",
+    "age": 106,
+    "address": {
+        "street": "Lauren Underpass",
+        "city": "Ernestland",
+        "state": "New Jersey",
+        "zip": "64179"
+    },
+    "contact": {
+        "phone": "001-877-327-4661",
+        "servicePhone": "800813043"
+    },
+    "birthday": "1919-24-09",
+    "ip": "74.240.164.183",
+    "foo": "bar",
+    "profile": {
+        "about": "It into state house class. Agreement author perform. Star Republican ball safe certain here born.\nHowever point we some forget treat. Land concern exist part miss out.",
+        "bio": "Reason affect some result school ahead back meet. Stop college anyone involve. Manager western listen occur society civil.\nLine leave do president situation."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
