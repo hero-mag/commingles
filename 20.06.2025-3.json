@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Bradford",
+    "age": 74,
+    "address": {
+        "street": "Rodgers Roads",
+        "city": "Garzaland",
+        "state": "Nevada",
+        "zip": "21073"
+    },
+    "contact": {
+        "phone": "+1-623-954-7358x5919",
+        "servicePhone": "800321885"
+    },
+    "birthday": "1951-26-11",
+    "ip": "31.191.212.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Rate return language man amount ground hot. Main education standard will list. Perhaps school detail president save media.",
+        "bio": "Country meet industry sister large friend. Our reason mouth less.\nManagement think get technology responsibility whom. Idea activity difference common analysis wonder. Least ok become include."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
