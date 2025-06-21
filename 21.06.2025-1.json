@@ -1,0 +1,25 @@
+{
+    "name": "Heather Lindsey",
+    "age": 16,
+    "address": {
+        "street": "Bianca Islands",
+        "city": "Port Anthony",
+        "state": "Tennessee",
+        "zip": "23371"
+    },
+    "contact": {
+        "phone": "+1-780-891-6434",
+        "servicePhone": "800421949"
+    },
+    "birthday": "2009-24-12",
+    "ip": "122.239.170.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Order director seven. Shake become prepare she allow debate how decision. Sell necessary carry.\nSerious standard or example this. Order long certainly charge stay after body. Question consider take.",
+        "bio": "Where somebody face drug boy material. Style reach heart early.\nDraw again trip through. Before message already sort general person."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
