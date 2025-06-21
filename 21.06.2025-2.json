@@ -1,0 +1,25 @@
+{
+    "name": "Jose Ryan",
+    "age": 7,
+    "address": {
+        "street": "Rodriguez Lakes",
+        "city": "Garzaburgh",
+        "state": "Iowa",
+        "zip": "66341"
+    },
+    "contact": {
+        "phone": "(602)572-1978x62425",
+        "servicePhone": "800966675"
+    },
+    "birthday": "2018-28-02",
+    "ip": "188.105.130.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Respond technology without agreement. Million traditional soon.\nGame could near network one. Skin fear situation top thought.",
+        "bio": "Fund culture part example.\nReceive level able case time. Why they moment public challenge."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
