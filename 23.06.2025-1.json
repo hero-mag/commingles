@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Estrada",
+    "age": 100,
+    "address": {
+        "street": "Vasquez Shore",
+        "city": "Jenniferstad",
+        "state": "Mississippi",
+        "zip": "45708"
+    },
+    "contact": {
+        "phone": "+1-281-329-0118x205",
+        "servicePhone": "800258223"
+    },
+    "birthday": "1925-19-07",
+    "ip": "158.131.14.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Station edge training care. Far hospital voice fact.\nCollection phone east mouth different citizen. Six contain certain bag. Its several hair hair stock nature company building.",
+        "bio": "Anything big cost able one nor tax.\nLead PM economy others. Smile pressure rise manager trip other society."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
