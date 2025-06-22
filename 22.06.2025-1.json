@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Williams",
+    "age": 32,
+    "address": {
+        "street": "Alvarado Mount",
+        "city": "Scottchester",
+        "state": "Nebraska",
+        "zip": "22420"
+    },
+    "contact": {
+        "phone": "(624)909-2216",
+        "servicePhone": "800613733"
+    },
+    "birthday": "1993-02-09",
+    "ip": "115.98.255.83",
+    "foo": "bar",
+    "profile": {
+        "about": "South all score. Professional very give then research.",
+        "bio": "Cup police house smile draw thousand drug government. Energy through call movement question oil fire raise. Protect positive total realize."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
