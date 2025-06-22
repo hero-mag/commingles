@@ -1,0 +1,25 @@
+{
+    "name": "Terry Martin",
+    "age": 95,
+    "address": {
+        "street": "Ruth Viaduct",
+        "city": "Mitchellmouth",
+        "state": "Kansas",
+        "zip": "20816"
+    },
+    "contact": {
+        "phone": "276-586-6033x4377",
+        "servicePhone": "800581497"
+    },
+    "birthday": "1930-25-10",
+    "ip": "38.86.161.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Beat pretty meeting little. Around hot class success. Far oil myself expert unit town recently.\nAbout born choose force speech. Already boy shoulder race. Recently glass star.",
+        "bio": "Owner small do feeling through. Approach sell speak true.\nBehind people sport add simply interest. Sure none ground. Specific or stand available state much statement."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
