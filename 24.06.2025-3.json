@@ -1,0 +1,25 @@
+{
+    "name": "Diane Baker",
+    "age": 91,
+    "address": {
+        "street": "Farrell Estates",
+        "city": "Sandrashire",
+        "state": "Kansas",
+        "zip": "97975"
+    },
+    "contact": {
+        "phone": "296-761-5964x5822",
+        "servicePhone": "800013738"
+    },
+    "birthday": "1934-17-07",
+    "ip": "68.45.121.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization institution marriage each in police figure. Financial effect factor culture. Tv down perhaps contain newspaper remember.",
+        "bio": "Stop character pick forward choose. Enough trial mission detail Mr after. Player area dinner send."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
