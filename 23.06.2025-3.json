@@ -1,0 +1,25 @@
+{
+    "name": "David Hernandez",
+    "age": 86,
+    "address": {
+        "street": "Adam River",
+        "city": "Richardtown",
+        "state": "Virginia",
+        "zip": "07741"
+    },
+    "contact": {
+        "phone": "(593)524-7928x7968",
+        "servicePhone": "800207592"
+    },
+    "birthday": "1939-31-05",
+    "ip": "120.36.32.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Represent song late security level material. Film far add name garden night. Enter her weight success foot appear.",
+        "bio": "Level understand foreign because without.\nYoung research seven board agent mouth red. Pick company red simply writer. Agree PM protect material step."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
