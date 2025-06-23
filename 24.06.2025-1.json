@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Tracy Chang",
+    "age": 69,
+    "address": {
+        "street": "Christine Mission",
+        "city": "North Heatherside",
+        "state": "New Mexico",
+        "zip": "33821"
+    },
+    "contact": {
+        "phone": "705.541.8010x119",
+        "servicePhone": "800178167"
+    },
+    "birthday": "1956-16-08",
+    "ip": "52.23.243.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Finish heavy nature moment. Line artist apply management. Your deep action enjoy strategy her.",
+        "bio": "Education local test energy something energy movement. Information than west.\nLeft mother usually. Price help human beautiful."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
