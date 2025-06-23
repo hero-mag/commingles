@@ -1,0 +1,25 @@
+{
+    "name": "Edward Henry",
+    "age": 6,
+    "address": {
+        "street": "Melissa Terrace",
+        "city": "East Aaronmouth",
+        "state": "Arizona",
+        "zip": "66081"
+    },
+    "contact": {
+        "phone": "398-224-1570",
+        "servicePhone": "800112361"
+    },
+    "birthday": "2019-26-12",
+    "ip": "215.222.168.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Other both land. Life including newspaper light. Keep majority team not.",
+        "bio": "Experience start read trade weight model. Safe remain war grow huge."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
