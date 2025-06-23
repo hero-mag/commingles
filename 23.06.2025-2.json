@@ -1,0 +1,25 @@
+{
+    "name": "Colleen Moon",
+    "age": 87,
+    "address": {
+        "street": "Frances Haven",
+        "city": "Lake Christopherhaven",
+        "state": "Indiana",
+        "zip": "85907"
+    },
+    "contact": {
+        "phone": "+1-867-424-4287x2232",
+        "servicePhone": "800243254"
+    },
+    "birthday": "1938-09-12",
+    "ip": "83.168.14.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby coach be here brother clearly. Best girl between arrive step.\nMove official radio friend red want song. War place plan old with really.\nAway design leg politics section.",
+        "bio": "Fight put care network. For no wish one money town.\nGet important she pass.\nFish fire why else radio agent focus. But attention national participant month member upon."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
