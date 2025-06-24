@@ -1,0 +1,25 @@
+{
+    "name": "Robert Brown",
+    "age": 32,
+    "address": {
+        "street": "Benjamin Plaza",
+        "city": "Port Jennifertown",
+        "state": "Montana",
+        "zip": "08410"
+    },
+    "contact": {
+        "phone": "001-627-904-3248",
+        "servicePhone": "800542757"
+    },
+    "birthday": "1993-14-03",
+    "ip": "123.4.219.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Coach main low spend thousand. Official likely must. Great short speak identify everything stay.\nChallenge task able performance star.",
+        "bio": "Rather continue result account situation record continue. Artist despite responsibility energy. Now past way movie word."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
