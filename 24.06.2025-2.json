@@ -1,0 +1,25 @@
+{
+    "name": "Joanne Gibson",
+    "age": 79,
+    "address": {
+        "street": "Sarah Path",
+        "city": "Greenebury",
+        "state": "South Dakota",
+        "zip": "71787"
+    },
+    "contact": {
+        "phone": "9497073425",
+        "servicePhone": "800412455"
+    },
+    "birthday": "1946-03-01",
+    "ip": "104.88.82.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital whose reality kitchen pull. Professional side oil. Professional set onto.\nHour child and Democrat really. General movie factor answer firm.",
+        "bio": "Him nearly several bill much coach usually. Half Mrs attorney white particularly floor memory.\nInterview summer woman window magazine. Author know ok possible risk truth subject."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
