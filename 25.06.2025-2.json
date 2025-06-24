@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Lindsey",
+    "age": 54,
+    "address": {
+        "street": "Eric Walks",
+        "city": "Romeroport",
+        "state": "Alabama",
+        "zip": "53444"
+    },
+    "contact": {
+        "phone": "887.308.6968x7236",
+        "servicePhone": "800313094"
+    },
+    "birthday": "1971-09-06",
+    "ip": "82.53.112.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Strong create few newspaper body.\nThis religious both adult high sort. Someone democratic customer pass. Trade hour perform program data north arm.",
+        "bio": "Term avoid yard yes talk card. Should we drug type reduce federal policy. Every sure fish ok base policy listen."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
