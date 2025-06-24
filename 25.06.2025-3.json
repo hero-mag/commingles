@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Smith",
+    "age": 105,
+    "address": {
+        "street": "Anna Point",
+        "city": "Port Alexisshire",
+        "state": "Idaho",
+        "zip": "91717"
+    },
+    "contact": {
+        "phone": "+1-961-532-9514",
+        "servicePhone": "800113866"
+    },
+    "birthday": "1920-07-02",
+    "ip": "103.202.183.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Herself ability spring. Expect medical thank because after likely head.",
+        "bio": "Memory relationship theory not process artist. Cause care personal mouth likely.\nStop for unit mouth character social. No assume year improve pretty. Candidate yeah within former."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
