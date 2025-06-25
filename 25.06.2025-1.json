@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Mccall",
+    "age": 19,
+    "address": {
+        "street": "Brown Manors",
+        "city": "Timchester",
+        "state": "Alaska",
+        "zip": "28940"
+    },
+    "contact": {
+        "phone": "(304)371-4633",
+        "servicePhone": "800122134"
+    },
+    "birthday": "2006-21-12",
+    "ip": "185.34.129.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship focus raise performance.\nAdult since inside fish contain two. Material oil spend real about. During understand five prepare.",
+        "bio": "Raise white modern method hard year deal. Democrat either whether trial military. Everyone wait full system church professor.\nColor discussion last give old. Go likely two remain very."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
