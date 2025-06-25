@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Moses",
+    "age": 24,
+    "address": {
+        "street": "Stone Mission",
+        "city": "North Christyhaven",
+        "state": "Kansas",
+        "zip": "29106"
+    },
+    "contact": {
+        "phone": "988-943-0107",
+        "servicePhone": "800370224"
+    },
+    "birthday": "2001-22-08",
+    "ip": "66.227.14.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Final similar represent understand house far hot. Dream create him either unit control college. Hotel dinner serious themselves whatever.",
+        "bio": "Media I large although threat ask. Let beautiful staff.\nIndustry perhaps memory by fear example claim you. Door heart tend loss simply. Leg trouble field action sea discussion gun."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
