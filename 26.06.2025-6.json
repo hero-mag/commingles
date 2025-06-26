@@ -1,0 +1,25 @@
+{
+    "name": "Michael Miller Jr.",
+    "age": 102,
+    "address": {
+        "street": "Davis Island",
+        "city": "Williamsonburgh",
+        "state": "Arkansas",
+        "zip": "66908"
+    },
+    "contact": {
+        "phone": "828.970.1259x7694",
+        "servicePhone": "800363319"
+    },
+    "birthday": "1923-24-01",
+    "ip": "147.182.120.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Marriage concern employee budget. Subject east structure expect friend.\nConcern thousand thing. Thank city focus authority much thought. Coach have statement conference same stop.",
+        "bio": "Product arm fund young station capital big. Fine protect chance thus why eat."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
