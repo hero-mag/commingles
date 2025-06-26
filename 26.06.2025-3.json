@@ -1,0 +1,25 @@
+{
+    "name": "Luis Thompson",
+    "age": 19,
+    "address": {
+        "street": "Matthew Underpass",
+        "city": "Melissaside",
+        "state": "New Mexico",
+        "zip": "27175"
+    },
+    "contact": {
+        "phone": "929-236-2509x412",
+        "servicePhone": "800084648"
+    },
+    "birthday": "2006-04-11",
+    "ip": "164.121.125.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Structure list real should. Prevent even open seven pretty discussion. Surface western while wait most country view today.",
+        "bio": "Sport car arrive somebody animal. Southern allow safe I. Young pass effect speak always affect involve."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
