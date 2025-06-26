@@ -1,0 +1,25 @@
+{
+    "name": "Heather Arnold",
+    "age": 1,
+    "address": {
+        "street": "Ronnie Ways",
+        "city": "Port Dannyland",
+        "state": "Michigan",
+        "zip": "21224"
+    },
+    "contact": {
+        "phone": "+1-986-747-3400x880",
+        "servicePhone": "800604637"
+    },
+    "birthday": "2024-22-05",
+    "ip": "72.63.147.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Walk month down. Force probably fish. Education law hand ask such compare new. Writer question computer model once affect want.\nTime now action federal center necessary.",
+        "bio": "Station education short light. Sell herself during compare.\nPhysical official prove rise education. Field small work voice lay eye owner. Color protect age.\nRise in bar."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
