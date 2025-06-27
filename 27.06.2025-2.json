@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Davis",
+    "age": 2,
+    "address": {
+        "street": "David Meadow",
+        "city": "West Henryberg",
+        "state": "Texas",
+        "zip": "61012"
+    },
+    "contact": {
+        "phone": "8628245851",
+        "servicePhone": "800093069"
+    },
+    "birthday": "2023-16-06",
+    "ip": "84.9.194.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Use deal ahead factor father different bed. Top fund data recent century mouth. Century this arm rule cut.\nNumber until what music stock. Measure move itself within. Save describe fact.",
+        "bio": "Blue five better game rate care spring. Lawyer fire sign. Blue computer per across."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
