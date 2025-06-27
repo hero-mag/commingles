@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Johnson",
+    "age": 104,
+    "address": {
+        "street": "Heath Prairie",
+        "city": "East Kimberlyview",
+        "state": "Nevada",
+        "zip": "01055"
+    },
+    "contact": {
+        "phone": "899-653-7503",
+        "servicePhone": "800463785"
+    },
+    "birthday": "1921-26-05",
+    "ip": "90.223.96.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive right official common process. Institution ability inside each. No involve bar memory rest.\nBoy fish better theory. Finish book hard street south customer.",
+        "bio": "Big trade likely thousand. Animal ball seat.\nIndicate seat expert important adult list. Check billion individual foot early sound wind. Those run option worry account continue until."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
