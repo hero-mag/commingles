@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Martin",
+    "age": 49,
+    "address": {
+        "street": "Denise Crest",
+        "city": "Lake Julie",
+        "state": "Utah",
+        "zip": "47155"
+    },
+    "contact": {
+        "phone": "001-587-238-2204x3705",
+        "servicePhone": "800446243"
+    },
+    "birthday": "1976-21-05",
+    "ip": "204.60.117.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Major feeling wife any simply dark direction.\nHappen system most. Later cell however gas product important ok. Miss face rich item program. Smile else measure fire couple especially wonder.",
+        "bio": "Whole season most hear sell main city. Left effect study writer team make hair. Movie form dream quickly serve detail.\nGroup ago hair industry. Until personal option late color garden call."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
