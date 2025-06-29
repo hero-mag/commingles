@@ -1,0 +1,25 @@
+{
+    "name": "April Bender",
+    "age": 39,
+    "address": {
+        "street": "William Keys",
+        "city": "North Curtisstad",
+        "state": "Minnesota",
+        "zip": "48855"
+    },
+    "contact": {
+        "phone": "498.842.5639x659",
+        "servicePhone": "800718085"
+    },
+    "birthday": "1986-03-02",
+    "ip": "156.161.10.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Open any he guess. Music wish trouble later food say authority. Better call PM.\nPm artist eye personal public power price. Open gas small machine every.",
+        "bio": "Single step drive society.\nProtect former thus their development military rather. Between up major exist room."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
