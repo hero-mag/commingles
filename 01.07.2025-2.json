@@ -1,0 +1,25 @@
+{
+    "name": "Susan Clayton",
+    "age": 75,
+    "address": {
+        "street": "Derrick Villages",
+        "city": "North Patriciaton",
+        "state": "Delaware",
+        "zip": "08668"
+    },
+    "contact": {
+        "phone": "+1-454-720-7478x87679",
+        "servicePhone": "800648719"
+    },
+    "birthday": "1950-02-03",
+    "ip": "53.155.67.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Raise dog newspaper attorney sport leader piece. Car hotel court.",
+        "bio": "Modern let movement goal world. Realize commercial until event than difficult color.\nArtist movie minute toward. Need seven might table military. Investment range likely those."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
