@@ -1,0 +1,25 @@
+{
+    "name": "Breanna Zamora",
+    "age": 78,
+    "address": {
+        "street": "Wendy Lane",
+        "city": "Walkerborough",
+        "state": "Rhode Island",
+        "zip": "35210"
+    },
+    "contact": {
+        "phone": "306-385-0308x77189",
+        "servicePhone": "800475832"
+    },
+    "birthday": "1947-16-03",
+    "ip": "178.32.10.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Question according offer strategy minute. Issue company material.\nAfter represent moment truth though morning decade subject.\nRegion right evidence music. Several wonder develop son sea note build.",
+        "bio": "Course table entire. Machine model music future not beyond issue consider. Perform leg without view lose trouble would."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
