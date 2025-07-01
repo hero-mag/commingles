@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Fernandez",
+    "age": 82,
+    "address": {
+        "street": "Garcia Fords",
+        "city": "Lake Matthewton",
+        "state": "Idaho",
+        "zip": "76828"
+    },
+    "contact": {
+        "phone": "762.926.9413",
+        "servicePhone": "800925469"
+    },
+    "birthday": "1943-06-10",
+    "ip": "74.18.158.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Job kid thought do two. Particular likely resource stand owner nor.\nThrow ground avoid term under blood.\nRaise step sure involve full memory road. Nice practice create allow important scene.",
+        "bio": "Investment home skill since effect.\nAlmost point will direction. Fire card imagine think western institution receive.\nSell rich term whatever wide. Soldier statement woman fall beat cause."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
