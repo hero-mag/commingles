@@ -1,0 +1,25 @@
+{
+    "name": "Caitlin Myers",
+    "age": 96,
+    "address": {
+        "street": "Phillips Lock",
+        "city": "South Jamesstad",
+        "state": "Utah",
+        "zip": "86018"
+    },
+    "contact": {
+        "phone": "(755)593-6956x6524",
+        "servicePhone": "800224558"
+    },
+    "birthday": "1929-09-10",
+    "ip": "51.31.35.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Air important above white. Tough people red.\nAny summer seek price. Beat very member human.\nBit hard and identify. Range much clearly. Modern person tonight glass.",
+        "bio": "Author right century benefit crime someone blue. Since number as eight machine beautiful nearly."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
