@@ -1,0 +1,25 @@
+{
+    "name": "Sophia Arias",
+    "age": 97,
+    "address": {
+        "street": "Jaime Ridges",
+        "city": "Vanessachester",
+        "state": "Alabama",
+        "zip": "72709"
+    },
+    "contact": {
+        "phone": "(715)987-6001x3401",
+        "servicePhone": "800627289"
+    },
+    "birthday": "1928-02-10",
+    "ip": "1.234.187.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Parent prepare future. Situation knowledge suggest compare affect.\nAbout alone debate evening bit. Security child deep hair family personal.",
+        "bio": "Gun growth day. Market building movement character few dark. Office public policy similar now item none war. Two program investment operation audience begin capital."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
