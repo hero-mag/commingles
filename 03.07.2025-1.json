@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Brown",
+    "age": 16,
+    "address": {
+        "street": "Nicole Cove",
+        "city": "Leroystad",
+        "state": "California",
+        "zip": "81622"
+    },
+    "contact": {
+        "phone": "(790)714-6935x6980",
+        "servicePhone": "800985295"
+    },
+    "birthday": "2009-17-03",
+    "ip": "63.39.117.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Determine record discover put. Water art by which final physical on.\nWay pick task ability hour air.",
+        "bio": "Realize point back stage onto. Economy action high although wrong. Standard seem site computer boy cause weight.\nNot apply teacher study miss player. Great investment education."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
