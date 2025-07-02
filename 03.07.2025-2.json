@@ -1,0 +1,25 @@
+{
+    "name": "Jason Alvarado",
+    "age": 28,
+    "address": {
+        "street": "Nicole Skyway",
+        "city": "Lake Jennifermouth",
+        "state": "Missouri",
+        "zip": "53355"
+    },
+    "contact": {
+        "phone": "7564983131",
+        "servicePhone": "800367934"
+    },
+    "birthday": "1997-20-08",
+    "ip": "168.222.79.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Both fill while go heavy. Bill environmental improve take I huge. Should impact owner both traditional body our.\nNumber none say sometimes. Great form control campaign black rule.",
+        "bio": "Peace edge see doctor. Themselves talk material knowledge.\nInterview safe most treatment beat according son decide. Field certainly key word. Ago once actually across."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
