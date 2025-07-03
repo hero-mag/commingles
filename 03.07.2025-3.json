@@ -1,0 +1,25 @@
+{
+    "name": "Yolanda Jackson",
+    "age": 20,
+    "address": {
+        "street": "Snyder Underpass",
+        "city": "Brandonstad",
+        "state": "Indiana",
+        "zip": "94768"
+    },
+    "contact": {
+        "phone": "345.774.4395",
+        "servicePhone": "800712035"
+    },
+    "birthday": "2005-27-01",
+    "ip": "14.70.16.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Doctor then baby personal fire character identify. Wind rate green have decade citizen. Road knowledge maintain night trouble popular.",
+        "bio": "Meeting more daughter drive. Morning positive size in city.\nWriter when line out wide stock ask. Development guess moment. Relate need much rather. Meet market know religious identify appear throw."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
