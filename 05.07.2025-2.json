@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Johnson",
+    "age": 81,
+    "address": {
+        "street": "Anderson Islands",
+        "city": "Caldwellville",
+        "state": "Minnesota",
+        "zip": "99061"
+    },
+    "contact": {
+        "phone": "001-399-887-2015x07186",
+        "servicePhone": "800954404"
+    },
+    "birthday": "1944-24-11",
+    "ip": "66.132.210.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Type yard share establish teach positive with some. Son across ahead anyone work.\nAddress often start. Despite modern hit she book let eight. Large through wife which sometimes.",
+        "bio": "Mouth money house despite receive Congress. Cold power shake. More color tax administration.\nWork music affect detail. Which scientist challenge sound main wait born police."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
