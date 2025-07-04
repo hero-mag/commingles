@@ -1,0 +1,25 @@
+{
+    "name": "David Norris",
+    "age": 61,
+    "address": {
+        "street": "Kelly Divide",
+        "city": "South Frederickville",
+        "state": "South Dakota",
+        "zip": "13697"
+    },
+    "contact": {
+        "phone": "814.771.4854x91141",
+        "servicePhone": "800764265"
+    },
+    "birthday": "1964-16-12",
+    "ip": "37.192.44.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Deal thing ground degree accept. Manager establish something idea store example truth.\nMight goal central paper course rate. Church little develop mean.",
+        "bio": "Say whether Democrat goal writer. Defense low TV score stock authority others.\nPick the start. Message create these career challenge fall sense food."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
