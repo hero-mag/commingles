@@ -1,0 +1,25 @@
+{
+    "name": "Patty White",
+    "age": 27,
+    "address": {
+        "street": "Amber Lane",
+        "city": "Lewismouth",
+        "state": "Pennsylvania",
+        "zip": "06014"
+    },
+    "contact": {
+        "phone": "562.790.2162x4542",
+        "servicePhone": "800779216"
+    },
+    "birthday": "1998-12-02",
+    "ip": "204.183.88.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing suddenly shoulder no knowledge so month. As her build alone focus make north.\nListen down if. Former it listen.",
+        "bio": "These candidate five trade either.\nThese something if home. Range however like baby."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
