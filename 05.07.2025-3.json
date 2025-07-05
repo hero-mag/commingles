@@ -1,0 +1,25 @@
+{
+    "name": "Angela Henderson",
+    "age": 91,
+    "address": {
+        "street": "Curry Key",
+        "city": "South Michele",
+        "state": "Oklahoma",
+        "zip": "07040"
+    },
+    "contact": {
+        "phone": "(805)483-4550x529",
+        "servicePhone": "800853675"
+    },
+    "birthday": "1934-19-08",
+    "ip": "60.211.158.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Time face direction color stage fact oil prove. Industry mind kitchen detail. Spring against popular study care skill.",
+        "bio": "Very event teach while child purpose notice. Respond nature lose some movement."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
