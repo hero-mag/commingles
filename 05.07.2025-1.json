@@ -1,0 +1,25 @@
+{
+    "name": "Paul Gross",
+    "age": 110,
+    "address": {
+        "street": "Johnny Loaf",
+        "city": "Hudsonmouth",
+        "state": "Louisiana",
+        "zip": "15828"
+    },
+    "contact": {
+        "phone": "001-819-718-6917x543",
+        "servicePhone": "800196125"
+    },
+    "birthday": "1915-03-04",
+    "ip": "81.73.67.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Town mission serious allow pull anyone. Health baby reason.\nTrue person could individual. Enjoy detail many care maybe.",
+        "bio": "Industry well growth he minute us goal behavior. Catch fight program campaign certainly. Tend heavy the goal so. Market pressure same necessary factor letter over."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
