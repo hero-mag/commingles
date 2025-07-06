@@ -1,0 +1,25 @@
+{
+    "name": "Susan Watkins",
+    "age": 60,
+    "address": {
+        "street": "Erin Springs",
+        "city": "Dorothyside",
+        "state": "North Dakota",
+        "zip": "03056"
+    },
+    "contact": {
+        "phone": "+1-975-618-8854x12060",
+        "servicePhone": "800046624"
+    },
+    "birthday": "1965-08-08",
+    "ip": "87.104.227.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Pretty body often common throw enter. Onto last Democrat matter whether our.\nAlready within window Congress western. Different value break two. Week popular data result.",
+        "bio": "Several late cultural onto.\nEnter tonight let environment raise quality. Catch member become factor practice medical. Low city letter ahead wrong trouble hold."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
