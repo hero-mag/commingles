@@ -1,0 +1,25 @@
+{
+    "name": "James Bailey",
+    "age": 50,
+    "address": {
+        "street": "Tyler Landing",
+        "city": "New Andrewmouth",
+        "state": "Pennsylvania",
+        "zip": "94589"
+    },
+    "contact": {
+        "phone": "248-231-3819x3935",
+        "servicePhone": "800082584"
+    },
+    "birthday": "1975-07-09",
+    "ip": "113.31.107.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Area live while over politics attorney firm. Article key others the.\nVisit thought rich movement same provide that. Election thousand will go smile door its this. Situation tax room spend all.",
+        "bio": "Perform natural network task. Test laugh network green agent certain agency.\nDegree doctor goal yet push couple lose simply. Six could fire. Himself get responsibility center positive weight join."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
