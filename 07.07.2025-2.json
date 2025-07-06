@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Debra Hartman MD",
+    "age": 82,
+    "address": {
+        "street": "Lee Mill",
+        "city": "Sanchezland",
+        "state": "Louisiana",
+        "zip": "82623"
+    },
+    "contact": {
+        "phone": "001-617-245-5016",
+        "servicePhone": "800385851"
+    },
+    "birthday": "1943-08-05",
+    "ip": "88.249.177.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Once understand case behavior career. Agreement development enjoy American treatment blue. Notice worry stay want including.",
+        "bio": "Election than color security ready. One fall consumer side think.\nSupport place effort he. Upon responsibility person his. Top security word remember."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
