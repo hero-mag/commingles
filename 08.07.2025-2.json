@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Johnson",
+    "age": 90,
+    "address": {
+        "street": "Austin Run",
+        "city": "South Eric",
+        "state": "Michigan",
+        "zip": "51418"
+    },
+    "contact": {
+        "phone": "(629)557-9826x2833",
+        "servicePhone": "800763295"
+    },
+    "birthday": "1935-17-09",
+    "ip": "116.74.99.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Land mouth international effect. Seem always professional alone hot or until field. Sign up enter ago attack.",
+        "bio": "High push baby have product resource western old. American black somebody. Character statement true traditional glass Congress truth."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
