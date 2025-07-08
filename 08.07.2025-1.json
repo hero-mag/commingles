@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Chapman",
+    "age": 25,
+    "address": {
+        "street": "Krystal Trafficway",
+        "city": "South Michaelborough",
+        "state": "Colorado",
+        "zip": "44831"
+    },
+    "contact": {
+        "phone": "(837)850-0207",
+        "servicePhone": "800439353"
+    },
+    "birthday": "2000-07-10",
+    "ip": "73.64.252.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter attack after candidate want speech suddenly. Positive entire east hear clearly score leg field.\nThan view east attorney. Ten company side remember rest want need.",
+        "bio": "Feeling community ask data occur. Seven light better western mention. Service specific edge.\nRisk argue ahead. Similar court teacher never board key wife."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
