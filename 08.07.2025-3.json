@@ -1,0 +1,25 @@
+{
+    "name": "Albert Kerr",
+    "age": 106,
+    "address": {
+        "street": "William Ports",
+        "city": "Lake Natashabury",
+        "state": "Massachusetts",
+        "zip": "76836"
+    },
+    "contact": {
+        "phone": "374-758-9238",
+        "servicePhone": "800910982"
+    },
+    "birthday": "1919-08-10",
+    "ip": "168.52.176.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Practice interesting perhaps stand phone structure. Letter head son dark. Thing spend majority.\nFocus once could treatment type member. Be goal happen. Morning form moment trip somebody staff.",
+        "bio": "Point region billion couple ask stop commercial. Especially but ten happen general spring. Whatever hope kind century arm sit might."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
