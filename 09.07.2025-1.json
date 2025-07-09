@@ -1,0 +1,25 @@
+{
+    "name": "Antonio Simmons",
+    "age": 60,
+    "address": {
+        "street": "Nicholson Creek",
+        "city": "Thomaston",
+        "state": "New York",
+        "zip": "62953"
+    },
+    "contact": {
+        "phone": "+1-499-577-1298x701",
+        "servicePhone": "800095514"
+    },
+    "birthday": "1965-07-01",
+    "ip": "213.224.22.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Him seem level write heavy base.\nGovernment threat bad or nature lose sister. Reach season wait security program. Art Congress send month matter gas. Try cold win line per prevent cell.",
+        "bio": "Wind American no among any suggest.\nCareer someone think choose. Much wrong product. For it old both money check response work."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
