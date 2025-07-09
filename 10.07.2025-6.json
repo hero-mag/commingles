@@ -1,0 +1,25 @@
+{
+    "name": "Julie Gonzales",
+    "age": 93,
+    "address": {
+        "street": "Schmidt Ranch",
+        "city": "South Laurenland",
+        "state": "New Jersey",
+        "zip": "27801"
+    },
+    "contact": {
+        "phone": "501-474-9419x31212",
+        "servicePhone": "800966315"
+    },
+    "birthday": "1932-08-01",
+    "ip": "136.230.98.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen support safe capital bed. Effort what drive when foot defense.\nArea rock around recent. Plan relate career south responsibility majority.",
+        "bio": "Although consumer six wonder increase general artist. Toward alone call support. Whom decide listen growth usually factor."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
