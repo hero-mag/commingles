@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Banks",
+    "age": 43,
+    "address": {
+        "street": "White Mountains",
+        "city": "North Erinchester",
+        "state": "California",
+        "zip": "21190"
+    },
+    "contact": {
+        "phone": "2607731691",
+        "servicePhone": "800009272"
+    },
+    "birthday": "1982-12-12",
+    "ip": "197.246.129.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Agent former appear entire product officer article. About she toward know carry with. Candidate kind they where.",
+        "bio": "Personal animal whom road line. Power state take study Congress meeting. Have cold measure keep land performance."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
