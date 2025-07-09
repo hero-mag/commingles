@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Williamson",
+    "age": 110,
+    "address": {
+        "street": "Sherry Port",
+        "city": "Port Robert",
+        "state": "Virginia",
+        "zip": "83943"
+    },
+    "contact": {
+        "phone": "422.212.4124",
+        "servicePhone": "800650824"
+    },
+    "birthday": "1915-20-06",
+    "ip": "130.205.178.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Without skill free notice nice white. Ahead around ahead hour rich worry.\nFront can race range reflect building. Whatever question yourself do wonder themselves half.",
+        "bio": "Modern economy president. Meeting suddenly paper with attack allow partner deep.\nSet value protect try. Yard among memory even. Address room read man subject local. General majority so effect."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
