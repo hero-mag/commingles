@@ -1,0 +1,25 @@
+{
+    "name": "Karen Miller",
+    "age": 98,
+    "address": {
+        "street": "Donna Pines",
+        "city": "South Anthony",
+        "state": "Kentucky",
+        "zip": "29216"
+    },
+    "contact": {
+        "phone": "3657437728",
+        "servicePhone": "800118660"
+    },
+    "birthday": "1927-10-02",
+    "ip": "71.189.244.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager she opportunity. In official community budget. Congress summer day mean guess try.\nAlone me space current. Manage structure drug notice story popular worry school.",
+        "bio": "Property discuss second because. Point PM think then simply trade. Book third trouble only member family force color."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
