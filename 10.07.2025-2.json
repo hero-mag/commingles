@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Ponce",
+    "age": 12,
+    "address": {
+        "street": "Jeff Forks",
+        "city": "Martinside",
+        "state": "Massachusetts",
+        "zip": "58735"
+    },
+    "contact": {
+        "phone": "+1-819-759-4906x3722",
+        "servicePhone": "800675612"
+    },
+    "birthday": "2013-11-11",
+    "ip": "102.72.70.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm most against recent several continue spend. Paper goal heart cultural agree inside within.\nPeople later born care. Act religious establish people if.",
+        "bio": "Take push claim front. General sort friend require.\nMay speech future home language grow. Cold possible figure fund room a positive as. Ability the east Democrat better."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
