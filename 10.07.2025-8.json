@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Johnson",
+    "age": 90,
+    "address": {
+        "street": "Cisneros Hills",
+        "city": "East Elizabethtown",
+        "state": "Louisiana",
+        "zip": "54128"
+    },
+    "contact": {
+        "phone": "7304749771",
+        "servicePhone": "800443026"
+    },
+    "birthday": "1935-03-12",
+    "ip": "34.123.44.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Former center strong once pretty. Popular tax drug exactly how our discuss.\nThought figure decade music. Next figure anything certainly.",
+        "bio": "Church or response memory. Interest part authority TV. Me under future owner.\nSecurity difficult have chair. Try red particular nation activity common. Miss growth doctor protect."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
