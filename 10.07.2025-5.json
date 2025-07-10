@@ -1,0 +1,25 @@
+{
+    "name": "Loretta Jacobson",
+    "age": 93,
+    "address": {
+        "street": "Brewer Estates",
+        "city": "Robertshire",
+        "state": "North Carolina",
+        "zip": "45726"
+    },
+    "contact": {
+        "phone": "(999)666-5192",
+        "servicePhone": "800366293"
+    },
+    "birthday": "1932-12-09",
+    "ip": "142.49.54.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Democrat she determine without school. Fight year dream they successful memory economic direction. Gun increase receive pull somebody certainly.\nVoice media yard government detail those brother true.",
+        "bio": "Yourself beyond sound build offer news. Miss choice order prevent range term.\nSuffer a music in section in manager so."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
