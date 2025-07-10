@@ -1,0 +1,25 @@
+{
+    "name": "Gabrielle Higgins",
+    "age": 8,
+    "address": {
+        "street": "Tracy Locks",
+        "city": "Stewartchester",
+        "state": "North Dakota",
+        "zip": "92816"
+    },
+    "contact": {
+        "phone": "446.899.8449x47601",
+        "servicePhone": "800128000"
+    },
+    "birthday": "2017-14-12",
+    "ip": "29.114.93.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Forward task effort require Democrat. Phone method finish mention establish far. Race media material control by my box.",
+        "bio": "Establish somebody industry. Product only goal carry. Chair her explain.\nHospital maintain peace black security home road."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
