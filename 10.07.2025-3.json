@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Evans",
+    "age": 8,
+    "address": {
+        "street": "Patrick Lakes",
+        "city": "Wallaceside",
+        "state": "Pennsylvania",
+        "zip": "17831"
+    },
+    "contact": {
+        "phone": "(540)251-6396",
+        "servicePhone": "800435277"
+    },
+    "birthday": "2017-16-07",
+    "ip": "204.132.11.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Check politics east. Perform before many tough order where begin. Partner past truth serve.\nProve candidate movie board spring speech. Art yourself never far control. End four away.",
+        "bio": "Everybody boy manager section firm better kitchen. Decide energy head raise.\nFind new public official game. Someone cultural bar all argue realize. Three buy rock owner form benefit there community."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
