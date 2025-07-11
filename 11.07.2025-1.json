@@ -1,0 +1,25 @@
+{
+    "name": "Gerald Wood",
+    "age": 28,
+    "address": {
+        "street": "Lowe Walk",
+        "city": "Lake Ericastad",
+        "state": "Montana",
+        "zip": "54799"
+    },
+    "contact": {
+        "phone": "760.943.2043",
+        "servicePhone": "800984648"
+    },
+    "birthday": "1997-25-06",
+    "ip": "48.131.187.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Between from very son. Interview owner have particularly plant. Friend today a.\nFinally material who. Hope name cell policy cause.",
+        "bio": "Until leader audience shake first thank attention. International compare him against reason as eye. Shoulder read show network."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
