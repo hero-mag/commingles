@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Kim",
+    "age": 107,
+    "address": {
+        "street": "Perez Union",
+        "city": "North Donna",
+        "state": "Missouri",
+        "zip": "35946"
+    },
+    "contact": {
+        "phone": "001-988-259-6900",
+        "servicePhone": "800030384"
+    },
+    "birthday": "1918-09-08",
+    "ip": "24.161.226.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Character draw my education news. Play debate wish morning.\nBed lawyer read nor many natural thought. Develop blood third particularly traditional provide.",
+        "bio": "Notice girl establish son. Our consider of hand wall beat wall. Food cover wind discover.\nReduce bit school stage. Foot top important son show mouth camera live."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
