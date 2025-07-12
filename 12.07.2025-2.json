@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Berger",
+    "age": 52,
+    "address": {
+        "street": "Diaz Drive",
+        "city": "North Robin",
+        "state": "Tennessee",
+        "zip": "54659"
+    },
+    "contact": {
+        "phone": "334.790.7321x4234",
+        "servicePhone": "800935072"
+    },
+    "birthday": "1973-20-04",
+    "ip": "163.140.3.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Stage occur personal might purpose civil.\nStar body sound say well late win. Science simple loss value. Skill although I may.\nStay manage relationship any. Together change month sort.",
+        "bio": "Far camera student energy. Heavy order learn. Foot that whole she recently.\nAny campaign sell weight certain research speak. Travel wind blue property stay tend."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
