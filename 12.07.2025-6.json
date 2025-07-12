@@ -1,0 +1,25 @@
+{
+    "name": "Faith Thomas",
+    "age": 65,
+    "address": {
+        "street": "York Ville",
+        "city": "Fisherhaven",
+        "state": "Minnesota",
+        "zip": "43073"
+    },
+    "contact": {
+        "phone": "4806955729",
+        "servicePhone": "800271080"
+    },
+    "birthday": "1960-22-03",
+    "ip": "134.232.204.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Kind picture foot his here hour help. Picture matter boy hair sport money.",
+        "bio": "Show expect smile nothing hold. Expect himself ground technology operation level card. Yes agreement up treat card.\nArtist rock adult despite. Hand watch everyone pay themselves."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
