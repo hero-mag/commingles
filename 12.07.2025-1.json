@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Grant",
+    "age": 18,
+    "address": {
+        "street": "Gibson Court",
+        "city": "New Jamesfurt",
+        "state": "Tennessee",
+        "zip": "01955"
+    },
+    "contact": {
+        "phone": "965-898-4039x55218",
+        "servicePhone": "800211261"
+    },
+    "birthday": "2007-30-08",
+    "ip": "98.231.83.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Responsibility painting national hope should wonder. Operation apply choose black though minute heavy. Water be visit recognize less. Such open stage.",
+        "bio": "Last her happy bag hear. Each something tell dinner rest enough standard. Similar Mrs tend bar.\nScore seat bed style. Bar benefit because blood parent."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
