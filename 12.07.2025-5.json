@@ -1,0 +1,25 @@
+{
+    "name": "Richard Dickerson",
+    "age": 17,
+    "address": {
+        "street": "Christine Island",
+        "city": "Lindseytown",
+        "state": "Florida",
+        "zip": "86869"
+    },
+    "contact": {
+        "phone": "+1-786-407-7944",
+        "servicePhone": "800289976"
+    },
+    "birthday": "2008-01-08",
+    "ip": "80.28.134.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Any look short simple watch.\nParticipant minute bill identify news day ahead. Southern human themselves trip. Forward future phone because item.",
+        "bio": "Someone week might this short. Candidate property year."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
