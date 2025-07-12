@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Mills",
+    "age": 86,
+    "address": {
+        "street": "Miller View",
+        "city": "Lake Emilyside",
+        "state": "Tennessee",
+        "zip": "09086"
+    },
+    "contact": {
+        "phone": "322-505-5963",
+        "servicePhone": "800780373"
+    },
+    "birthday": "1939-24-04",
+    "ip": "150.164.165.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Peace thing dinner thing. Result health official capital house major.\nRange off long skin. Act past yard table idea usually without. Class everything decide remember care program alone modern.",
+        "bio": "Much range over far feeling consumer. Three might race a. Now seem science yet attorney play money.\nWorry sign rather boy among.\nAgo stay strategy never. Establish improve option happen."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
