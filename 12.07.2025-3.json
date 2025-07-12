@@ -1,0 +1,25 @@
+{
+    "name": "Randy Walters",
+    "age": 113,
+    "address": {
+        "street": "Todd Manor",
+        "city": "Port Leonardside",
+        "state": "Alabama",
+        "zip": "04753"
+    },
+    "contact": {
+        "phone": "929.795.4765x672",
+        "servicePhone": "800344389"
+    },
+    "birthday": "1912-29-08",
+    "ip": "199.182.130.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience near test pick similar ability street. Past sure purpose need fish free report join.\nCompare minute air someone. Kind day team safe factor.",
+        "bio": "Generation executive the control. No before official star wait left. Wife material majority west night.\nEarly mouth size positive material. Something learn sea state."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
