@@ -1,0 +1,25 @@
+{
+    "name": "Mariah Wilson",
+    "age": 21,
+    "address": {
+        "street": "Johnson Glen",
+        "city": "North Kristen",
+        "state": "Louisiana",
+        "zip": "76140"
+    },
+    "contact": {
+        "phone": "904-990-1676",
+        "servicePhone": "800502032"
+    },
+    "birthday": "2004-01-12",
+    "ip": "98.64.52.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Most less expert country too another student night. While loss politics over line interview good. Discussion since deal grow.\nDesign prevent north away. Well raise surface while tree financial.",
+        "bio": "Situation huge I time machine. Program official along true agency during indicate. Test coach my see recently enough.\nReflect site will example. Any if reason order physical skin attack."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
