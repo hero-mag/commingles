@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Turner",
+    "age": 61,
+    "address": {
+        "street": "Robert Corners",
+        "city": "East Susanchester",
+        "state": "Alaska",
+        "zip": "41659"
+    },
+    "contact": {
+        "phone": "+1-890-395-7129x32947",
+        "servicePhone": "800419462"
+    },
+    "birthday": "1964-16-08",
+    "ip": "19.131.145.192",
+    "foo": "bar",
+    "profile": {
+        "about": "See begin race young. Road senior seat thank.",
+        "bio": "Stand treatment rest center speak note according. Product toward particularly just population. By great executive. Base into back central Congress number."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
