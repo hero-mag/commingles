@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Hughes",
+    "age": 41,
+    "address": {
+        "street": "Aaron Rest",
+        "city": "South Steven",
+        "state": "Nevada",
+        "zip": "01747"
+    },
+    "contact": {
+        "phone": "(789)589-7366",
+        "servicePhone": "800719895"
+    },
+    "birthday": "1984-02-05",
+    "ip": "203.39.210.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand kid agency. Soon soldier natural. Fill cover ready specific.\nWho use right source. Themselves front range almost any thus. Room mouth simple third they challenge.",
+        "bio": "Nor wonder five fall thank establish age. Poor explain student nearly from natural. Continue reality beat yet everybody home."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
