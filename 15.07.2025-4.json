@@ -1,0 +1,25 @@
+{
+    "name": "Maria Johnson",
+    "age": 59,
+    "address": {
+        "street": "Briggs Course",
+        "city": "New Jenna",
+        "state": "Georgia",
+        "zip": "36054"
+    },
+    "contact": {
+        "phone": "+1-889-268-7907x81794",
+        "servicePhone": "800746123"
+    },
+    "birthday": "1966-19-11",
+    "ip": "73.92.113.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Because hour answer. Sign nor team firm art unit. Cut develop that store. Hand manage political TV good media democratic.",
+        "bio": "Face activity call term history arm. Figure another purpose possible lead forward.\nFear such big economy develop month part. Fund physical sort listen. Central issue method center little drive."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
