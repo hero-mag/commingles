@@ -1,0 +1,25 @@
+{
+    "name": "Wayne Bray",
+    "age": 21,
+    "address": {
+        "street": "Stephanie Turnpike",
+        "city": "South Ebonyfort",
+        "state": "Wyoming",
+        "zip": "26123"
+    },
+    "contact": {
+        "phone": "406-479-0755x9977",
+        "servicePhone": "800566942"
+    },
+    "birthday": "2004-26-07",
+    "ip": "219.130.44.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Week issue high month we success increase. Pass eat whom military.\nCapital artist serious mean. Beautiful receive audience carry.",
+        "bio": "Positive practice end think performance before. Operation executive often consider.\nOn nice place firm opportunity single tend. Out service thus bill dark poor week lawyer."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
