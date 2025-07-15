@@ -1,0 +1,25 @@
+{
+    "name": "Meagan Ruiz",
+    "age": 21,
+    "address": {
+        "street": "Randy Turnpike",
+        "city": "East Aaron",
+        "state": "New Mexico",
+        "zip": "58739"
+    },
+    "contact": {
+        "phone": "001-569-540-7402x3163",
+        "servicePhone": "800557913"
+    },
+    "birthday": "2004-03-02",
+    "ip": "165.44.70.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Main such recent necessary experience wall community. Time result PM coach send easy measure. Resource along information with together.\nStructure perhaps I analysis employee which election low.",
+        "bio": "Why natural eye. Else report who continue total pretty. Car second miss few believe guess.\nRealize carry trip provide walk then black before. Move reality light president poor similar."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
