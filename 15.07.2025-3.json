@@ -1,0 +1,25 @@
+{
+    "name": "Julia Stephenson DDS",
+    "age": 49,
+    "address": {
+        "street": "Weber Neck",
+        "city": "Lake Christopherberg",
+        "state": "Vermont",
+        "zip": "47478"
+    },
+    "contact": {
+        "phone": "622.302.4269x5764",
+        "servicePhone": "800248167"
+    },
+    "birthday": "1976-27-04",
+    "ip": "177.59.25.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Above last crime compare remember produce next. Cause own throughout board race animal successful say. Late meet weight western issue movie listen.",
+        "bio": "Hand owner threat day nature be. Per education individual the person. She guy cup rise wonder blood position stay.\nWork toward take good network. Past tell young onto range your water."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
