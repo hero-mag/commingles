@@ -1,0 +1,25 @@
+{
+    "name": "Leslie Abbott",
+    "age": 3,
+    "address": {
+        "street": "Thompson Forest",
+        "city": "Williamfurt",
+        "state": "Indiana",
+        "zip": "34951"
+    },
+    "contact": {
+        "phone": "(650)678-2056x1938",
+        "servicePhone": "800541071"
+    },
+    "birthday": "2022-19-09",
+    "ip": "196.253.183.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation attorney how report thought. Executive try wife relate with offer. Since check information pressure seven describe.\nSeem street describe. Later maybe money. Agree Congress interest out.",
+        "bio": "Them both pull student or truth last. Contain positive opportunity dark.\nDiscover toward size now itself fund full control."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
