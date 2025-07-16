@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Carlson",
+    "age": 1,
+    "address": {
+        "street": "Davis Station",
+        "city": "Mosschester",
+        "state": "Alabama",
+        "zip": "50912"
+    },
+    "contact": {
+        "phone": "760-469-6512",
+        "servicePhone": "800095261"
+    },
+    "birthday": "2024-19-03",
+    "ip": "136.73.40.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer thought but friend.\nShake event walk news market. Lay miss their item consumer defense all risk. Several may under admit standard claim tough with. Owner increase physical pattern how word.",
+        "bio": "Hit weight however sense term.\nQuality buy price decide site education. Tough wife ability force fish."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
