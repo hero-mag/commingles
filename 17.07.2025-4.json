@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Hansen",
+    "age": 13,
+    "address": {
+        "street": "Hansen Orchard",
+        "city": "Geraldfurt",
+        "state": "Maine",
+        "zip": "07485"
+    },
+    "contact": {
+        "phone": "705-365-4790x616",
+        "servicePhone": "800518539"
+    },
+    "birthday": "2012-19-06",
+    "ip": "218.68.0.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Action foreign low realize different hope. Water radio structure detail.\nTraining reduce group woman. This clearly shoulder mission return old.",
+        "bio": "Water challenge page Republican bit central west individual. Give father more wife ahead. Water themselves American threat.\nArgue two record until bit. Customer dinner most ground open red."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
