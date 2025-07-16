@@ -1,0 +1,25 @@
+{
+    "name": "Monica Martinez DVM",
+    "age": 22,
+    "address": {
+        "street": "Hale Mission",
+        "city": "Port Toddstad",
+        "state": "Oklahoma",
+        "zip": "89169"
+    },
+    "contact": {
+        "phone": "(629)969-9376",
+        "servicePhone": "800682902"
+    },
+    "birthday": "2003-20-06",
+    "ip": "141.59.209.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist chair outside factor policy participant. Field near all gun drive guess sell.\nBaby fill sound movie walk lead prepare resource. Them myself need think.",
+        "bio": "Receive crime truth camera cut air. Wish matter step market.\nPoint another large personal. Shoulder us great me time."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
