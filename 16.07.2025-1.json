@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Mitchell",
+    "age": 11,
+    "address": {
+        "street": "William Radial",
+        "city": "Staceybury",
+        "state": "Oregon",
+        "zip": "83152"
+    },
+    "contact": {
+        "phone": "304-448-9380x327",
+        "servicePhone": "800566306"
+    },
+    "birthday": "2014-28-01",
+    "ip": "106.213.193.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Successful artist large usually ground. Treatment last spring crime to management suddenly. Indicate knowledge human forward project during. Success they begin ground less always always health.",
+        "bio": "Small authority also than law throw stay. Herself deep level movement.\nCapital enjoy table perhaps late agent bed. Young maybe appear idea. Follow hot garden yes must step low."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
