@@ -1,0 +1,25 @@
+{
+    "name": "Gabrielle Banks",
+    "age": 0,
+    "address": {
+        "street": "Logan Creek",
+        "city": "New Anthonyville",
+        "state": "Nebraska",
+        "zip": "99059"
+    },
+    "contact": {
+        "phone": "431.910.2547x1965",
+        "servicePhone": "800134224"
+    },
+    "birthday": "2025-04-09",
+    "ip": "189.88.53.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Study end safe. Resource better either hotel. People candidate talk they ground.\nGive find page seat. Color could benefit woman sometimes.",
+        "bio": "Send way understand manager poor put assume. Deal while perform wind. Agreement structure of spend."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
