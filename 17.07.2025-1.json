@@ -1,0 +1,25 @@
+{
+    "name": "Jeanne Mcintyre",
+    "age": 19,
+    "address": {
+        "street": "Joyce Throughway",
+        "city": "Jasonhaven",
+        "state": "Nevada",
+        "zip": "73328"
+    },
+    "contact": {
+        "phone": "001-784-807-9166",
+        "servicePhone": "800162968"
+    },
+    "birthday": "2006-19-04",
+    "ip": "217.25.17.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Crime economy way. Region sell however area. Tv song gas point increase.\nNext wrong bag. Life administration away above never.\nKeep mention chair his difference. Lay data performance market mouth.",
+        "bio": "Team skin herself figure several all above. Significant food stop mother east. Century law his bit question house bring. Trial security course kind history team stay."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
