@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer York",
+    "age": 85,
+    "address": {
+        "street": "Brenda Road",
+        "city": "Huntermouth",
+        "state": "Pennsylvania",
+        "zip": "95366"
+    },
+    "contact": {
+        "phone": "+1-677-811-2129",
+        "servicePhone": "800544692"
+    },
+    "birthday": "1940-12-10",
+    "ip": "138.56.231.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Participant poor west white almost.\nRadio large out training hear. Institution major after effort say environment interview.",
+        "bio": "Development skin between. Interesting prove single near center Democrat. Interesting behind present science billion wrong.\nMaintain together current easy prevent. Writer thank ground add."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
