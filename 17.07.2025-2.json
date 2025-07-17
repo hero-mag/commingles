@@ -1,0 +1,25 @@
+{
+    "name": "William Hall",
+    "age": 49,
+    "address": {
+        "street": "Mary Extensions",
+        "city": "East Sandyville",
+        "state": "Rhode Island",
+        "zip": "87897"
+    },
+    "contact": {
+        "phone": "8639895072",
+        "servicePhone": "800182292"
+    },
+    "birthday": "1976-05-04",
+    "ip": "124.64.211.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice question character federal firm indeed. Democrat learn successful. Edge prevent wear.",
+        "bio": "Professor change will. Structure foreign performance bag south perhaps.\nLand two past society close spring long. Design car conference agent machine trade within."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
