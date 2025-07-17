@@ -1,0 +1,25 @@
+{
+    "name": "Jill Brewer",
+    "age": 2,
+    "address": {
+        "street": "Calhoun Unions",
+        "city": "Williamsview",
+        "state": "Rhode Island",
+        "zip": "20183"
+    },
+    "contact": {
+        "phone": "001-508-963-8703x29821",
+        "servicePhone": "800433833"
+    },
+    "birthday": "2023-23-03",
+    "ip": "57.185.170.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Piece hour they set candidate another less health. Way partner including thousand believe possible. Collection into candidate site skill measure Democrat.\nCitizen structure factor time customer.",
+        "bio": "Realize data third involve bank. Stage often smile listen north manage.\nSmall continue rate. Collection medical and purpose law close affect. Save avoid involve. Hand seem community prove."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
