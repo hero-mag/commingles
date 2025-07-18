@@ -1,0 +1,25 @@
+{
+    "name": "Kelsey Wilcox",
+    "age": 88,
+    "address": {
+        "street": "Cody Burg",
+        "city": "Floydhaven",
+        "state": "Arkansas",
+        "zip": "55014"
+    },
+    "contact": {
+        "phone": "+1-487-452-2097x9644",
+        "servicePhone": "800194949"
+    },
+    "birthday": "1937-19-03",
+    "ip": "94.209.76.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Of big bed follow among. Former approach note tough street science. Employee think article address.\nService there between short inside. True many nation.",
+        "bio": "Tonight majority especially single enter me anything station. Likely energy with.\nWall though should keep that tax discuss. Evidence song per when avoid reduce ten."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
