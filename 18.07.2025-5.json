@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Wilson",
+    "age": 39,
+    "address": {
+        "street": "Harris Station",
+        "city": "Longmouth",
+        "state": "Texas",
+        "zip": "68135"
+    },
+    "contact": {
+        "phone": "393.502.3420",
+        "servicePhone": "800465465"
+    },
+    "birthday": "1986-01-05",
+    "ip": "103.87.243.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Series add pass yes administration deep since. Involve note certainly where let early.",
+        "bio": "Trouble health adult agree mind night.\nAge outside across position fine lot year.\nMarket picture administration drug call a. Car conference choose something involve loss."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
