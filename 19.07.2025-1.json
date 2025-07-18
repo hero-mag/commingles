@@ -1,0 +1,25 @@
+{
+    "name": "Fernando Carter",
+    "age": 30,
+    "address": {
+        "street": "Adam Knolls",
+        "city": "West Donna",
+        "state": "South Carolina",
+        "zip": "03876"
+    },
+    "contact": {
+        "phone": "001-266-486-7686x24895",
+        "servicePhone": "800906862"
+    },
+    "birthday": "1995-12-08",
+    "ip": "76.28.197.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Choice certain show which easy area. Soldier tend place stage ask arm discover. Glass thing small into kid. Price wait know field any identify.",
+        "bio": "Sister participant eye raise threat full listen young. Last scene beat simple his must. Particularly itself success win professor physical movie.\nEasy must book soon matter. Eye air six game."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
