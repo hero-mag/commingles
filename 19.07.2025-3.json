@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Tara Durham",
+    "age": 89,
+    "address": {
+        "street": "Darren Course",
+        "city": "New Dawn",
+        "state": "Mississippi",
+        "zip": "31023"
+    },
+    "contact": {
+        "phone": "001-748-912-5190",
+        "servicePhone": "800394730"
+    },
+    "birthday": "1936-25-01",
+    "ip": "14.53.126.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Run sense art. Color health woman. Coach answer glass hold.\nContain act now trip mention everything. Protect table state gas.\nBig I our. Charge who million store Congress mind.",
+        "bio": "Deep though need international compare window eat."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
