@@ -1,0 +1,25 @@
+{
+    "name": "Victor Hurst",
+    "age": 105,
+    "address": {
+        "street": "Barry Mission",
+        "city": "Jennifershire",
+        "state": "Oregon",
+        "zip": "20223"
+    },
+    "contact": {
+        "phone": "2155117495",
+        "servicePhone": "800257918"
+    },
+    "birthday": "1920-27-03",
+    "ip": "149.223.54.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Standard unit protect situation machine fund method smile. Drop sell morning fly. Institution stay hit here growth natural actually.",
+        "bio": "School full son between each. Opportunity study television.\nTo no picture. Side stage fill image still play.\nNearly summer smile part. Around pull hope include."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
