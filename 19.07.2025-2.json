@@ -1,0 +1,25 @@
+{
+    "name": "John Allen",
+    "age": 17,
+    "address": {
+        "street": "Marshall Row",
+        "city": "New Jaredchester",
+        "state": "Virginia",
+        "zip": "83426"
+    },
+    "contact": {
+        "phone": "+1-979-333-6010",
+        "servicePhone": "800529244"
+    },
+    "birthday": "2008-19-01",
+    "ip": "67.23.145.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Style customer reveal deep high. Stay available follow new discover pass husband politics.",
+        "bio": "Around popular probably structure fear fill. Machine able heavy."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
