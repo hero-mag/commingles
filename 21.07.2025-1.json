@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Reynolds MD",
+    "age": 17,
+    "address": {
+        "street": "Billy Coves",
+        "city": "Terrychester",
+        "state": "Mississippi",
+        "zip": "17284"
+    },
+    "contact": {
+        "phone": "681.291.4940x49593",
+        "servicePhone": "800517054"
+    },
+    "birthday": "2008-19-07",
+    "ip": "79.223.66.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Book them everybody garden. Such force garden whatever. Each according claim rate own above toward.",
+        "bio": "Do scene some require beat. Operation but official various nothing herself contain. Society garden whether however ability. Military himself style."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
