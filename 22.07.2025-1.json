@@ -1,0 +1,25 @@
+{
+    "name": "Tanya Stewart",
+    "age": 112,
+    "address": {
+        "street": "Jennifer Center",
+        "city": "Larryfurt",
+        "state": "Idaho",
+        "zip": "40700"
+    },
+    "contact": {
+        "phone": "001-992-490-4611x727",
+        "servicePhone": "800141529"
+    },
+    "birthday": "1913-03-04",
+    "ip": "26.145.146.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Often physical do art treat physical over surface.\nRelate reality or network include. Know nation increase here member understand.",
+        "bio": "Federal exactly throughout yet take there. Political everything five social entire.\nSupport finally cell two. Charge very third develop."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
