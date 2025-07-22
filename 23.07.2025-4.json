@@ -1,0 +1,25 @@
+{
+    "name": "Tara Stevens",
+    "age": 14,
+    "address": {
+        "street": "Hardy Streets",
+        "city": "North Victoriaview",
+        "state": "South Dakota",
+        "zip": "33670"
+    },
+    "contact": {
+        "phone": "(628)733-9633x12321",
+        "servicePhone": "800042925"
+    },
+    "birthday": "2011-13-10",
+    "ip": "28.51.197.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Energy rich late throughout bag world possible. Government all suggest brother economic.\nGreat agree military apply line agency point. Process sing father similar prove.",
+        "bio": "Believe trouble hold fund. Could half concern admit decade read a.\nPolitical situation over perform give. Art adult notice affect war girl pretty as. Off whose election sit behind."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
