@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Wilson",
+    "age": 102,
+    "address": {
+        "street": "Campbell Causeway",
+        "city": "Robertchester",
+        "state": "Missouri",
+        "zip": "18154"
+    },
+    "contact": {
+        "phone": "+1-273-549-5262",
+        "servicePhone": "800096716"
+    },
+    "birthday": "1923-27-01",
+    "ip": "162.41.155.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Like instead help and. Apply which director fast skill own. Personal film attorney cut travel pick street.\nRealize test respond information purpose even her treat.",
+        "bio": "Teacher natural building bank. Town push letter if religious.\nMeasure amount rather. Themselves strategy right night statement under."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
