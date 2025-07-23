@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Valencia",
+    "age": 58,
+    "address": {
+        "street": "Walker Burg",
+        "city": "South Patrickberg",
+        "state": "Delaware",
+        "zip": "78829"
+    },
+    "contact": {
+        "phone": "001-333-567-2943x9090",
+        "servicePhone": "800769463"
+    },
+    "birthday": "1967-10-06",
+    "ip": "79.28.97.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Partner benefit hit explain. Player democratic none out now economy network.\nSeason close lawyer bit letter authority author. First south consumer class ready step.",
+        "bio": "Door radio technology election road office voice. After from sometimes.\nSport reveal group population catch. Today certain system send court. Yard data large Congress research his."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
