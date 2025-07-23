@@ -1,0 +1,25 @@
+{
+    "name": "Erica Nielsen",
+    "age": 29,
+    "address": {
+        "street": "Anthony Crossing",
+        "city": "Eileenshire",
+        "state": "Pennsylvania",
+        "zip": "19518"
+    },
+    "contact": {
+        "phone": "(338)860-8536x28012",
+        "servicePhone": "800155151"
+    },
+    "birthday": "1996-15-03",
+    "ip": "91.190.44.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Base lead unit event product fund special. Machine whether cold hard. Little cost say mission rather marriage success sure.",
+        "bio": "Capital help something both often wish. Lose officer whether line. Child minute in there use let.\nAnything require various agree front food onto."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
