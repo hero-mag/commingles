@@ -1,0 +1,25 @@
+{
+    "name": "Mary Garcia",
+    "age": 52,
+    "address": {
+        "street": "Tanya Brook",
+        "city": "Lewisberg",
+        "state": "Utah",
+        "zip": "80466"
+    },
+    "contact": {
+        "phone": "001-435-491-5983",
+        "servicePhone": "800428720"
+    },
+    "birthday": "1973-06-03",
+    "ip": "212.31.250.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward ahead week attack next raise himself.",
+        "bio": "Fill admit three now these specific. He official direction again little. Piece other of with site avoid."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
