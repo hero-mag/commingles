@@ -1,0 +1,25 @@
+{
+    "name": "John Bennett",
+    "age": 31,
+    "address": {
+        "street": "John Glen",
+        "city": "East Denise",
+        "state": "Virginia",
+        "zip": "41495"
+    },
+    "contact": {
+        "phone": "+1-380-332-3404x98859",
+        "servicePhone": "800876849"
+    },
+    "birthday": "1994-15-12",
+    "ip": "126.232.185.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior while sit something ability not last. Power employee left hundred interview talk race. Manage agree career method suggest special fly.",
+        "bio": "Congress seven class against travel same administration. Week side whom military civil both interest.\nCentral when player from letter song."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
