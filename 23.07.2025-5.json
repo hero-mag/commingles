@@ -1,0 +1,25 @@
+{
+    "name": "James Rodriguez",
+    "age": 49,
+    "address": {
+        "street": "Travis Dam",
+        "city": "Fosterhaven",
+        "state": "Arkansas",
+        "zip": "56533"
+    },
+    "contact": {
+        "phone": "289.908.3400",
+        "servicePhone": "800280844"
+    },
+    "birthday": "1976-28-08",
+    "ip": "208.126.22.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Race rich class season. Former player skill surface government learn win. Purpose news church share which will west. Small peace from.\nShake thus maintain water color. Always weight both.",
+        "bio": "Evidence down water plant home. Performance also recently subject century early.\nSubject hit suffer itself above guess listen spend."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
