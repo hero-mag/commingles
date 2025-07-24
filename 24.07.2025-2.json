@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Bailey",
+    "age": 60,
+    "address": {
+        "street": "Pugh Plains",
+        "city": "Leemouth",
+        "state": "North Carolina",
+        "zip": "90111"
+    },
+    "contact": {
+        "phone": "922.437.8566x36122",
+        "servicePhone": "800963789"
+    },
+    "birthday": "1965-14-08",
+    "ip": "59.1.35.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention particular drop mission television. Rich reality billion apply sign.",
+        "bio": "Agent deal arrive Republican long do lot.\nNation quite report bit push reach positive analysis. Note generation stop trouble political race control."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
