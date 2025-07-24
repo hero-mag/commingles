@@ -1,0 +1,25 @@
+{
+    "name": "Amy Mccann",
+    "age": 71,
+    "address": {
+        "street": "Woods Lock",
+        "city": "Lake Danielberg",
+        "state": "Washington",
+        "zip": "35788"
+    },
+    "contact": {
+        "phone": "(316)264-7941",
+        "servicePhone": "800255516"
+    },
+    "birthday": "1954-19-07",
+    "ip": "48.148.180.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Event should policy look toward house under. Push key and compare major.\nThought customer song local responsibility.",
+        "bio": "Specific score play he Mrs discover. According process school camera four energy of left."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
