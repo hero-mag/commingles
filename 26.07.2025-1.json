@@ -1,0 +1,25 @@
+{
+    "name": "Brian Alexander",
+    "age": 27,
+    "address": {
+        "street": "Fowler Divide",
+        "city": "East Melissa",
+        "state": "New Hampshire",
+        "zip": "97458"
+    },
+    "contact": {
+        "phone": "427.660.5226",
+        "servicePhone": "800847189"
+    },
+    "birthday": "1998-07-05",
+    "ip": "30.95.166.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization than together up action total behavior us. Player early soon machine weight stay individual. Particularly rich operation stage discuss threat.\nInto bad movie tree late goal detail.",
+        "bio": "Write wind carry area black address budget billion. Life old soon represent. Four be all letter you.\nFree although budget card. Career he public parent win. Guy student system."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
