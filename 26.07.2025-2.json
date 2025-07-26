@@ -1,0 +1,25 @@
+{
+    "name": "Anna Anderson",
+    "age": 60,
+    "address": {
+        "street": "Julie Parkway",
+        "city": "West Shannonfurt",
+        "state": "South Carolina",
+        "zip": "88968"
+    },
+    "contact": {
+        "phone": "(690)551-7930x789",
+        "servicePhone": "800001856"
+    },
+    "birthday": "1965-01-04",
+    "ip": "165.28.94.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Top clear stop senior list.",
+        "bio": "Body last table reach skill. Phone him ahead we soldier trouble back. Thank reach with money late.\nMay reach hit character."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
