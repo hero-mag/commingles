@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Sanchez",
+    "age": 87,
+    "address": {
+        "street": "Walker Curve",
+        "city": "Port Markville",
+        "state": "South Dakota",
+        "zip": "91131"
+    },
+    "contact": {
+        "phone": "7544565666",
+        "servicePhone": "800775726"
+    },
+    "birthday": "1938-03-09",
+    "ip": "190.247.199.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Yourself nation the at I. Decide product east discover change. Fear dog water wide treatment.",
+        "bio": "Cost buy probably arrive lose. These develop single reason story building. War interview skin responsibility blood recently road series."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
