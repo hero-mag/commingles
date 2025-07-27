@@ -1,0 +1,25 @@
+{
+    "name": "Emily Ortiz",
+    "age": 79,
+    "address": {
+        "street": "Stevenson Ford",
+        "city": "Jessicastad",
+        "state": "California",
+        "zip": "01096"
+    },
+    "contact": {
+        "phone": "781-508-0632x1947",
+        "servicePhone": "800363847"
+    },
+    "birthday": "1946-18-01",
+    "ip": "159.118.39.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Population study business. Easy throughout threat think language treatment television discussion. Owner medical book challenge apply himself director.",
+        "bio": "Color heavy state contain close remain here. Style personal contain.\nMilitary writer capital. Consider section significant character dinner."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
