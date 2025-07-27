@@ -1,0 +1,25 @@
+{
+    "name": "Angela Martinez",
+    "age": 10,
+    "address": {
+        "street": "Jenna Road",
+        "city": "Richardmouth",
+        "state": "Colorado",
+        "zip": "78744"
+    },
+    "contact": {
+        "phone": "+1-314-580-6878",
+        "servicePhone": "800765106"
+    },
+    "birthday": "2015-20-03",
+    "ip": "47.114.190.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Character strategy eight race middle water you. Now major certain use language my action. Pay drive their federal.\nCivil each section stuff piece character surface. Nearly three town detail of.",
+        "bio": "Place their page part small term. Return condition somebody fish. Score father attack wind cultural candidate. Themselves trade address stand ago wall."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
