@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Turner",
+    "age": 15,
+    "address": {
+        "street": "Wells Corner",
+        "city": "East Joelside",
+        "state": "Minnesota",
+        "zip": "63511"
+    },
+    "contact": {
+        "phone": "342.965.6003",
+        "servicePhone": "800313729"
+    },
+    "birthday": "2010-30-04",
+    "ip": "4.223.213.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Main four deep reality store.\nUse agree authority approach law. Eight feel time buy others. Politics reason pattern along. Treatment special police mother.",
+        "bio": "Them million environment. Start usually ready officer open. Themselves build say movement fund official.\nMy many trip range. Security loss particular in history."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
