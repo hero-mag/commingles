@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Black",
+    "age": 18,
+    "address": {
+        "street": "Christopher Forge",
+        "city": "Farleyton",
+        "state": "Nevada",
+        "zip": "37740"
+    },
+    "contact": {
+        "phone": "556.865.0091x8476",
+        "servicePhone": "800146440"
+    },
+    "birthday": "2007-27-06",
+    "ip": "213.139.255.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear yeah serve civil speech whole skin. Goal anything practice poor.",
+        "bio": "Program model not situation national. Get team kitchen.\nAttention family police serious eat stay.\nTown recognize among modern husband protect me. Book something Congress history ready amount."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
