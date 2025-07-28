@@ -1,0 +1,25 @@
+{
+    "name": "Mary Cruz",
+    "age": 36,
+    "address": {
+        "street": "Davis Harbor",
+        "city": "East Robert",
+        "state": "Michigan",
+        "zip": "42997"
+    },
+    "contact": {
+        "phone": "3484877128",
+        "servicePhone": "800151602"
+    },
+    "birthday": "1989-04-06",
+    "ip": "80.79.73.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Natural top raise bring indeed unit continue. Sign point position analysis. Positive common pressure material kind.",
+        "bio": "Fall standard recently dog. Beyond grow or cup share simple box find.\nAlmost room eight seek control job story. About never receive leader. Over present fine occur."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
