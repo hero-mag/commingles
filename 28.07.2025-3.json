@@ -1,0 +1,25 @@
+{
+    "name": "Erin Jacobson",
+    "age": 107,
+    "address": {
+        "street": "Washington Port",
+        "city": "Lake Shawn",
+        "state": "Nebraska",
+        "zip": "49849"
+    },
+    "contact": {
+        "phone": "894-718-7197",
+        "servicePhone": "800462605"
+    },
+    "birthday": "1918-12-08",
+    "ip": "178.194.35.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Put today trouble hospital worry amount either. Give dark foreign worker Mrs. Guy suggest wait decide woman both throughout author. Meeting available game may ability.",
+        "bio": "Recently your set. Mission about Republican. List brother southern sort walk. Only force game decision for act join.\nHear green front one. Authority expert treatment."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
