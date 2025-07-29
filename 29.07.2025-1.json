@@ -1,0 +1,25 @@
+{
+    "name": "James Booth",
+    "age": 68,
+    "address": {
+        "street": "Jackson Island",
+        "city": "Allenstad",
+        "state": "Florida",
+        "zip": "30215"
+    },
+    "contact": {
+        "phone": "001-297-358-2914",
+        "servicePhone": "800491886"
+    },
+    "birthday": "1957-28-04",
+    "ip": "79.211.180.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Food century catch himself risk from. Cost guess foreign better modern someone those especially. Name board science. Property before experience floor relationship relationship manager.",
+        "bio": "Stay candidate various allow. Treatment where machine event affect miss approach. Material ten sometimes risk political among through."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
