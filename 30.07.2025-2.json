@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Bradley",
+    "age": 32,
+    "address": {
+        "street": "Moore Square",
+        "city": "New Amy",
+        "state": "Montana",
+        "zip": "56969"
+    },
+    "contact": {
+        "phone": "001-869-811-6457",
+        "servicePhone": "800184012"
+    },
+    "birthday": "1993-19-12",
+    "ip": "110.51.250.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Deep amount its. Travel bag trouble form century assume adult.\nInternational serve country forget. Agreement work month design security grow.",
+        "bio": "Anyone standard idea arrive computer standard. After that American pretty body bed both.\nScene cup successful tough agree seven accept article. American site when left argue. Rich toward order."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
