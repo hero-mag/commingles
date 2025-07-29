@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Mercado",
+    "age": 26,
+    "address": {
+        "street": "Tammy Mill",
+        "city": "Wallacemouth",
+        "state": "Wisconsin",
+        "zip": "73534"
+    },
+    "contact": {
+        "phone": "937.555.2409",
+        "servicePhone": "800625438"
+    },
+    "birthday": "1999-26-07",
+    "ip": "156.233.91.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Race politics society administration little young decision. Tv member place leave.\nLife police up bag particularly. Interesting Congress possible oil white.",
+        "bio": "Glass and certain simply. Occur themselves sell during.\nTough third tell future Congress born drug. Base middle report west anything raise."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
