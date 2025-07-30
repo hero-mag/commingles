@@ -1,0 +1,25 @@
+{
+    "name": "Mark Rodriguez",
+    "age": 48,
+    "address": {
+        "street": "Jerome Ville",
+        "city": "Port Scottport",
+        "state": "Illinois",
+        "zip": "59615"
+    },
+    "contact": {
+        "phone": "+1-311-641-2847x3470",
+        "servicePhone": "800345251"
+    },
+    "birthday": "1977-24-08",
+    "ip": "187.197.117.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Step method identify month become. Realize understand we heavy too center despite.\nCultural man seven second they alone oil.",
+        "bio": "Production history much similar star. Several stock quite technology central. Certainly professor PM cup.\nPolice and much paper remember. Leg these president less usually follow data risk."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
