@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Booker",
+    "age": 68,
+    "address": {
+        "street": "Reed Expressway",
+        "city": "Alexland",
+        "state": "Delaware",
+        "zip": "02682"
+    },
+    "contact": {
+        "phone": "001-341-234-4304x228",
+        "servicePhone": "800257027"
+    },
+    "birthday": "1957-29-03",
+    "ip": "168.30.132.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Race bad truth a large. World state same even mouth field decide.\nBill building front hand. Charge activity meet college.",
+        "bio": "Remember former scientist. Clearly arrive amount fly fear fight cut.\nService woman several move. Treatment former direction. Example source upon since direction."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
