@@ -1,0 +1,25 @@
+{
+    "name": "Deanna Mercado",
+    "age": 72,
+    "address": {
+        "street": "Ruiz Pines",
+        "city": "Andersonview",
+        "state": "Texas",
+        "zip": "70225"
+    },
+    "contact": {
+        "phone": "(819)265-7580x53811",
+        "servicePhone": "800040135"
+    },
+    "birthday": "1953-27-03",
+    "ip": "153.159.251.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Executive the region three. Talk Congress leg money.\nMiss action write daughter maybe. Ball dark will bit bring room court American.",
+        "bio": "Note project collection own least cup give. Allow go guy thank herself citizen. Organization different approach old civil add cell send."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
