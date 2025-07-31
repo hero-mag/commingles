@@ -1,0 +1,25 @@
+{
+    "name": "Craig Brady",
+    "age": 33,
+    "address": {
+        "street": "Ortiz Springs",
+        "city": "New Edwardshire",
+        "state": "Arkansas",
+        "zip": "93063"
+    },
+    "contact": {
+        "phone": "+1-455-294-4225",
+        "servicePhone": "800117448"
+    },
+    "birthday": "1992-18-04",
+    "ip": "27.57.219.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Case case central finish view month. Area good research sell. Project land federal arrive he.",
+        "bio": "Free lawyer democratic respond. Animal reflect friend lose.\nFinancial over agree organization sister sign anything. Floor last ok occur first.\nConference customer civil mouth name."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
