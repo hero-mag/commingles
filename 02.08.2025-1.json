@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Moore",
+    "age": 6,
+    "address": {
+        "street": "Robinson Freeway",
+        "city": "Royshire",
+        "state": "New Hampshire",
+        "zip": "59115"
+    },
+    "contact": {
+        "phone": "7702460500",
+        "servicePhone": "800828633"
+    },
+    "birthday": "2019-18-01",
+    "ip": "153.61.246.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Easy most author think author writer security. Than here choose such.\nLate like continue decade human sign. Education sing anything goal fear college chance.",
+        "bio": "Various executive cost company. Police us song author shoulder majority a sea. Important anyone feeling fish. Information across newspaper growth really at."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
