@@ -1,0 +1,25 @@
+{
+    "name": "Jason Myers",
+    "age": 73,
+    "address": {
+        "street": "Pham Track",
+        "city": "Johnnyview",
+        "state": "Alaska",
+        "zip": "67305"
+    },
+    "contact": {
+        "phone": "001-808-699-7461x046",
+        "servicePhone": "800066848"
+    },
+    "birthday": "1952-08-07",
+    "ip": "5.174.93.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Decide raise investment room financial address policy. Morning certainly design sit remain.\nAlso industry result.",
+        "bio": "Plan allow figure material response much I. Down skill tell official movement structure. Contain story student section need executive chair."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
