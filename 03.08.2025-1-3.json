@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Ramos DVM",
+    "age": 18,
+    "address": {
+        "street": "Simmons Village",
+        "city": "Lake Jacobberg",
+        "state": "Rhode Island",
+        "zip": "69879"
+    },
+    "contact": {
+        "phone": "+1-583-453-4176x127",
+        "servicePhone": "800932884"
+    },
+    "birthday": "2007-27-11",
+    "ip": "122.240.6.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign firm author director standard police admit. Sometimes rather of task similar first.\nProtect movement really heart own nice small court. Realize plan five bill safe control health.",
+        "bio": "Seem cultural difficult foreign. Hand gun debate you.\nHit require beat enough claim political. Wonder create war by north identify skill water. Dinner indeed leader fall director eye education."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
