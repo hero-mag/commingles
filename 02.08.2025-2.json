@@ -1,0 +1,25 @@
+{
+    "name": "Jillian Martinez",
+    "age": 7,
+    "address": {
+        "street": "Johnson Meadows",
+        "city": "West Douglasbury",
+        "state": "Hawaii",
+        "zip": "31441"
+    },
+    "contact": {
+        "phone": "(860)759-7621x2352",
+        "servicePhone": "800363493"
+    },
+    "birthday": "2018-24-07",
+    "ip": "44.178.136.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Build off response church. Likely experience single go at base local.\nTheory point television. Stay stay news capital move themselves sing.\nExecutive source suddenly could. Be thank need back today.",
+        "bio": "Environment condition imagine race fund buy. Begin Mr base.\nBack course very measure type. Help much father specific. High structure heart member.\nSend result benefit allow attention force."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
