@@ -1,0 +1,25 @@
+{
+    "name": "Mary Mccoy",
+    "age": 71,
+    "address": {
+        "street": "Wanda Mountains",
+        "city": "Debbiefurt",
+        "state": "Vermont",
+        "zip": "36498"
+    },
+    "contact": {
+        "phone": "618.328.2364x37248",
+        "servicePhone": "800389327"
+    },
+    "birthday": "1954-09-06",
+    "ip": "151.51.63.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Blue similar away identify. Listen avoid in similar paper foot analysis. He make star collection brother paper.\nNote free ago. Conference season at require ever tough.",
+        "bio": "They stage present statement along. Alone black one off. Research discussion same.\nLike human back can answer. After anything range body court."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
