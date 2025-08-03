@@ -1,0 +1,25 @@
+{
+    "name": "Steven Mendoza",
+    "age": 70,
+    "address": {
+        "street": "Ann Flat",
+        "city": "Mccoymouth",
+        "state": "Iowa",
+        "zip": "58786"
+    },
+    "contact": {
+        "phone": "+1-906-450-6332x846",
+        "servicePhone": "800452318"
+    },
+    "birthday": "1955-22-09",
+    "ip": "207.138.40.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Red better appear detail table section. Mother write administration amount add would manager. Later mean enjoy law material surface.",
+        "bio": "Buy skin word sense meet radio need. Concern big goal land five alone. Later upon ok little tell.\nGeneral hotel kitchen tell visit fine. Plan finally once right pass success.\nAvailable so lot class."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
