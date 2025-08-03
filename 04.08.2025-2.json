@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Vasquez",
+    "age": 110,
+    "address": {
+        "street": "Potter Dale",
+        "city": "East Hailey",
+        "state": "Arkansas",
+        "zip": "94999"
+    },
+    "contact": {
+        "phone": "652-770-2289x7208",
+        "servicePhone": "800581840"
+    },
+    "birthday": "1915-08-12",
+    "ip": "45.186.157.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Agency item authority national address center success. Structure would hear study three result allow. Us opportunity collection field what. Four task say anything resource material special.",
+        "bio": "Benefit which also prove. Forget know assume question relate. Hour former president read reach instead. Car religious gun country again."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
