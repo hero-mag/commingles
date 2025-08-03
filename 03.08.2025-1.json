@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Rush",
+    "age": 79,
+    "address": {
+        "street": "Goodman Turnpike",
+        "city": "Marybury",
+        "state": "Connecticut",
+        "zip": "55053"
+    },
+    "contact": {
+        "phone": "(574)235-2136",
+        "servicePhone": "800607028"
+    },
+    "birthday": "1946-27-07",
+    "ip": "168.194.23.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign image fill note mission sport. Require discover until send wide set.\nMeeting win someone more beat sell including. Tonight represent whose accept plant not claim.",
+        "bio": "And job argue from impact college. Investment without partner argue off goal view. Leave have best nice spring loss. Democratic series about data scientist garden value."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
