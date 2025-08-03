@@ -1,0 +1,25 @@
+{
+    "name": "Reginald Nguyen",
+    "age": 111,
+    "address": {
+        "street": "Anderson Streets",
+        "city": "Karenbury",
+        "state": "Michigan",
+        "zip": "26699"
+    },
+    "contact": {
+        "phone": "7734409181",
+        "servicePhone": "800044044"
+    },
+    "birthday": "1914-29-03",
+    "ip": "51.163.66.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Per example generation away. Game save where open play example. Adult charge process free challenge effect.\nUnderstand only but yourself nearly. Anything high wrong benefit allow to movie.",
+        "bio": "Voice model model answer second perform. Help management agency help serious station. Lay oil thousand far newspaper expert senior."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
