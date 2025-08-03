@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Harvey",
+    "age": 15,
+    "address": {
+        "street": "Lisa Forks",
+        "city": "South Jordan",
+        "state": "Texas",
+        "zip": "59212"
+    },
+    "contact": {
+        "phone": "694.693.4261",
+        "servicePhone": "800531431"
+    },
+    "birthday": "2010-27-09",
+    "ip": "216.55.248.141",
+    "foo": "bar",
+    "profile": {
+        "about": "And approach want source drop sister reflect. Receive raise stock education. Pm measure look last energy.\nNorth institution wind century real. Mr factor interest.",
+        "bio": "Question college reduce eye company. Reach season visit hot government. Take really sure risk yourself. Image start fine style.\nSupport democratic bed area win. Mrs field happy."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
