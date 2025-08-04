@@ -1,0 +1,25 @@
+{
+    "name": "Brian Franklin",
+    "age": 56,
+    "address": {
+        "street": "Stephanie Fields",
+        "city": "Andreafort",
+        "state": "Florida",
+        "zip": "10622"
+    },
+    "contact": {
+        "phone": "(681)881-6881",
+        "servicePhone": "800881244"
+    },
+    "birthday": "1969-05-12",
+    "ip": "207.22.152.125",
+    "foo": "bar",
+    "profile": {
+        "about": "That score if walk social goal red class. House sing lot seat many look. Various door consider note.",
+        "bio": "Pattern what party network station majority. Nature listen light art hand chance. Behavior mean about third interesting. For open least possible."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
