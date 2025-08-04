@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Deleon",
+    "age": 47,
+    "address": {
+        "street": "Yoder Turnpike",
+        "city": "Emilyland",
+        "state": "West Virginia",
+        "zip": "46697"
+    },
+    "contact": {
+        "phone": "(884)872-2297",
+        "servicePhone": "800904479"
+    },
+    "birthday": "1978-31-07",
+    "ip": "117.251.171.107",
+    "foo": "bar",
+    "profile": {
+        "about": "As hard onto enter morning nearly skin. Conference lead especially large late source. Five sea answer catch.\nAnswer can same whose blood. Moment cup commercial hot. Now possible professor like.",
+        "bio": "Recognize coach major head include maybe camera. Suddenly strategy discover growth west election. Natural onto without special conference reason."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
