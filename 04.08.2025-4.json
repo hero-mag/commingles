@@ -1,0 +1,25 @@
+{
+    "name": "Alex Schultz",
+    "age": 84,
+    "address": {
+        "street": "Ronald Manors",
+        "city": "Mcfarlandview",
+        "state": "Oregon",
+        "zip": "23544"
+    },
+    "contact": {
+        "phone": "(397)918-3203x4420",
+        "servicePhone": "800874825"
+    },
+    "birthday": "1941-01-11",
+    "ip": "138.236.213.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Send anyone direction nor wall could full. Voice someone common create low cup. Man represent price tell.",
+        "bio": "Store offer particular then shoulder food end. Watch society anything identify war shoulder. Parent only city however."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
