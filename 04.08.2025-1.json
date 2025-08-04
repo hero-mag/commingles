@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Lloyd",
+    "age": 84,
+    "address": {
+        "street": "Morales Creek",
+        "city": "East Karentown",
+        "state": "Mississippi",
+        "zip": "02705"
+    },
+    "contact": {
+        "phone": "7098708304",
+        "servicePhone": "800345253"
+    },
+    "birthday": "1941-23-10",
+    "ip": "91.228.151.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Camera put wide leader analysis design ahead.\nWoman magazine sing computer become sure until.\nFather plant less everybody democratic decide. Help community peace card.",
+        "bio": "Citizen save interview body teacher economy. World marriage line reflect.\nTonight improve fast compare have chance address. Present approach lose cost. Camera somebody available stand western pull."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
