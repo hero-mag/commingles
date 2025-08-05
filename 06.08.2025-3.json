@@ -1,0 +1,25 @@
+{
+    "name": "Kristi White",
+    "age": 64,
+    "address": {
+        "street": "Lawrence Parks",
+        "city": "Estradafurt",
+        "state": "Utah",
+        "zip": "18249"
+    },
+    "contact": {
+        "phone": "4278112449",
+        "servicePhone": "800862897"
+    },
+    "birthday": "1961-07-06",
+    "ip": "52.79.216.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil save father great and.\nConcern PM meeting fill machine.\nNight wonder song term. Level price room nothing site check consumer.",
+        "bio": "Up memory west hold family.\nTreat take especially yes build upon stage indicate. People buy nothing. Ever half must teacher treatment eat record."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
