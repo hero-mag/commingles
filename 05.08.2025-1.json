@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Tracy Garcia",
+    "age": 100,
+    "address": {
+        "street": "William Common",
+        "city": "Heatherview",
+        "state": "Hawaii",
+        "zip": "81011"
+    },
+    "contact": {
+        "phone": "+1-549-779-4896x87142",
+        "servicePhone": "800887951"
+    },
+    "birthday": "1925-15-07",
+    "ip": "77.41.153.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother space example. Against remember marriage begin why pattern break. Commercial three ok truth together.\nRather break with week listen challenge.",
+        "bio": "Few member rest first produce tree seat.\nToo when evidence though industry get. Let any daughter quite involve. If difference good often.\nDiscover ready blue hard none relationship financial."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
