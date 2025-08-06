@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Yoder",
+    "age": 108,
+    "address": {
+        "street": "Washington Forges",
+        "city": "Reyesmouth",
+        "state": "West Virginia",
+        "zip": "52509"
+    },
+    "contact": {
+        "phone": "926.465.9254",
+        "servicePhone": "800497706"
+    },
+    "birthday": "1917-06-10",
+    "ip": "193.54.228.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship imagine leg hospital candidate fear. Relationship opportunity group computer before.\nInterest likely rock write. Beautiful forward should measure democratic want.",
+        "bio": "Size specific total race nearly the college feel. Herself eight bar Mr age agent.\nSpecific fast hospital common.\nOffer firm team my prove necessary stock. Popular finally indeed theory."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
