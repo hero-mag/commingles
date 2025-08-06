@@ -1,0 +1,25 @@
+{
+    "name": "Carla Anderson",
+    "age": 58,
+    "address": {
+        "street": "Lauren Locks",
+        "city": "Susantown",
+        "state": "Maryland",
+        "zip": "91962"
+    },
+    "contact": {
+        "phone": "337-511-7338",
+        "servicePhone": "800742045"
+    },
+    "birthday": "1967-19-12",
+    "ip": "208.157.220.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything add wait new. Pattern gas own third president.\nSuccessful second city modern at dinner yourself. Brother culture success write everybody same himself. Major newspaper break consumer.",
+        "bio": "Set ready system possible claim. Raise matter open body science economy. Republican cut simple number money.\nLeft pretty man popular. Young teach hear southern ten rock."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
