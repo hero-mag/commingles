@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Huff",
+    "age": 100,
+    "address": {
+        "street": "Linda Dale",
+        "city": "Port Johnborough",
+        "state": "Ohio",
+        "zip": "61889"
+    },
+    "contact": {
+        "phone": "(568)850-5317x67310",
+        "servicePhone": "800461586"
+    },
+    "birthday": "1925-17-07",
+    "ip": "14.156.14.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Clearly price able rate to again teacher. Most space especially real scientist.\nServe card bank social business support. Factor too media form.",
+        "bio": "Term tell series name direction expert. Go mission need age. Position yeah wrong nation artist small feeling work."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
