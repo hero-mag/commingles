@@ -1,0 +1,25 @@
+{
+    "name": "Frederick Bean",
+    "age": 88,
+    "address": {
+        "street": "Lam Circles",
+        "city": "Julieview",
+        "state": "Maryland",
+        "zip": "75576"
+    },
+    "contact": {
+        "phone": "(681)246-5208",
+        "servicePhone": "800805872"
+    },
+    "birthday": "1937-16-08",
+    "ip": "165.101.177.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Good can town sense. Police prevent bar go green. Low least where career local letter.\nDecision others letter she their paper. Food eat opportunity. Whatever senior tell.",
+        "bio": "Society suddenly see eat program take which. Blue friend significant development cultural."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
