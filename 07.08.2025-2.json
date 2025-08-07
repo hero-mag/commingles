@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Beasley",
+    "age": 20,
+    "address": {
+        "street": "Christopher Center",
+        "city": "Danielchester",
+        "state": "Wyoming",
+        "zip": "90269"
+    },
+    "contact": {
+        "phone": "296-908-0433x14206",
+        "servicePhone": "800482025"
+    },
+    "birthday": "2005-03-12",
+    "ip": "149.198.73.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Lot democratic after apply federal role claim whom. Tough trial deal bad Republican. Leave less area paper.",
+        "bio": "Up reduce difference share. Kitchen child society example choose activity last. Friend store system clearly music help reality.\nIssue economic seem material bank past."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
