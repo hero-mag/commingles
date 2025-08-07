@@ -1,0 +1,25 @@
+{
+    "name": "Robert Hale",
+    "age": 9,
+    "address": {
+        "street": "Ross Parkway",
+        "city": "North Davidstad",
+        "state": "Connecticut",
+        "zip": "73533"
+    },
+    "contact": {
+        "phone": "001-353-486-1337x6530",
+        "servicePhone": "800147938"
+    },
+    "birthday": "2016-09-01",
+    "ip": "12.206.53.155",
+    "foo": "bar",
+    "profile": {
+        "about": "She nearly mean table smile run. Increase forward deep writer sort tax business follow.\nRequire particularly federal have catch trip. This improve off positive none.",
+        "bio": "Attention house her occur program cup assume.\nAsk reveal really speech week performance.\nMy operation interesting perhaps. Pay describe sometimes voice or speech understand."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
