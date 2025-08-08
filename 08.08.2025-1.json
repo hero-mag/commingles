@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Lee",
+    "age": 5,
+    "address": {
+        "street": "Victoria Forks",
+        "city": "East Edward",
+        "state": "Oregon",
+        "zip": "43006"
+    },
+    "contact": {
+        "phone": "+1-328-218-4445x678",
+        "servicePhone": "800279640"
+    },
+    "birthday": "2020-07-05",
+    "ip": "146.229.33.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Serious cause forget even firm. Spring create become various half.\nExactly century health which.\nSuddenly age seven. Attorney style rule environment song section.",
+        "bio": "Make certainly social car lot population by. Race staff of enough always others certainly.\nFine discuss tough despite control. Thus expert week do on."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
