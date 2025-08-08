@@ -1,0 +1,25 @@
+{
+    "name": "Heather Rogers",
+    "age": 25,
+    "address": {
+        "street": "Kelsey Route",
+        "city": "South Elizabethburgh",
+        "state": "New York",
+        "zip": "04964"
+    },
+    "contact": {
+        "phone": "2288373916",
+        "servicePhone": "800400809"
+    },
+    "birthday": "2000-18-09",
+    "ip": "122.18.37.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Perform writer onto health.\nBuy east else worker guy. Expect station of person.\nTime relationship major speak drop model. Without law level. Actually my large price choice better.",
+        "bio": "Fish determine risk party. Culture way traditional example. Provide investment total top.\nClearly firm behind tax music fund interest. Rise nor new century cost trial itself. Must perform exist like."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
