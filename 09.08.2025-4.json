@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Smith",
+    "age": 7,
+    "address": {
+        "street": "Julia Estate",
+        "city": "New Rebeccashire",
+        "state": "Florida",
+        "zip": "68303"
+    },
+    "contact": {
+        "phone": "232.933.0578",
+        "servicePhone": "800783002"
+    },
+    "birthday": "2018-15-06",
+    "ip": "111.107.104.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether song concern especially onto forward add. Individual throughout piece. Sister could without sit serious its hold chance.",
+        "bio": "Near several major.\nHear born push. Might industry site five get beautiful recent. When series arrive. Add sign play since eat before."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
