@@ -1,0 +1,25 @@
+{
+    "name": "Natalie Ramirez",
+    "age": 111,
+    "address": {
+        "street": "Thomas Mill",
+        "city": "New Nicole",
+        "state": "Oregon",
+        "zip": "50818"
+    },
+    "contact": {
+        "phone": "001-737-457-9506x995",
+        "servicePhone": "800969021"
+    },
+    "birthday": "1914-23-09",
+    "ip": "119.105.212.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Want maintain economic responsibility attention affect doctor third. Seek involve war outside value evidence. Tend music present.\nFor agency today. How move Mrs former indicate your hospital.",
+        "bio": "Evening authority build onto west myself. Pressure professor step bed school economic."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
