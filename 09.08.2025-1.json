@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Martin",
+    "age": 32,
+    "address": {
+        "street": "Mccoy Flat",
+        "city": "East Michaelton",
+        "state": "Indiana",
+        "zip": "98701"
+    },
+    "contact": {
+        "phone": "001-808-684-8073x687",
+        "servicePhone": "800398465"
+    },
+    "birthday": "1993-28-02",
+    "ip": "56.217.233.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Long find whether letter feeling financial ability. Energy recognize price someone we compare. Audience research save down as during. Speak source matter financial city model.",
+        "bio": "Again any notice feeling. With conference along his both have article east.\nMother say huge open miss evidence world."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
