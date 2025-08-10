@@ -1,0 +1,25 @@
+{
+    "name": "Alexandria Bates",
+    "age": 86,
+    "address": {
+        "street": "Walter Spring",
+        "city": "Martinezhaven",
+        "state": "Pennsylvania",
+        "zip": "14541"
+    },
+    "contact": {
+        "phone": "+1-703-560-3562x412",
+        "servicePhone": "800569761"
+    },
+    "birthday": "1939-08-02",
+    "ip": "69.238.86.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Worry institution man. Drop mission month serious of be before.\nReach maybe condition culture well realize perhaps. And lay Mr clear.",
+        "bio": "Election end station operation brother sing. Next argue money fund.\nAgainst there data provide couple model. Nearly week start experience. Compare upon you former new bank protect."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
