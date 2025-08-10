@@ -1,0 +1,25 @@
+{
+    "name": "Susan Craig",
+    "age": 89,
+    "address": {
+        "street": "Nelson Isle",
+        "city": "Phillipsbury",
+        "state": "Wisconsin",
+        "zip": "57889"
+    },
+    "contact": {
+        "phone": "001-475-739-2465",
+        "servicePhone": "800326978"
+    },
+    "birthday": "1936-24-07",
+    "ip": "68.75.107.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Small lawyer begin network vote. Event network ahead name difficult. Million after admit start special.\nRather none sister. May class still management energy that.",
+        "bio": "Organization time program notice price like cut. Style international contain lot move."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
