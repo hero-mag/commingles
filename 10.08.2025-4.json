@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Vazquez",
+    "age": 83,
+    "address": {
+        "street": "Alvarez Rapids",
+        "city": "Lake Patrickport",
+        "state": "Mississippi",
+        "zip": "33516"
+    },
+    "contact": {
+        "phone": "495-647-5596x8455",
+        "servicePhone": "800572353"
+    },
+    "birthday": "1942-29-01",
+    "ip": "19.237.115.167",
+    "foo": "bar",
+    "profile": {
+        "about": "More town make foot want high practice yeah. Public own under stage. Fire garden out everybody spring economy letter.\nMovie edge around. Difference word prepare music ready source growth.",
+        "bio": "Something sing easy star door both. Though represent scene prove end whole indicate. Throw I college modern manage goal Republican."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
