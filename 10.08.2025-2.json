@@ -1,0 +1,25 @@
+{
+    "name": "David Parker",
+    "age": 115,
+    "address": {
+        "street": "Samuel Inlet",
+        "city": "New Alyssaville",
+        "state": "South Carolina",
+        "zip": "28740"
+    },
+    "contact": {
+        "phone": "(884)862-3060x0695",
+        "servicePhone": "800444380"
+    },
+    "birthday": "1910-07-08",
+    "ip": "37.34.31.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference Mr produce feeling already. Reflect member century PM before. Fall able worker result argue drop.\nFeel soon glass feel. Model make friend interesting.",
+        "bio": "Charge director fire do. You top change wonder send teach. West civil their window together century. Think listen lot begin that its commercial."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
