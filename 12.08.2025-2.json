@@ -1,0 +1,25 @@
+{
+    "name": "Tracie Adams",
+    "age": 56,
+    "address": {
+        "street": "Mosley Brooks",
+        "city": "Kingmouth",
+        "state": "Montana",
+        "zip": "44850"
+    },
+    "contact": {
+        "phone": "334-326-7874",
+        "servicePhone": "800364947"
+    },
+    "birthday": "1969-13-04",
+    "ip": "147.175.30.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Security later sense beat hospital. Land trial even election southern forward.\nKid a far message. Discussion support store.\nNotice growth husband health on more create there. Positive long that book.",
+        "bio": "Effect call might free treatment week simply. Security capital list significant scientist wind."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
