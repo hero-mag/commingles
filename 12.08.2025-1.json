@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Matthews",
+    "age": 22,
+    "address": {
+        "street": "Deborah Course",
+        "city": "North Katherinehaven",
+        "state": "Mississippi",
+        "zip": "76323"
+    },
+    "contact": {
+        "phone": "(938)522-0460",
+        "servicePhone": "800057980"
+    },
+    "birthday": "2003-05-10",
+    "ip": "181.209.77.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Others main expect thing. First toward believe blood lose reality maybe.",
+        "bio": "Discuss low cultural building. Structure rise try attention assume. Onto up itself.\nBody think score effort. Miss eye hundred have. Bad remain region change idea structure unit store."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
