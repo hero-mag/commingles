@@ -1,0 +1,25 @@
+{
+    "name": "Craig Murphy",
+    "age": 28,
+    "address": {
+        "street": "Darren Brooks",
+        "city": "New Phillipburgh",
+        "state": "Texas",
+        "zip": "65794"
+    },
+    "contact": {
+        "phone": "373.289.7851",
+        "servicePhone": "800139970"
+    },
+    "birthday": "1997-13-04",
+    "ip": "99.64.28.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Car skill way. Young since politics. These ever day use expert senior on.\nNot crime fly laugh professional. Campaign market image American course author. Single black price walk. Laugh doctor deal.",
+        "bio": "After soon real show necessary yeah. If attorney peace degree control particular. Oil though all window Mr another standard.\nSociety collection type interesting. Talk across off market their."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
