@@ -1,0 +1,25 @@
+{
+    "name": "Diana Jenkins",
+    "age": 73,
+    "address": {
+        "street": "Vaughan Track",
+        "city": "Michaelmouth",
+        "state": "West Virginia",
+        "zip": "98776"
+    },
+    "contact": {
+        "phone": "6923415832",
+        "servicePhone": "800423397"
+    },
+    "birthday": "1952-12-03",
+    "ip": "47.132.50.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate benefit chance body along soon up reality.\nWest better certainly even medical. Identify white less financial. Suggest test plant can individual relationship maybe.",
+        "bio": "Offer turn fish read reduce that. Move may admit newspaper what cold shake. Discover kid while well clearly first wrong cover.\nHome center fear site society news if. Carry make bill administration."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
