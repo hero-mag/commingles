@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Mitchell",
+    "age": 0,
+    "address": {
+        "street": "Nicole Ridges",
+        "city": "Gouldberg",
+        "state": "Montana",
+        "zip": "38319"
+    },
+    "contact": {
+        "phone": "+1-375-294-6975x853",
+        "servicePhone": "800055798"
+    },
+    "birthday": "2025-16-04",
+    "ip": "166.217.201.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Check education bill fall. North wonder bill admit anyone industry. Into reason increase usually.",
+        "bio": "Cultural tough five power. He her laugh do get event.\nWalk that start apply family couple nothing. Say we as wrong."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
