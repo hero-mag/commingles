@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Boone",
+    "age": 29,
+    "address": {
+        "street": "Mckay Creek",
+        "city": "Sanfordville",
+        "state": "Alaska",
+        "zip": "70653"
+    },
+    "contact": {
+        "phone": "462.700.4646",
+        "servicePhone": "800961514"
+    },
+    "birthday": "1996-18-07",
+    "ip": "201.80.93.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce range bed toward. News Congress response piece sell yourself society. State state tree less well parent serious.",
+        "bio": "Occur major concern possible indeed property. Particular serious together effort which. Idea understand about approach son conference risk."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
