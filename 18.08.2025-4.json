@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Hill",
+    "age": 25,
+    "address": {
+        "street": "Victor River",
+        "city": "Katherineside",
+        "state": "Arkansas",
+        "zip": "52006"
+    },
+    "contact": {
+        "phone": "202.704.3601x108",
+        "servicePhone": "800432127"
+    },
+    "birthday": "2000-09-11",
+    "ip": "90.107.18.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach after every he short peace speech. College change risk team.\nTruth much many who apply important stock recent. Yourself establish difference speak size.\nNetwork others consumer.",
+        "bio": "White risk bank enjoy look. Beat energy mean thousand worry focus resource tell.\nDegree medical per ten possible number. Prevent pick rest against."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
