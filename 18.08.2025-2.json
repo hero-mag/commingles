@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Espinoza",
+    "age": 55,
+    "address": {
+        "street": "Baker Summit",
+        "city": "Faulknerchester",
+        "state": "Arizona",
+        "zip": "46638"
+    },
+    "contact": {
+        "phone": "+1-564-352-4750x862",
+        "servicePhone": "800078799"
+    },
+    "birthday": "1970-25-04",
+    "ip": "165.85.155.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Deal value central believe. Alone deep young study a ok.\nForeign sense Congress hundred high. Indicate win budget people return. Treat suddenly soon whole military series.",
+        "bio": "Door poor nature officer true along candidate. White feel technology firm."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
