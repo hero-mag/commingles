@@ -1,0 +1,25 @@
+{
+    "name": "Brett Williams",
+    "age": 4,
+    "address": {
+        "street": "Garrett Mountain",
+        "city": "Andrewmouth",
+        "state": "South Carolina",
+        "zip": "98414"
+    },
+    "contact": {
+        "phone": "925.561.9175",
+        "servicePhone": "800284837"
+    },
+    "birthday": "2021-16-05",
+    "ip": "22.135.7.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Process area training prevent either east college. Pretty white could left news character real.",
+        "bio": "Rule administration mind fill we economy help. Majority stay statement would give."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
