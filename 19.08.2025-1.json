@@ -1,0 +1,25 @@
+{
+    "name": "Michael Sharp",
+    "age": 108,
+    "address": {
+        "street": "Cox Place",
+        "city": "Lake Darrenport",
+        "state": "North Dakota",
+        "zip": "28047"
+    },
+    "contact": {
+        "phone": "424-889-3286x014",
+        "servicePhone": "800069972"
+    },
+    "birthday": "1917-30-01",
+    "ip": "109.44.113.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Cultural by big no toward. She husband great boy. Camera those difference stop crime everyone position value.",
+        "bio": "Artist upon through character safe budget community.\nDaughter imagine anything best across responsibility develop. Suggest good natural raise. Hope write others often machine worker."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
