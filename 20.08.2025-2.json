@@ -1,0 +1,25 @@
+{
+    "name": "Julie Spencer",
+    "age": 81,
+    "address": {
+        "street": "Vargas Track",
+        "city": "Port Jeffreymouth",
+        "state": "New Jersey",
+        "zip": "31277"
+    },
+    "contact": {
+        "phone": "(869)361-2943",
+        "servicePhone": "800351623"
+    },
+    "birthday": "1944-14-06",
+    "ip": "131.172.209.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Bit the effort building teach young college. Security well pull against deal compare. Do too marriage perform.\nWorld finally entire sport will eye theory. Movie point expect politics top tonight.",
+        "bio": "Writer half little might know money. Nothing do red answer."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
