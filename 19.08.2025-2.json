@@ -1,0 +1,25 @@
+{
+    "name": "Bonnie West",
+    "age": 26,
+    "address": {
+        "street": "Jones Shores",
+        "city": "Larsonview",
+        "state": "New York",
+        "zip": "84510"
+    },
+    "contact": {
+        "phone": "5642089119",
+        "servicePhone": "800258562"
+    },
+    "birthday": "1999-06-11",
+    "ip": "59.217.3.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Raise quickly agency something break. During company long one friend determine. Local about without cup west family growth.",
+        "bio": "Pretty effort carry without listen sometimes test. Little foot quite soldier picture Mr."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
