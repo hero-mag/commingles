@@ -1,0 +1,25 @@
+{
+    "name": "David Washington",
+    "age": 92,
+    "address": {
+        "street": "Ashley Stream",
+        "city": "Baxterfurt",
+        "state": "Colorado",
+        "zip": "60723"
+    },
+    "contact": {
+        "phone": "703.542.0326x8359",
+        "servicePhone": "800990854"
+    },
+    "birthday": "1933-13-03",
+    "ip": "165.206.207.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Within close old amount itself big power. Choose wait rich year crime style. East project option order agreement during.",
+        "bio": "Green eye happen a commercial join. My behind feeling once.\nSea concern pressure rich mention factor people trouble. Return receive control win worry low."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
