@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Hill",
+    "age": 10,
+    "address": {
+        "street": "Fernandez Ports",
+        "city": "Lake Rachel",
+        "state": "Georgia",
+        "zip": "33447"
+    },
+    "contact": {
+        "phone": "(441)356-9885x560",
+        "servicePhone": "800349695"
+    },
+    "birthday": "2015-31-08",
+    "ip": "210.168.11.89",
+    "foo": "bar",
+    "profile": {
+        "about": "However remain building girl. Best owner computer never detail. Character maybe life force pick.\nThousand between think news soon pass. Top ability drop usually good behind girl.",
+        "bio": "Institution former pick relate do indicate. Sit fall industry take yeah. Find about these often standard second.\nWalk wish you crime pay effect point pass. Price hand detail hotel."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
