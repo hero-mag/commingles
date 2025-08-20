@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Williams",
+    "age": 36,
+    "address": {
+        "street": "Robertson Plaza",
+        "city": "Candicemouth",
+        "state": "Missouri",
+        "zip": "37786"
+    },
+    "contact": {
+        "phone": "635.209.9993",
+        "servicePhone": "800746971"
+    },
+    "birthday": "1989-25-06",
+    "ip": "6.214.40.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture but arrive prove. Represent how growth central remember. Various customer war task maintain culture would wife.\nHis generation almost. Under grow anyone maybe role throughout see doctor.",
+        "bio": "Or just happen information computer. Everything treatment responsibility once. Medical floor every miss meet road among."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
