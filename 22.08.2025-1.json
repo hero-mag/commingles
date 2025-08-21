@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Moore",
+    "age": 99,
+    "address": {
+        "street": "Samantha Vista",
+        "city": "Port Arthurbury",
+        "state": "Louisiana",
+        "zip": "23808"
+    },
+    "contact": {
+        "phone": "+1-366-281-1744",
+        "servicePhone": "800927808"
+    },
+    "birthday": "1926-09-08",
+    "ip": "85.23.166.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Work usually thus remain. Trial appear quickly line analysis. When give our know believe someone four.",
+        "bio": "Join tree world single. Policy ten model front his grow site.\nYour forward baby wall article. Store collection hand. Edge financial and notice let hospital. Prove figure detail science."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
