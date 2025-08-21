@@ -1,0 +1,25 @@
+{
+    "name": "Jose Campbell",
+    "age": 60,
+    "address": {
+        "street": "Brett Row",
+        "city": "Port Theresaport",
+        "state": "Washington",
+        "zip": "60374"
+    },
+    "contact": {
+        "phone": "6367529796",
+        "servicePhone": "800401000"
+    },
+    "birthday": "1965-01-07",
+    "ip": "42.214.84.98",
+    "foo": "bar",
+    "profile": {
+        "about": "South consumer arrive mean energy seem myself. Score bar production figure turn bad service. Campaign necessary success at such wish hit.",
+        "bio": "Often fire black wind. Key worry quality talk education alone.\nMake name conference forward risk someone institution treat. Painting thousand sure. Leader sound throughout condition peace PM similar."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
