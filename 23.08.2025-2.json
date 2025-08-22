@@ -1,0 +1,25 @@
+{
+    "name": "Mark Brown",
+    "age": 38,
+    "address": {
+        "street": "Mills Summit",
+        "city": "Port Karenton",
+        "state": "Louisiana",
+        "zip": "08930"
+    },
+    "contact": {
+        "phone": "461.201.4629x55290",
+        "servicePhone": "800493588"
+    },
+    "birthday": "1987-18-08",
+    "ip": "35.160.130.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Pull safe stock affect board history policy let. Beyond play cold society a. Them trip ability food.",
+        "bio": "Nearly movement and recent serious guess door help. Their tonight note management. Sometimes seven grow set author need road indeed."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
