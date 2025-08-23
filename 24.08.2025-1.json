@@ -1,0 +1,25 @@
+{
+    "name": "Beverly Jackson",
+    "age": 4,
+    "address": {
+        "street": "White Coves",
+        "city": "Marthafurt",
+        "state": "Kentucky",
+        "zip": "90440"
+    },
+    "contact": {
+        "phone": "(931)269-9519x830",
+        "servicePhone": "800976160"
+    },
+    "birthday": "2021-26-02",
+    "ip": "103.30.86.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Tree onto series word worry sign affect data. Economic reason determine design which meeting. Travel industry this vote.",
+        "bio": "Season road democratic south question so. Author down yeah value.\nChild these operation her he former see suffer. Easy marriage season actually middle. Wind age we effort well."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
