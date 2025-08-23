@@ -1,0 +1,25 @@
+{
+    "name": "Joel Simmons",
+    "age": 111,
+    "address": {
+        "street": "Colleen Run",
+        "city": "South Maryview",
+        "state": "South Carolina",
+        "zip": "70567"
+    },
+    "contact": {
+        "phone": "530-957-0884x03503",
+        "servicePhone": "800803148"
+    },
+    "birthday": "1914-21-01",
+    "ip": "140.243.108.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill newspaper type single animal difficult. What here agent body after nothing.\nSituation kind industry experience last kitchen across. Phone glass think our.",
+        "bio": "Significant his medical garden fear side tax. Son treatment near center serious market himself dark.\nMarket main study benefit good short interest keep. Real respond benefit trial professional."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
