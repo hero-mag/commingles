@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Richardson",
+    "age": 65,
+    "address": {
+        "street": "Lucas Trail",
+        "city": "East Bradleyberg",
+        "state": "Idaho",
+        "zip": "31822"
+    },
+    "contact": {
+        "phone": "265.698.7611",
+        "servicePhone": "800709616"
+    },
+    "birthday": "1960-11-05",
+    "ip": "78.32.212.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Though treatment add water movie.\nInternational firm time check win concern truth. Performance very argue already report social.\nNecessary front site floor many.",
+        "bio": "Change anyone worry their investment eight bar. Large list now daughter task produce woman. Sing single hair support arrive into detail."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
