@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Russell",
+    "age": 106,
+    "address": {
+        "street": "Allen Garden",
+        "city": "East Colin",
+        "state": "South Carolina",
+        "zip": "64495"
+    },
+    "contact": {
+        "phone": "+1-684-987-1368",
+        "servicePhone": "800836163"
+    },
+    "birthday": "1919-08-08",
+    "ip": "157.184.189.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Few beyond better everything. Reality expect exactly stay. Understand general if bag.",
+        "bio": "Kitchen seven right painting skill address. Himself plant two guess avoid produce into."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
