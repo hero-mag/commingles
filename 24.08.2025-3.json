@@ -1,0 +1,25 @@
+{
+    "name": "Philip Arnold",
+    "age": 43,
+    "address": {
+        "street": "Hill Vista",
+        "city": "Stewarttown",
+        "state": "Colorado",
+        "zip": "62195"
+    },
+    "contact": {
+        "phone": "852-950-6157x60330",
+        "servicePhone": "800118373"
+    },
+    "birthday": "1982-02-11",
+    "ip": "196.130.95.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Serve door professional wear. Tax pattern middle character Democrat. Ready can recently as.",
+        "bio": "Tonight company support sort education. Skin sense happen mean hospital fast. Audience art occur throughout claim happen sign gas. Tax test left interview order purpose bed."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
