@@ -1,0 +1,25 @@
+{
+    "name": "Lynn Robertson",
+    "age": 17,
+    "address": {
+        "street": "Brandi Run",
+        "city": "Jacobschester",
+        "state": "Louisiana",
+        "zip": "63342"
+    },
+    "contact": {
+        "phone": "+1-624-373-4184x2064",
+        "servicePhone": "800366981"
+    },
+    "birthday": "2008-18-09",
+    "ip": "164.42.154.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen what even technology seek our up. Pm third brother would per discussion. American increase light real study something class.",
+        "bio": "Leader agree their both individual change. Available task meet full moment. Who shake bill wife know occur."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
