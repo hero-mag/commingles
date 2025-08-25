@@ -1,0 +1,25 @@
+{
+    "name": "Beverly Anderson",
+    "age": 25,
+    "address": {
+        "street": "James Stravenue",
+        "city": "West Edward",
+        "state": "Kentucky",
+        "zip": "07964"
+    },
+    "contact": {
+        "phone": "(377)226-7980x2319",
+        "servicePhone": "800503647"
+    },
+    "birthday": "2000-29-11",
+    "ip": "136.76.243.242",
+    "foo": "bar",
+    "profile": {
+        "about": "That follow experience rate space series economy safe. Cut event her manager response girl. Task operation course night.\nBad situation Mrs reach identify TV finally. Job value long budget.",
+        "bio": "Movement financial treat car natural. Role direction recently decide model however threat."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
