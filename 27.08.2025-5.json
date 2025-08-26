@@ -1,0 +1,25 @@
+{
+    "name": "Diana Martinez",
+    "age": 91,
+    "address": {
+        "street": "Medina Bridge",
+        "city": "Nicholasview",
+        "state": "Ohio",
+        "zip": "20294"
+    },
+    "contact": {
+        "phone": "984-275-0836",
+        "servicePhone": "800548069"
+    },
+    "birthday": "1934-04-02",
+    "ip": "101.138.34.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Type theory prepare dark. Turn job partner meet hotel she manager.\nCandidate actually that eye. Foreign factor music lay.",
+        "bio": "Look third senior left into enough civil. Suddenly should race. Spring doctor agency spring enough say section.\nRich want next party idea though. Part cell executive nation herself customer goal."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
