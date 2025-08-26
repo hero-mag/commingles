@@ -1,0 +1,25 @@
+{
+    "name": "Annette Cochran",
+    "age": 41,
+    "address": {
+        "street": "Lisa Summit",
+        "city": "West Stacy",
+        "state": "New Hampshire",
+        "zip": "99269"
+    },
+    "contact": {
+        "phone": "7882582101",
+        "servicePhone": "800631451"
+    },
+    "birthday": "1984-29-12",
+    "ip": "99.7.132.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Air wide almost. Two vote yes himself federal. Doctor maybe great prepare fine.\nProvide particularly turn difference eat stand Mr. We notice assume candidate radio. Design your quality tree.",
+        "bio": "Watch expect short result work. Lead across pressure so discover product model.\nBoy approach identify generation prepare exactly. Computer smile research. Project his process."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
