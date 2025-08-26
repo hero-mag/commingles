@@ -1,0 +1,25 @@
+{
+    "name": "Billy Cruz",
+    "age": 67,
+    "address": {
+        "street": "Flores Ridge",
+        "city": "East Eric",
+        "state": "Alaska",
+        "zip": "28970"
+    },
+    "contact": {
+        "phone": "+1-633-596-4450x850",
+        "servicePhone": "800513817"
+    },
+    "birthday": "1958-19-03",
+    "ip": "50.175.20.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Material building room section. Policy perform rather ground test pattern big.\nLearn big cover above actually different soon. Popular she money. Wide remain firm think possible fall.",
+        "bio": "Whole mission by may. Indeed crime man issue partner add why kid."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
