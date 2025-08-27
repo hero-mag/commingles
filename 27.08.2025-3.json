@@ -1,0 +1,25 @@
+{
+    "name": "Karen Abbott",
+    "age": 4,
+    "address": {
+        "street": "Brian Loaf",
+        "city": "Jenniferfort",
+        "state": "Arizona",
+        "zip": "35725"
+    },
+    "contact": {
+        "phone": "234-859-0711",
+        "servicePhone": "800212395"
+    },
+    "birthday": "2021-22-03",
+    "ip": "149.110.83.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Base factor attack down drop. Wear new chair.\nSingle interview trouble. Wait western herself as back blood.",
+        "bio": "Back success food test candidate open. Vote thank both necessary trip. Report good surface behavior. Parent reveal although place factor politics.\nPoor break once detail movement sound apply."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
