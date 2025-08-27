@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Martinez",
+    "age": 60,
+    "address": {
+        "street": "Bradford Pine",
+        "city": "Rogerchester",
+        "state": "Maryland",
+        "zip": "86368"
+    },
+    "contact": {
+        "phone": "858.246.6533",
+        "servicePhone": "800351496"
+    },
+    "birthday": "1965-28-06",
+    "ip": "63.191.202.100",
+    "foo": "bar",
+    "profile": {
+        "about": "About real Democrat interview general former. When fact rock.\nProtect item bring. Fine early war necessary impact sometimes. Pull yeah along data.",
+        "bio": "Relate case something their chair. Cultural house term business heart building wrong.\nEducation what past. Thing anyone ago kid simply action."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
