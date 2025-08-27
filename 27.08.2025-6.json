@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Ford",
+    "age": 48,
+    "address": {
+        "street": "Murphy Throughway",
+        "city": "North Jefferychester",
+        "state": "New Hampshire",
+        "zip": "45957"
+    },
+    "contact": {
+        "phone": "+1-630-870-0189x352",
+        "servicePhone": "800756111"
+    },
+    "birthday": "1977-12-10",
+    "ip": "102.161.253.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Itself firm agreement along perhaps ok let. Try set himself. Surface remain upon experience market able hundred yeah. Upon loss spend pay administration.",
+        "bio": "End above wonder. Must voice young most body fear this through.\nReduce look policy firm phone even message. Feel growth dream power."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
