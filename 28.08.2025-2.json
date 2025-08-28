@@ -1,0 +1,25 @@
+{
+    "name": "George Hernandez",
+    "age": 22,
+    "address": {
+        "street": "Turner Pike",
+        "city": "Nelsonchester",
+        "state": "Idaho",
+        "zip": "76949"
+    },
+    "contact": {
+        "phone": "971-965-7708x563",
+        "servicePhone": "800540077"
+    },
+    "birthday": "2003-08-06",
+    "ip": "126.218.43.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Take audience want no son red. Billion so by require.\nThe there trade specific attorney view thank staff. Name local film. Character security maybe soon during.",
+        "bio": "Well common standard skill child. Whether group discussion up. Then receive drop.\nNothing list window create teacher. Close suggest open discover life some live."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
