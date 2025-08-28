@@ -1,0 +1,25 @@
+{
+    "name": "Mary Miles",
+    "age": 51,
+    "address": {
+        "street": "Kelly Stream",
+        "city": "Michelleburgh",
+        "state": "Mississippi",
+        "zip": "51040"
+    },
+    "contact": {
+        "phone": "001-412-922-9439x53627",
+        "servicePhone": "800022863"
+    },
+    "birthday": "1974-03-06",
+    "ip": "30.128.252.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Ball if add TV create decide. Before blue seat sing though third eat old.\nCut according measure marriage movement that ready. Magazine anyone need.",
+        "bio": "Property budget movie population whatever admit public. Sport maintain moment song local new. Why give old character."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
