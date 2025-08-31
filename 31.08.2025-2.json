@@ -1,0 +1,25 @@
+{
+    "name": "Michael Patel",
+    "age": 9,
+    "address": {
+        "street": "Jason Manor",
+        "city": "New Karentown",
+        "state": "Arizona",
+        "zip": "79763"
+    },
+    "contact": {
+        "phone": "+1-217-524-4614x6984",
+        "servicePhone": "800218975"
+    },
+    "birthday": "2016-21-12",
+    "ip": "198.138.31.116",
+    "foo": "bar",
+    "profile": {
+        "about": "No after lay after enjoy. Something start small will. Last particular ability almost without memory money hotel.",
+        "bio": "Drop change dinner across. Section any character eat order example. Product strategy research stop east quickly huge."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
