@@ -1,0 +1,25 @@
+{
+    "name": "Antonio Anderson",
+    "age": 106,
+    "address": {
+        "street": "Doyle Mountains",
+        "city": "New Maryville",
+        "state": "Minnesota",
+        "zip": "58193"
+    },
+    "contact": {
+        "phone": "606.292.2571",
+        "servicePhone": "800369174"
+    },
+    "birthday": "1919-31-10",
+    "ip": "200.188.45.47",
+    "foo": "bar",
+    "profile": {
+        "about": "What then relationship late. Price view work specific west nice better. Seat fly test third type close need camera.",
+        "bio": "Next only choice seat seem right. Political million language all discover through. It drive all address."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
