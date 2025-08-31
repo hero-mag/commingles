@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Wright",
+    "age": 88,
+    "address": {
+        "street": "Madden Brook",
+        "city": "Port Joe",
+        "state": "Utah",
+        "zip": "57891"
+    },
+    "contact": {
+        "phone": "604-880-2440",
+        "servicePhone": "800118387"
+    },
+    "birthday": "1937-13-02",
+    "ip": "93.143.211.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Important power over whole bring democratic. Always firm fly program yard.\nGround both law often. Health budget baby.",
+        "bio": "Player low common society action wonder. Stand ago son happen owner cultural recently. Play loss population professor."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
