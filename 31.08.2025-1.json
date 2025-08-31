@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Weaver",
+    "age": 114,
+    "address": {
+        "street": "Richard Inlet",
+        "city": "Gregmouth",
+        "state": "California",
+        "zip": "86707"
+    },
+    "contact": {
+        "phone": "(553)898-5462x78190",
+        "servicePhone": "800740366"
+    },
+    "birthday": "1911-15-09",
+    "ip": "55.127.139.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover follow nearly whose vote you. Part human always behavior century this student.\nWorker all rich look tonight former place. Next give will raise nearly exactly action.",
+        "bio": "Call religious win call else important give painting. Chance fly already activity red wish human.\nMillion continue book leg me business future."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
