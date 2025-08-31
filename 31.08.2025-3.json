@@ -1,0 +1,25 @@
+{
+    "name": "Austin Riley",
+    "age": 15,
+    "address": {
+        "street": "Elizabeth Dale",
+        "city": "Port Kaylaville",
+        "state": "Nevada",
+        "zip": "15537"
+    },
+    "contact": {
+        "phone": "799.622.5657x487",
+        "servicePhone": "800393915"
+    },
+    "birthday": "2010-09-08",
+    "ip": "40.43.32.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent stage place bed subject other. Yeah operation scientist he later yes. Admit statement their listen sport.\nGreat mean apply yourself say top member. Name community charge war single film.",
+        "bio": "Dog artist service probably respond a. Pull happy billion.\nPick author wish safe recent such. Wait month develop likely writer."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
