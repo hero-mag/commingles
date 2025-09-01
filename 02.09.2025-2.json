@@ -1,0 +1,25 @@
+{
+    "name": "Alexis James",
+    "age": 96,
+    "address": {
+        "street": "Miguel Meadow",
+        "city": "South Kristinabury",
+        "state": "Illinois",
+        "zip": "20544"
+    },
+    "contact": {
+        "phone": "(423)482-8446",
+        "servicePhone": "800857971"
+    },
+    "birthday": "1929-22-09",
+    "ip": "56.240.67.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Word give find top north walk seven. Individual approach during.\nOn age fly customer life.\nAnalysis standard of on bar general year. Project decade foreign building cup others by.",
+        "bio": "Technology share nice kitchen line health sport. Effort upon together us. Prove various seek word stand travel.\nEspecially care measure adult outside else. Level color rest TV total their."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
