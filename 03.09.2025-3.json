@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Deborah Miller",
+    "age": 109,
+    "address": {
+        "street": "Leon Pines",
+        "city": "South Josephfurt",
+        "state": "Mississippi",
+        "zip": "39107"
+    },
+    "contact": {
+        "phone": "+1-210-805-2463x223",
+        "servicePhone": "800863643"
+    },
+    "birthday": "1916-30-11",
+    "ip": "44.71.13.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband teacher attorney would be garden. Public century occur.\nSubject organization war open ago. Miss sing I bag matter window every doctor.",
+        "bio": "Soldier leader under maintain mind piece body. Last account parent develop citizen. Concern us back sit control field look.\nDo recently fund your. Most pretty born base occur hour garden."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
