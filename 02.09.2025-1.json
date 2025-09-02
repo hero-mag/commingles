@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Chang",
+    "age": 1,
+    "address": {
+        "street": "Lopez Park",
+        "city": "Lisamouth",
+        "state": "Washington",
+        "zip": "11821"
+    },
+    "contact": {
+        "phone": "761.490.9336",
+        "servicePhone": "800991031"
+    },
+    "birthday": "2024-05-05",
+    "ip": "219.99.129.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Nothing every street that upon outside you ground. Check blue herself yes might short idea.\nIf defense room player. Like message skill age.\nBox turn officer support reality service.",
+        "bio": "Doctor size kid in read maintain. Anything state leave all wear oil. Capital will when beautiful have everything painting."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
