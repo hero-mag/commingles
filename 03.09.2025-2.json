@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Jordan",
+    "age": 99,
+    "address": {
+        "street": "Malone Inlet",
+        "city": "Wongberg",
+        "state": "Alabama",
+        "zip": "18034"
+    },
+    "contact": {
+        "phone": "648-295-0625x875",
+        "servicePhone": "800678430"
+    },
+    "birthday": "1926-31-10",
+    "ip": "197.30.58.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Turn behavior item own head politics keep. Once attack prepare really trial center brother.\nMany large western would Democrat. Large cause environment conference share. Top most particularly station.",
+        "bio": "Fine foreign every military pressure poor. Mr clear reason at. Article light mind understand center stock third identify."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
