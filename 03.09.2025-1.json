@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Smith",
+    "age": 94,
+    "address": {
+        "street": "Torres Stravenue",
+        "city": "Georgefurt",
+        "state": "Alabama",
+        "zip": "94281"
+    },
+    "contact": {
+        "phone": "290-399-5483x726",
+        "servicePhone": "800336727"
+    },
+    "birthday": "1931-31-07",
+    "ip": "5.29.123.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Perhaps price however simple degree people.\nPractice move why. Production prove section set employee himself five.\nWhy sign nor who no. Ten five far field drop though boy.",
+        "bio": "The million serious goal home no stop.\nArt key form. Kitchen guess really.\nFuture answer safe here.\nElection threat else management just sure tree. Else training pass board."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
