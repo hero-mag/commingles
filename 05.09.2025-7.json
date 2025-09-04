@@ -1,0 +1,25 @@
+{
+    "name": "Angela Galloway",
+    "age": 17,
+    "address": {
+        "street": "Abigail Court",
+        "city": "East Tiffanychester",
+        "state": "Missouri",
+        "zip": "47613"
+    },
+    "contact": {
+        "phone": "+1-927-671-6256",
+        "servicePhone": "800632242"
+    },
+    "birthday": "2008-25-05",
+    "ip": "176.183.70.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Already pattern traditional model myself student. Republican follow road including cut career trial walk. Beautiful his year act finish me girl forward. Benefit day politics same prove.",
+        "bio": "Somebody before a chair major especially. Employee soon whole notice. Shake as available message pressure local."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
