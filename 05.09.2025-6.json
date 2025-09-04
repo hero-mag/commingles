@@ -1,0 +1,25 @@
+{
+    "name": "David Hines",
+    "age": 61,
+    "address": {
+        "street": "Stone Village",
+        "city": "Landryborough",
+        "state": "Indiana",
+        "zip": "78721"
+    },
+    "contact": {
+        "phone": "763-321-7258x1239",
+        "servicePhone": "800870368"
+    },
+    "birthday": "1964-06-11",
+    "ip": "46.220.67.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Whom may technology. Head son risk lot for do wait.\nBar example laugh put police test mouth. Operation poor word agent all much. School picture many list range analysis stuff.",
+        "bio": "Happen with floor possible chair exactly. Career minute himself half campaign join food. Politics success wife determine eat local."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
