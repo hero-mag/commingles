@@ -1,0 +1,25 @@
+{
+    "name": "Victor Brooks",
+    "age": 76,
+    "address": {
+        "street": "Christopher Spur",
+        "city": "West Jessicahaven",
+        "state": "Illinois",
+        "zip": "92990"
+    },
+    "contact": {
+        "phone": "001-249-870-5471x5185",
+        "servicePhone": "800801820"
+    },
+    "birthday": "1949-17-04",
+    "ip": "202.63.182.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle what suffer parent seven. Agency language house any. Food market wonder perform near professional large.\nSkin away fall necessary manager. Woman nearly agency traditional be.",
+        "bio": "Agent power brother federal measure respond. Analysis research occur enjoy onto history see authority. Join budget wall discussion party indeed information."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
