@@ -1,0 +1,25 @@
+{
+    "name": "Tina Calhoun",
+    "age": 65,
+    "address": {
+        "street": "Spencer Fords",
+        "city": "Carlsonfort",
+        "state": "Minnesota",
+        "zip": "19686"
+    },
+    "contact": {
+        "phone": "441-671-8416",
+        "servicePhone": "800225862"
+    },
+    "birthday": "1960-28-02",
+    "ip": "52.123.103.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Out product carry same international relationship expect. Answer else fine management.",
+        "bio": "Painting leg north whatever fish. History teach me guy. Energy hard too according marriage relationship rise life."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
