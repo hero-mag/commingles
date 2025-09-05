@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Mann",
+    "age": 64,
+    "address": {
+        "street": "Krista Drives",
+        "city": "Robertofurt",
+        "state": "Missouri",
+        "zip": "07109"
+    },
+    "contact": {
+        "phone": "(335)855-8500x0839",
+        "servicePhone": "800882778"
+    },
+    "birthday": "1961-22-09",
+    "ip": "5.77.201.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach color message may. Lead debate each draw yeah north child focus. Far perform trip cultural standard.\nCard defense science growth. Wonder movement task thought election our.",
+        "bio": "Buy memory century charge help. Issue star strategy mention time agree little."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
