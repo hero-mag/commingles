@@ -1,0 +1,25 @@
+{
+    "name": "Angela Parks",
+    "age": 59,
+    "address": {
+        "street": "Galvan Overpass",
+        "city": "East Elizabeth",
+        "state": "Florida",
+        "zip": "88509"
+    },
+    "contact": {
+        "phone": "(388)705-9739",
+        "servicePhone": "800842090"
+    },
+    "birthday": "1966-29-08",
+    "ip": "219.150.181.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Who figure total bring nothing. Eat choice possible under yet class.\nFriend final bill try. Still make before blue reality event agreement.",
+        "bio": "Remember accept along security along design various. Wait decade high fact. Identify view maybe administration control."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
