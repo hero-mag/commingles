@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Suarez",
+    "age": 40,
+    "address": {
+        "street": "Mack Street",
+        "city": "New Jeffreyberg",
+        "state": "Alaska",
+        "zip": "77976"
+    },
+    "contact": {
+        "phone": "539-865-9204",
+        "servicePhone": "800897484"
+    },
+    "birthday": "1985-16-07",
+    "ip": "118.89.202.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Part oil father. However rate something sound rich according tell.",
+        "bio": "Pull carry believe. Idea weight full direction form.\nMight much whose though. Clearly member quality together thousand.\nCultural decision program small listen better. Without worker give technology."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
