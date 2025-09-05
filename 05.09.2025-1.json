@@ -1,0 +1,25 @@
+{
+    "name": "Alicia Castro",
+    "age": 1,
+    "address": {
+        "street": "Evan Divide",
+        "city": "Mitchellchester",
+        "state": "Montana",
+        "zip": "93362"
+    },
+    "contact": {
+        "phone": "810-624-2964x325",
+        "servicePhone": "800581850"
+    },
+    "birthday": "2024-03-01",
+    "ip": "111.247.171.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Education age area might visit every. Already fast director market black. Strong push rest recent.\nHimself factor sign whose can authority. Entire sound around prevent.",
+        "bio": "Face try reflect policy dream free. Order energy lot surface fly environmental.\nJob good explain budget life college. Speech option hand."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
