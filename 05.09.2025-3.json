@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda Stevens",
+    "age": 64,
+    "address": {
+        "street": "Bryan Vista",
+        "city": "West Tanyaview",
+        "state": "New Hampshire",
+        "zip": "99898"
+    },
+    "contact": {
+        "phone": "485.289.3186x4213",
+        "servicePhone": "800268222"
+    },
+    "birthday": "1961-09-06",
+    "ip": "191.7.63.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill growth many. Cost necessary detail opportunity people. Term use bank example media situation. Market require arm tell.",
+        "bio": "Role gas table stop science. Cultural agree development. However end financial.\nRadio range begin manager his. Charge seat lot central she reach. Reason present end cause store various."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
