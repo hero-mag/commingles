@@ -1,0 +1,25 @@
+{
+    "name": "William George",
+    "age": 23,
+    "address": {
+        "street": "James Route",
+        "city": "Hoganview",
+        "state": "Utah",
+        "zip": "12529"
+    },
+    "contact": {
+        "phone": "(812)947-5326x41798",
+        "servicePhone": "800223429"
+    },
+    "birthday": "2002-25-10",
+    "ip": "122.74.70.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Camera mention audience indeed until middle forget. Sister share fire member.\nProgram arrive rule trade do. Others several exist dog raise nothing.",
+        "bio": "Understand picture project than chance cover. Stay magazine general green. Kid story cell rise finish first floor.\nClass especially join future. Decide man start.\nBeat his between statement moment."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
