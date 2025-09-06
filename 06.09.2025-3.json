@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Brown",
+    "age": 37,
+    "address": {
+        "street": "Thomas Flat",
+        "city": "Clarkhaven",
+        "state": "Georgia",
+        "zip": "86637"
+    },
+    "contact": {
+        "phone": "001-365-722-8960x38093",
+        "servicePhone": "800605468"
+    },
+    "birthday": "1988-21-03",
+    "ip": "210.49.82.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Room smile world. More school road occur involve family. Defense history run about mind simple financial.\nAvoid soon term positive more walk. Fish true not enjoy enjoy because hand show.",
+        "bio": "Local foreign conference few value easy memory.\nHe interest TV third. Oil we thousand yet. Hold fund life us attention want their."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
