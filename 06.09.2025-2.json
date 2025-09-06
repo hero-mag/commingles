@@ -1,0 +1,25 @@
+{
+    "name": "Mark Moore",
+    "age": 15,
+    "address": {
+        "street": "Mccarty Cliffs",
+        "city": "Millerview",
+        "state": "Arizona",
+        "zip": "00774"
+    },
+    "contact": {
+        "phone": "(794)922-0305x52518",
+        "servicePhone": "800435514"
+    },
+    "birthday": "2010-09-03",
+    "ip": "102.91.177.10",
+    "foo": "bar",
+    "profile": {
+        "about": "City relate position pay senior well. Or push little safe west.\nHundred stuff he item. Maybe value area surface result organization environmental. Same at summer past hand environment.",
+        "bio": "Arrive certainly up machine nice painting focus. Make pretty difference court public. Religious call reason official debate carry total."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
