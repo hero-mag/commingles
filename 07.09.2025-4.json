@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Jackson",
+    "age": 48,
+    "address": {
+        "street": "Jacob Way",
+        "city": "Michelleburgh",
+        "state": "Maine",
+        "zip": "93584"
+    },
+    "contact": {
+        "phone": "762-495-9347",
+        "servicePhone": "800883586"
+    },
+    "birthday": "1977-20-06",
+    "ip": "195.119.176.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Him full identify rock various name eye. Change cause political too.\nLand amount sell glass recent. Six owner degree yes. Various family with world American discover trouble.",
+        "bio": "Happy college through rock reach hour. Sea right decision peace herself tell loss. Future data protect edge hair decade growth reflect.\nLine ground energy according. Mr fall away away no seem."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
