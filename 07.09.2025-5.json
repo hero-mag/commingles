@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Martinez",
+    "age": 77,
+    "address": {
+        "street": "Chavez Fork",
+        "city": "South Maurice",
+        "state": "Florida",
+        "zip": "35934"
+    },
+    "contact": {
+        "phone": "+1-838-633-7749x63659",
+        "servicePhone": "800820339"
+    },
+    "birthday": "1948-21-03",
+    "ip": "42.75.219.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Other management discuss protect nation send. During popular health water play. North century hit admit.\nLow help include use bring.",
+        "bio": "Heavy media away. Court kid rather know Congress. Increase administration alone few personal here."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
