@@ -1,0 +1,25 @@
+{
+    "name": "Michael May",
+    "age": 51,
+    "address": {
+        "street": "Hall Centers",
+        "city": "Goldenhaven",
+        "state": "Wisconsin",
+        "zip": "59183"
+    },
+    "contact": {
+        "phone": "+1-429-626-6249x21994",
+        "servicePhone": "800872214"
+    },
+    "birthday": "1974-23-07",
+    "ip": "170.187.183.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Card hit collection. Measure right shake agree recent simply.\nUpon despite natural stand hair economic look.",
+        "bio": "Three reduce mention several tax officer.\nBad interesting evidence body star spend. Expect service Mr.\nService marriage song. Next cause program floor town main fact."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
