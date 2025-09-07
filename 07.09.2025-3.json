@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Wagner",
+    "age": 56,
+    "address": {
+        "street": "James Via",
+        "city": "Matthewmouth",
+        "state": "Mississippi",
+        "zip": "05679"
+    },
+    "contact": {
+        "phone": "+1-913-307-6318x540",
+        "servicePhone": "800978620"
+    },
+    "birthday": "1969-22-03",
+    "ip": "149.215.49.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Again wish focus million these. Pass born born Congress respond contain sign. Black former behind.\nAway president us purpose. Work daughter that pressure computer.",
+        "bio": "Notice brother and person expert. Movie their result check cultural side.\nSouthern national relationship ground. Face only couple particularly expect however. Save sit long stay investment reality."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
