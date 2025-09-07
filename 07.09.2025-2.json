@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Cherry",
+    "age": 113,
+    "address": {
+        "street": "Lopez Walk",
+        "city": "Brownmouth",
+        "state": "Michigan",
+        "zip": "57651"
+    },
+    "contact": {
+        "phone": "001-608-628-0560x572",
+        "servicePhone": "800402186"
+    },
+    "birthday": "1912-28-04",
+    "ip": "140.176.38.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic keep tax gun. Think strategy TV race.\nMrs administration which radio record high. Eat case thing. Maybe never direction field.\nExpert camera vote two. Value ball discussion none.",
+        "bio": "Sister administration space section space. Start big common movie question their beat.\nAddress keep unit. Decade language now edge. Out score head mind entire bag sense these."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
