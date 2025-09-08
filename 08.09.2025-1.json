@@ -1,0 +1,25 @@
+{
+    "name": "Donna Reed",
+    "age": 62,
+    "address": {
+        "street": "Heather Creek",
+        "city": "Port Megan",
+        "state": "Alabama",
+        "zip": "26497"
+    },
+    "contact": {
+        "phone": "(880)545-4780x35532",
+        "servicePhone": "800164668"
+    },
+    "birthday": "1963-31-10",
+    "ip": "140.195.38.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Data authority imagine last stop so. Once perform feel. Where small different both near west be. Capital year use require should consumer.",
+        "bio": "Arm pick always skin reflect look fly light. Too old step give thought every want right. Point moment American which morning."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
