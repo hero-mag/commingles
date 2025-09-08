@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Dunn",
+    "age": 83,
+    "address": {
+        "street": "John Locks",
+        "city": "Christinaborough",
+        "state": "Maryland",
+        "zip": "34096"
+    },
+    "contact": {
+        "phone": "001-468-404-3883x174",
+        "servicePhone": "800908829"
+    },
+    "birthday": "1942-16-01",
+    "ip": "193.42.197.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Even subject call. City move thank behind interview.\nCompare house power clearly play enjoy general. Without reality safe. Every provide history long water again ago program.",
+        "bio": "Wrong help cut upon share end discuss. Scientist effect culture often respond member community. Red billion bank hope herself into old business."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
