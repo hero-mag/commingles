@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Garcia",
+    "age": 14,
+    "address": {
+        "street": "Merritt Drive",
+        "city": "Port Brandon",
+        "state": "Hawaii",
+        "zip": "13911"
+    },
+    "contact": {
+        "phone": "513.221.5017x2966",
+        "servicePhone": "800654235"
+    },
+    "birthday": "2011-13-08",
+    "ip": "9.20.82.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Society baby ten million right budget star. War mention while give entire.\nParty doctor official detail traditional. Father green part purpose any. Ball worry air response stage.",
+        "bio": "Each director great. Rule system doctor shoulder his that find. Role writer culture natural blue newspaper only."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
