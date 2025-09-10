@@ -1,0 +1,25 @@
+{
+    "name": "Todd Webb",
+    "age": 97,
+    "address": {
+        "street": "Brianna Wall",
+        "city": "Amberstad",
+        "state": "South Carolina",
+        "zip": "78090"
+    },
+    "contact": {
+        "phone": "950.476.2942",
+        "servicePhone": "800661078"
+    },
+    "birthday": "1928-25-03",
+    "ip": "44.187.174.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Many open guess so ask consider.\nRemain campaign contain prevent expert happen. Act certain speech although.",
+        "bio": "Accept phone office nearly. Fill candidate president cup present head between. Leader every hospital important southern popular ever."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
