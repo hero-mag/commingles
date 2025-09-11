@@ -1,0 +1,25 @@
+{
+    "name": "Paul Gillespie",
+    "age": 46,
+    "address": {
+        "street": "Li Path",
+        "city": "Carlsontown",
+        "state": "New Mexico",
+        "zip": "17950"
+    },
+    "contact": {
+        "phone": "207.591.6965x54662",
+        "servicePhone": "800842797"
+    },
+    "birthday": "1979-17-11",
+    "ip": "92.251.242.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement eat heavy particular tonight character social glass. Mind be bit two. Hundred finally activity account.\nPressure base ground. Task describe else.",
+        "bio": "Wear allow security mother too indeed close. Mouth family human picture own involve. They population contain about."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
