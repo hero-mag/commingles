@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Garcia",
+    "age": 44,
+    "address": {
+        "street": "Murphy Meadow",
+        "city": "Antoniofurt",
+        "state": "Florida",
+        "zip": "00681"
+    },
+    "contact": {
+        "phone": "001-281-879-7796x0954",
+        "servicePhone": "800217036"
+    },
+    "birthday": "1981-22-06",
+    "ip": "80.45.129.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound not husband. Forward box while particular. Once move sound. Partner well audience guy side.\nPhone character seek pull apply attack be.",
+        "bio": "Impact water economy son control child. Hotel interest focus kid industry Republican Democrat.\nWhom sure reason cost modern. Rest each result wrong. Lawyer chair create."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
