@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Hunt",
+    "age": 104,
+    "address": {
+        "street": "Moore Prairie",
+        "city": "West Susan",
+        "state": "Arkansas",
+        "zip": "70187"
+    },
+    "contact": {
+        "phone": "(846)294-8720x37553",
+        "servicePhone": "800034972"
+    },
+    "birthday": "1921-02-08",
+    "ip": "1.210.252.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Before call artist tonight put clearly yeah require. Many care inside five. Power against person. Under dinner color consider.",
+        "bio": "Beautiful through billion many across change certain. Identify mention never answer international. Dog though develop nothing difference."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
