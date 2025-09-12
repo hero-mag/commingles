@@ -1,0 +1,25 @@
+{
+    "name": "John Hodge",
+    "age": 7,
+    "address": {
+        "street": "Audrey Springs",
+        "city": "West Karen",
+        "state": "Wisconsin",
+        "zip": "87676"
+    },
+    "contact": {
+        "phone": "+1-783-833-6024x987",
+        "servicePhone": "800350070"
+    },
+    "birthday": "2018-30-06",
+    "ip": "24.134.92.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Require summer matter that way.\nKind better end more image there. Guy film task just trial difference. Matter strategy upon determine identify form woman. Even student Democrat Democrat adult.",
+        "bio": "Late four family which reality. Pull consumer forget friend analysis night. Parent treatment which."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
