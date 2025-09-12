@@ -1,0 +1,25 @@
+{
+    "name": "Emily Richardson",
+    "age": 16,
+    "address": {
+        "street": "Juan Meadows",
+        "city": "West Stephen",
+        "state": "North Carolina",
+        "zip": "27423"
+    },
+    "contact": {
+        "phone": "729.690.2578x2478",
+        "servicePhone": "800177369"
+    },
+    "birthday": "2009-20-01",
+    "ip": "87.251.30.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Business part away pattern strategy son respond. Stay member investment particular room body. Truth respond candidate citizen after end.",
+        "bio": "Article might option rate Mrs thank. Much war her determine tonight herself."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
