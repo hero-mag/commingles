@@ -1,0 +1,25 @@
+{
+    "name": "Adam Alexander",
+    "age": 32,
+    "address": {
+        "street": "Rich Oval",
+        "city": "South Keithland",
+        "state": "Michigan",
+        "zip": "37889"
+    },
+    "contact": {
+        "phone": "(700)307-0493x029",
+        "servicePhone": "800589101"
+    },
+    "birthday": "1993-15-11",
+    "ip": "79.224.219.184",
+    "foo": "bar",
+    "profile": {
+        "about": "You he water area. Shoulder easy development create. War wall personal once recent again.\nBest leader can mind. Pass effort up send across author.",
+        "bio": "Mrs remember experience respond item security. Near administration no lose church production.\nLate keep moment so late piece PM. State economic authority evening box cause."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
