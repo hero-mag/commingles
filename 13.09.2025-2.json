@@ -1,0 +1,25 @@
+{
+    "name": "Charles Shannon",
+    "age": 82,
+    "address": {
+        "street": "Clark Manor",
+        "city": "Port Melissa",
+        "state": "Arkansas",
+        "zip": "14771"
+    },
+    "contact": {
+        "phone": "654-490-3263x6437",
+        "servicePhone": "800645351"
+    },
+    "birthday": "1943-17-11",
+    "ip": "76.131.92.11",
+    "foo": "bar",
+    "profile": {
+        "about": "These once range whatever. Remain rate popular until over activity woman. Appear land miss attack operation act popular.\nNetwork want weight pattern first officer kid. Leg suffer good movement.",
+        "bio": "Great wide through read guess five. Debate brother benefit someone move line structure feel. Vote with four during."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
