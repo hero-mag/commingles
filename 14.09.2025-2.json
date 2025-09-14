@@ -1,0 +1,25 @@
+{
+    "name": "Marc King",
+    "age": 103,
+    "address": {
+        "street": "Jose Junction",
+        "city": "Allenview",
+        "state": "Ohio",
+        "zip": "92027"
+    },
+    "contact": {
+        "phone": "(394)532-4516",
+        "servicePhone": "800735019"
+    },
+    "birthday": "1922-18-12",
+    "ip": "154.158.21.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Student left type each similar write huge. Safe president raise reduce.\nFast level government appear plan. Short cold instead key.",
+        "bio": "Bit now minute help financial rock beautiful.\nGeneral main policy positive open. Full decade ability up dark."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
