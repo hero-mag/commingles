@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Massey",
+    "age": 89,
+    "address": {
+        "street": "Neal Crest",
+        "city": "Thomasville",
+        "state": "California",
+        "zip": "71141"
+    },
+    "contact": {
+        "phone": "(980)850-6568x219",
+        "servicePhone": "800881088"
+    },
+    "birthday": "1936-18-02",
+    "ip": "210.9.22.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Public ball affect culture I debate. Collection themselves child spring new. Card everybody stock.",
+        "bio": "Total teach economic machine hard green himself policy. Stay remember data budget. Middle same capital air rather mention."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
