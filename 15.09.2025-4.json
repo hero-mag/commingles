@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Johnson",
+    "age": 90,
+    "address": {
+        "street": "Lindsay Isle",
+        "city": "West Aaronmouth",
+        "state": "New York",
+        "zip": "46874"
+    },
+    "contact": {
+        "phone": "337.551.8343",
+        "servicePhone": "800952432"
+    },
+    "birthday": "1935-08-10",
+    "ip": "87.229.188.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Major organization decade herself. In business room street husband.\nRather up increase nothing concern benefit. Bar probably threat share live type man.",
+        "bio": "One sister business. Concern account who decision majority so. Group offer it song employee position staff.\nAnyone page wrong college draw everybody plan picture."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
