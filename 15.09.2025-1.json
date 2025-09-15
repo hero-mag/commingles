@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Mclaughlin",
+    "age": 88,
+    "address": {
+        "street": "Myers Harbor",
+        "city": "Port Ashleyland",
+        "state": "Montana",
+        "zip": "78158"
+    },
+    "contact": {
+        "phone": "+1-837-280-2704",
+        "servicePhone": "800345585"
+    },
+    "birthday": "1937-02-01",
+    "ip": "146.43.91.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Source fear recognize apply plant. Start teach leave general second mother tough.\nMost play himself prevent property research.",
+        "bio": "Heart soon reach investment. Work set speak work school focus.\nCouple institution agent each charge.\nProduction actually stop last see establish. Bank establish success simple."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
