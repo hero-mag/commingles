@@ -1,0 +1,25 @@
+{
+    "name": "Sean Lee",
+    "age": 6,
+    "address": {
+        "street": "Ward Point",
+        "city": "Justinfort",
+        "state": "Oklahoma",
+        "zip": "53413"
+    },
+    "contact": {
+        "phone": "232.957.8943",
+        "servicePhone": "800530760"
+    },
+    "birthday": "2019-24-08",
+    "ip": "10.201.97.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad each think course. Possible nor technology kind various value.\nTree next eat account always prevent. Increase democratic fear.",
+        "bio": "Sea hope style tough. How man receive office sing kid son. Follow south why discuss college story.\nRise sometimes standard free old. Various forget marriage term policy even."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
