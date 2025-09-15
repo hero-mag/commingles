@@ -1,0 +1,25 @@
+{
+    "name": "Robert Terry",
+    "age": 28,
+    "address": {
+        "street": "White Walk",
+        "city": "East Carlos",
+        "state": "Arkansas",
+        "zip": "62775"
+    },
+    "contact": {
+        "phone": "448.423.1407x1638",
+        "servicePhone": "800786950"
+    },
+    "birthday": "1997-19-04",
+    "ip": "33.212.158.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Record can week house mind. Position record account cover hard. South popular teach thought audience.\nSame place free leave. Traditional great theory candidate much study.",
+        "bio": "Building small never stop stock hour report thus. Responsibility camera none dinner perhaps. Born while experience every."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
