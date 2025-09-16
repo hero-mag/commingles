@@ -1,0 +1,25 @@
+{
+    "name": "Maria Barry",
+    "age": 52,
+    "address": {
+        "street": "Santiago Flats",
+        "city": "West Anthony",
+        "state": "North Carolina",
+        "zip": "35830"
+    },
+    "contact": {
+        "phone": "001-839-926-6047x6180",
+        "servicePhone": "800496910"
+    },
+    "birthday": "1973-01-05",
+    "ip": "89.215.190.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer office company party fish learn. While technology both dark. As attorney thank meeting could.\nCarry garden card total. Benefit case care our building moment.",
+        "bio": "Knowledge national never fly training project parent know. Fall car stage see community suffer environmental. Paper race admit system plant remember."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
