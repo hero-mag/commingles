@@ -1,0 +1,25 @@
+{
+    "name": "Connie Gonzalez",
+    "age": 52,
+    "address": {
+        "street": "Nicholas Estate",
+        "city": "South Sydneystad",
+        "state": "California",
+        "zip": "99932"
+    },
+    "contact": {
+        "phone": "001-711-268-9993x815",
+        "servicePhone": "800704510"
+    },
+    "birthday": "1973-14-09",
+    "ip": "137.148.211.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Cost understand structure amount pull most year. Impact last finally.\nOption recent standard though amount practice hand.\nBehavior safe your source lead.",
+        "bio": "System deep respond civil cultural scene him expect. Likely tree million politics whom. Tv owner deep drug seek worry develop task."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
