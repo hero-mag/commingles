@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Browning",
+    "age": 82,
+    "address": {
+        "street": "Ferguson Villages",
+        "city": "Williamfort",
+        "state": "Georgia",
+        "zip": "71997"
+    },
+    "contact": {
+        "phone": "+1-683-448-2618",
+        "servicePhone": "800285841"
+    },
+    "birthday": "1943-13-01",
+    "ip": "197.94.80.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon major resource third worry decade brother within. Responsibility general fine future sell common local.",
+        "bio": "Federal early how receive participant process. Church somebody despite Congress yourself fall choice."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
