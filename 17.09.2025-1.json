@@ -1,0 +1,25 @@
+{
+    "name": "Albert Lindsey",
+    "age": 81,
+    "address": {
+        "street": "Ramirez Loaf",
+        "city": "Port Rachel",
+        "state": "West Virginia",
+        "zip": "50407"
+    },
+    "contact": {
+        "phone": "001-429-835-3250x122",
+        "servicePhone": "800484361"
+    },
+    "birthday": "1944-18-04",
+    "ip": "36.187.89.76",
+    "foo": "bar",
+    "profile": {
+        "about": "It industry involve develop nation. Receive language practice describe short. Think sort behind political various environmental three.\nCourt agree series government about west. Relate bag news.",
+        "bio": "Relate standard speak financial thought company. Control second interest. Account case few certain. Single always whatever the magazine may."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
