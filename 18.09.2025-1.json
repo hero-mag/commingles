@@ -1,0 +1,25 @@
+{
+    "name": "Keith King",
+    "age": 78,
+    "address": {
+        "street": "Gonzalez Squares",
+        "city": "Mclaughlinton",
+        "state": "Ohio",
+        "zip": "47888"
+    },
+    "contact": {
+        "phone": "(548)905-8142x0817",
+        "servicePhone": "800062877"
+    },
+    "birthday": "1947-14-12",
+    "ip": "201.14.21.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Production where attack ago. High green return field.\nThank star girl. Various really find expert decision southern particularly. Program site ability air lawyer play.",
+        "bio": "Sell computer would theory recent. Out rise health build.\nNothing than difference hard message well economy. Five at forget decision there."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
