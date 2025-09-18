@@ -1,0 +1,25 @@
+{
+    "name": "Laura Lee",
+    "age": 56,
+    "address": {
+        "street": "Brewer Roads",
+        "city": "Beverlyside",
+        "state": "South Dakota",
+        "zip": "86410"
+    },
+    "contact": {
+        "phone": "+1-365-607-2638",
+        "servicePhone": "800928594"
+    },
+    "birthday": "1969-02-04",
+    "ip": "148.147.19.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing however pass choice either citizen book. Example authority box my. Body senior five anyone million trip.\nEver put clearly. Fear discussion peace place response.",
+        "bio": "Teach over follow majority both hot. Example century skill here foot simply between. Yard son room suddenly second his total. Than court occur treatment student their best."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
