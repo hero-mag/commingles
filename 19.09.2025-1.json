@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Blanchard",
+    "age": 92,
+    "address": {
+        "street": "Webb Gardens",
+        "city": "Lake Roberto",
+        "state": "Idaho",
+        "zip": "53319"
+    },
+    "contact": {
+        "phone": "(252)916-2686x07042",
+        "servicePhone": "800787247"
+    },
+    "birthday": "1933-21-07",
+    "ip": "58.141.54.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment commercial arm realize individual sing major. At evidence task. Whether lead hope already reduce commercial success decide. Participant center similar sport force authority never.",
+        "bio": "Example deep fire simply all likely goal. Pull bar society drive. Out organization budget moment could will appear. Anything agree sort senior allow."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
