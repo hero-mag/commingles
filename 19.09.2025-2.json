@@ -1,0 +1,25 @@
+{
+    "name": "Micheal Phillips",
+    "age": 15,
+    "address": {
+        "street": "Ellis Mill",
+        "city": "East Julie",
+        "state": "Indiana",
+        "zip": "18622"
+    },
+    "contact": {
+        "phone": "233-767-9925",
+        "servicePhone": "800964451"
+    },
+    "birthday": "2010-03-10",
+    "ip": "25.154.103.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Agent quality southern campaign mind. Tend teach themselves do speak.\nThough book write. Foot across back seven apply.",
+        "bio": "Mother lose despite none course drug. General when market television him including baby. Physical face speak score deal member."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
