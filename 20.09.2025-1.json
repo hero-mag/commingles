@@ -1,0 +1,25 @@
+{
+    "name": "Heather Bell",
+    "age": 8,
+    "address": {
+        "street": "Lucas Hills",
+        "city": "Lake John",
+        "state": "Illinois",
+        "zip": "45560"
+    },
+    "contact": {
+        "phone": "369-291-6886",
+        "servicePhone": "800048076"
+    },
+    "birthday": "2017-18-08",
+    "ip": "149.17.222.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Than long foot build training ask. Sometimes third wife.\nReach she design treat talk.\nLeader inside treatment table. Fish light range.",
+        "bio": "Life professor blue apply pick could.\nEarly approach quality worker. Sea hard his behavior necessary. Stuff property certainly within by tend machine of.\nMethod approach happen step total over music."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
