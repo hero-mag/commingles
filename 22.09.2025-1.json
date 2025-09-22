@@ -1,0 +1,25 @@
+{
+    "name": "Mark Miller",
+    "age": 98,
+    "address": {
+        "street": "Michael Track",
+        "city": "West Seanmouth",
+        "state": "Connecticut",
+        "zip": "48664"
+    },
+    "contact": {
+        "phone": "634-252-9623",
+        "servicePhone": "800876394"
+    },
+    "birthday": "1927-26-01",
+    "ip": "97.73.249.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Front read himself tend central owner themselves. Around treatment summer we way story set. Easy real democratic generation without.",
+        "bio": "President industry result same occur bring allow. Activity consumer later key.\nUntil wrong organization. Deal difficult attention like himself picture."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
