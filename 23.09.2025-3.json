@@ -1,0 +1,25 @@
+{
+    "name": "Michael Duncan",
+    "age": 18,
+    "address": {
+        "street": "Moore Shoal",
+        "city": "West Ashley",
+        "state": "Montana",
+        "zip": "99901"
+    },
+    "contact": {
+        "phone": "001-948-411-0401x20862",
+        "servicePhone": "800227248"
+    },
+    "birthday": "2007-27-08",
+    "ip": "109.206.139.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Receive must card. Look late watch big rate everybody away. Hold attack body.",
+        "bio": "Most throughout behavior quickly moment. Oil everybody well live memory. Make project mother wait serve.\nEver enough agent medical whose. Author individual perhaps part feeling."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
