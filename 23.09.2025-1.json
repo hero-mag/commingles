@@ -1,0 +1,25 @@
+{
+    "name": "Andrew George",
+    "age": 11,
+    "address": {
+        "street": "Sarah Station",
+        "city": "Bridgesburgh",
+        "state": "North Dakota",
+        "zip": "84386"
+    },
+    "contact": {
+        "phone": "+1-233-231-3677",
+        "servicePhone": "800738747"
+    },
+    "birthday": "2014-18-03",
+    "ip": "197.172.68.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal end baby raise level theory defense. Sense situation above what wind usually.\nEnjoy these little eight others. Understand far assume.",
+        "bio": "Now federal only class. All beautiful although result forward poor. Budget throughout many realize nearly production. Require firm close national."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
