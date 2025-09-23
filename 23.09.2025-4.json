@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Stevenson",
+    "age": 6,
+    "address": {
+        "street": "Alexandria Prairie",
+        "city": "Scottfurt",
+        "state": "Alabama",
+        "zip": "88733"
+    },
+    "contact": {
+        "phone": "554.840.3450x9054",
+        "servicePhone": "800856855"
+    },
+    "birthday": "2019-07-09",
+    "ip": "141.175.145.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Agency pay wall eat send reflect. Person economic family easy on.\nProcess seem church arm. Anyone mouth discussion.",
+        "bio": "Body spring floor feeling.\nImportant brother make move fact. Tonight wide artist line and. Shake its own leg government. Meeting home my require bill tend."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
