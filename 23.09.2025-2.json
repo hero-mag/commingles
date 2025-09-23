@@ -1,0 +1,25 @@
+{
+    "name": "Keith Long",
+    "age": 60,
+    "address": {
+        "street": "Andrew Crossroad",
+        "city": "Mccartyside",
+        "state": "Massachusetts",
+        "zip": "69662"
+    },
+    "contact": {
+        "phone": "(870)318-9234x3720",
+        "servicePhone": "800488720"
+    },
+    "birthday": "1965-15-10",
+    "ip": "135.91.137.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Machine he middle side foot yes. Issue save dark current issue short social. Card young heavy think beyond.\nThreat individual quality meet.",
+        "bio": "Move behind mouth. Black born make important hold field develop. Million money large here by lose staff.\nNice from our its view. Whose four his debate remain sport."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
