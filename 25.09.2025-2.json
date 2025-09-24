@@ -1,0 +1,25 @@
+{
+    "name": "Audrey Thomas",
+    "age": 99,
+    "address": {
+        "street": "Amber Shoals",
+        "city": "Schultzside",
+        "state": "Wyoming",
+        "zip": "43130"
+    },
+    "contact": {
+        "phone": "001-508-631-3332",
+        "servicePhone": "800506869"
+    },
+    "birthday": "1926-19-03",
+    "ip": "35.228.253.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Threat red indeed. Between play describe worry half option company though. Design such type see election. Popular sometimes on.",
+        "bio": "Determine security ever sell picture space. Old success sport care ability rock care. Wife their create."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
