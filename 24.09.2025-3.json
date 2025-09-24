@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Campbell",
+    "age": 85,
+    "address": {
+        "street": "Patricia Dam",
+        "city": "Elizabethville",
+        "state": "Oregon",
+        "zip": "33973"
+    },
+    "contact": {
+        "phone": "+1-272-342-0874x80174",
+        "servicePhone": "800421619"
+    },
+    "birthday": "1940-31-08",
+    "ip": "110.118.27.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Total clear kind far when know cause. None low read call.\nPhone part majority why. Lay tree east physical lose.\nResource wind sister dream without evening executive.",
+        "bio": "Town yet detail our according. Case agreement finish Democrat cultural. Month letter worry affect company fine stop citizen."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
