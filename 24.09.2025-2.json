@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Mooney",
+    "age": 79,
+    "address": {
+        "street": "Cox Center",
+        "city": "Butlerbury",
+        "state": "Iowa",
+        "zip": "14523"
+    },
+    "contact": {
+        "phone": "930.727.8449",
+        "servicePhone": "800836332"
+    },
+    "birthday": "1946-14-11",
+    "ip": "63.169.232.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Then almost nature plan build bring yes. Age officer nothing rock well. Success recent despite security. Day teacher continue.",
+        "bio": "Yes environment free sense six deep. Many writer thing example decide article know big. Wind space upon cup serious stuff at."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
