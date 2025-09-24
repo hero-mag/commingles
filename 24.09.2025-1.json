@@ -1,0 +1,25 @@
+{
+    "name": "Paul Jones",
+    "age": 50,
+    "address": {
+        "street": "Nicole Corner",
+        "city": "Franklinshire",
+        "state": "Illinois",
+        "zip": "89928"
+    },
+    "contact": {
+        "phone": "(944)970-2730",
+        "servicePhone": "800431569"
+    },
+    "birthday": "1975-15-06",
+    "ip": "99.0.144.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Free decade member organization. Center business me green apply plan whole. Scene end wrong listen leg. Image major understand only one realize have.",
+        "bio": "Stage point personal relationship indicate away court their. Quite thus face build tree size smile.\nJoin media business travel."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
