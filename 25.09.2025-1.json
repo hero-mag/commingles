@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Cabrera",
+    "age": 43,
+    "address": {
+        "street": "Suzanne Field",
+        "city": "Catherinefort",
+        "state": "Virginia",
+        "zip": "47610"
+    },
+    "contact": {
+        "phone": "(332)269-1348",
+        "servicePhone": "800550211"
+    },
+    "birthday": "1982-18-08",
+    "ip": "104.39.110.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Capital apply plant identify point best indicate right. Fight read only economy voice from quality challenge. Health fire on.",
+        "bio": "Address skill follow store hotel memory. Special natural soon black bill yes."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
