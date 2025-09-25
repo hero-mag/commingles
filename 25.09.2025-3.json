@@ -1,0 +1,25 @@
+{
+    "name": "Louis Hughes",
+    "age": 65,
+    "address": {
+        "street": "Patrick Loop",
+        "city": "Lisabury",
+        "state": "Iowa",
+        "zip": "13222"
+    },
+    "contact": {
+        "phone": "+1-334-592-4586",
+        "servicePhone": "800325702"
+    },
+    "birthday": "1960-18-06",
+    "ip": "45.169.133.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Early hair environment focus husband red thing. Listen cell pass any reveal travel care protect.",
+        "bio": "Pass exist catch glass others evidence week. With stop study.\nOccur item recent bed police. Couple in without thing last relate. Skill might night these."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
