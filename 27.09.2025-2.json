@@ -1,0 +1,25 @@
+{
+    "name": "Heather Carter",
+    "age": 26,
+    "address": {
+        "street": "Miguel Street",
+        "city": "South Thomashaven",
+        "state": "Ohio",
+        "zip": "29618"
+    },
+    "contact": {
+        "phone": "803.926.1793",
+        "servicePhone": "800736184"
+    },
+    "birthday": "1999-28-09",
+    "ip": "214.189.3.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Official popular carry put. Market lay campaign.\nTurn care across church common work. While loss see almost standard.",
+        "bio": "Million town letter service perhaps report item response. Window western glass begin. Child behavior with production drug walk."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
