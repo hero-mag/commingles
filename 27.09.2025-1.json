@@ -1,0 +1,25 @@
+{
+    "name": "Fred James",
+    "age": 109,
+    "address": {
+        "street": "Andrew Estates",
+        "city": "East Brian",
+        "state": "Indiana",
+        "zip": "13861"
+    },
+    "contact": {
+        "phone": "324.514.6758x8694",
+        "servicePhone": "800140111"
+    },
+    "birthday": "1916-03-04",
+    "ip": "21.187.90.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Technology fall social keep. Their plant discussion concern. Staff pass score share day.\nParticularly every research station energy describe game black. Wonder one back stop what business offer.",
+        "bio": "Cause four popular partner theory work. Language huge do everyone product.\nWhether author treatment head. Sport list guy stock bag."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
