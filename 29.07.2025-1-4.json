@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Bruce",
+    "age": 93,
+    "address": {
+        "street": "Clark Loop",
+        "city": "South Jasonfurt",
+        "state": "Wyoming",
+        "zip": "48633"
+    },
+    "contact": {
+        "phone": "(804)449-2160x5803",
+        "servicePhone": "800251323"
+    },
+    "birthday": "1932-03-06",
+    "ip": "215.161.25.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Appear property quality space these laugh. Just simple character. With though any special talk.\nLater television suggest heart. Real decide about night region score wish. Something task glass east.",
+        "bio": "Front lay mission peace. Sense spend couple drug page. Network off raise among save lay."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}

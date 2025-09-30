@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Lee",
+    "age": 73,
+    "address": {
+        "street": "Cortez Creek",
+        "city": "Griffithport",
+        "state": "Massachusetts",
+        "zip": "73581"
+    },
+    "contact": {
+        "phone": "+1-723-848-2438",
+        "servicePhone": "800359322"
+    },
+    "birthday": "1952-26-07",
+    "ip": "64.116.48.101",
+    "foo": "bar",
+    "profile": {
+        "about": "White offer program prepare five medical. Position none miss son cut she rest.\nHerself exist technology second plant listen work.",
+        "bio": "Budget suddenly though century box expect condition worker.\nCold it let. Sing early different company part full especially. Common detail medical group where.\nNecessary reveal far."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
