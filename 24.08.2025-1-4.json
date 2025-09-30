@@ -1,0 +1,25 @@
+{
+    "name": "Marilyn Odonnell",
+    "age": 80,
+    "address": {
+        "street": "Michelle Mountains",
+        "city": "New Crystalville",
+        "state": "Oklahoma",
+        "zip": "30414"
+    },
+    "contact": {
+        "phone": "9973134933",
+        "servicePhone": "800857357"
+    },
+    "birthday": "1945-17-12",
+    "ip": "61.71.120.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Try decide recognize positive chair. We difference before cover many. Effort much us four option area. Trouble exactly that serious.\nMan so race garden.",
+        "bio": "During better ability set force still mention. Simple say run determine authority detail. Physical minute join."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
