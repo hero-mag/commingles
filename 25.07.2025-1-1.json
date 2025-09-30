@@ -1,0 +1,25 @@
+{
+    "name": "Willie Cole",
+    "age": 9,
+    "address": {
+        "street": "Priscilla Dam",
+        "city": "Phillipsborough",
+        "state": "Maine",
+        "zip": "72692"
+    },
+    "contact": {
+        "phone": "779-526-5055x938",
+        "servicePhone": "800750766"
+    },
+    "birthday": "2016-04-07",
+    "ip": "25.136.238.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat must region particular. Money speak good almost glass air knowledge.\nScore interesting hospital. Chance card night plant no source laugh.",
+        "bio": "Thing boy month run personal tree.\nWeight dark indicate than. Six bar property my data right activity."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Olivia Jones",
+    "age": 20,
+    "address": {
+        "street": "Joseph Rest",
+        "city": "Lake John",
+        "state": "Vermont",
+        "zip": "03948"
+    },
+    "contact": {
+        "phone": "001-814-974-2410x5267",
+        "servicePhone": "800196547"
+    },
+    "birthday": "2005-19-02",
+    "ip": "124.41.93.142",
+    "foo": "bar",
+    "profile": {
+        "about": "First finally central I quality occur the. Live face three show fact.\nUnit middle table must thought. Book old role other senior. Include lot throw let local learn.",
+        "bio": "Daughter professional camera. Nothing first stand person international remember you from. Travel tree us stand specific build."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}

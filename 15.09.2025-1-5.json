@@ -1,0 +1,25 @@
+{
+    "name": "Robert Price",
+    "age": 9,
+    "address": {
+        "street": "Linda Lights",
+        "city": "West Michael",
+        "state": "South Carolina",
+        "zip": "50716"
+    },
+    "contact": {
+        "phone": "001-768-334-3790x4283",
+        "servicePhone": "800115534"
+    },
+    "birthday": "2016-07-09",
+    "ip": "81.231.137.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Call beautiful generation environmental.\nLay chair region next. Lay store foot method ability expert day. Thousand interview similar spring theory arrive.",
+        "bio": "Lose floor surface matter simply rather region. Never candidate up its impact full.\nSource attorney Democrat home standard agreement. Buy down employee likely card. Ever allow report theory."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
