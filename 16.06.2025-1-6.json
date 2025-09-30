@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Watson",
+    "age": 58,
+    "address": {
+        "street": "Kurt Centers",
+        "city": "New Peter",
+        "state": "Arkansas",
+        "zip": "17815"
+    },
+    "contact": {
+        "phone": "751-685-8007x626",
+        "servicePhone": "800406654"
+    },
+    "birthday": "1967-15-08",
+    "ip": "97.207.143.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern civil best woman its. Million ball than speech commercial. Not page remain matter market will.",
+        "bio": "Career technology speech wear kitchen box toward. Wish model certain risk bank. More road dog size agency international.\nPoint commercial fear avoid term identify. Set boy my rock performance late."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
