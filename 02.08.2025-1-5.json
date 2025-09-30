@@ -1,0 +1,25 @@
+{
+    "name": "Marie Lee",
+    "age": 94,
+    "address": {
+        "street": "Anderson Burg",
+        "city": "Fisherchester",
+        "state": "Kentucky",
+        "zip": "32535"
+    },
+    "contact": {
+        "phone": "(903)982-4365x55774",
+        "servicePhone": "800157552"
+    },
+    "birthday": "1931-14-01",
+    "ip": "49.50.35.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Election season seat game edge own it indicate. Agency subject door. Each check you cold even.",
+        "bio": "Many goal power majority little enter hour. Street tree leader.\nCommercial around position husband role audience. Become cost article up. Drug daughter form artist protect."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
