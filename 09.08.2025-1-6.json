@@ -1,0 +1,25 @@
+{
+    "name": "Michael Miller",
+    "age": 27,
+    "address": {
+        "street": "Katherine Plaza",
+        "city": "New Allison",
+        "state": "Oklahoma",
+        "zip": "45952"
+    },
+    "contact": {
+        "phone": "(431)494-8353x43220",
+        "servicePhone": "800114697"
+    },
+    "birthday": "1998-09-09",
+    "ip": "51.64.211.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Development now high decade over billion along. Also catch loss event million quite work.\nReflect another ever once rate huge. Eight down network they so very eye. List north between item.",
+        "bio": "Information your upon arm. Language represent hit level go.\nStop reduce sense move cultural design property reveal. Whether room affect economic report."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
