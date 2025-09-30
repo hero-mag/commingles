@@ -1,0 +1,25 @@
+{
+    "name": "Scott Williams",
+    "age": 97,
+    "address": {
+        "street": "Karen Ramp",
+        "city": "Patrickfort",
+        "state": "Mississippi",
+        "zip": "73588"
+    },
+    "contact": {
+        "phone": "621.740.8273x3697",
+        "servicePhone": "800960353"
+    },
+    "birthday": "1928-07-09",
+    "ip": "97.51.107.6",
+    "foo": "bar",
+    "profile": {
+        "about": "President behavior any whom wide. Up guy fish nothing image movie. Federal about series write and entire help.\nYard keep say class race. Fish doctor air western college. Some president reason enough.",
+        "bio": "Accept system scene hotel. Main which fine deep same.\nThat of allow wish training pay movement. Seek get first now."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

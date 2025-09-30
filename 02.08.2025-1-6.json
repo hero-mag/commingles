@@ -1,0 +1,25 @@
+{
+    "name": "Jose Black",
+    "age": 73,
+    "address": {
+        "street": "Paula Parkways",
+        "city": "Lake Eric",
+        "state": "Maine",
+        "zip": "21033"
+    },
+    "contact": {
+        "phone": "441.965.1737x0661",
+        "servicePhone": "800203742"
+    },
+    "birthday": "1952-13-10",
+    "ip": "48.196.165.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Line citizen recent expect avoid seat want ago. Arm near pay perform event magazine draw.",
+        "bio": "Heart herself miss expect TV according these. Pass peace show kitchen pay. Growth free theory improve too evening."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
