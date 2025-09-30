@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Buckley",
+    "age": 56,
+    "address": {
+        "street": "Ivan Underpass",
+        "city": "East Carol",
+        "state": "Tennessee",
+        "zip": "06891"
+    },
+    "contact": {
+        "phone": "+1-722-394-8118x3289",
+        "servicePhone": "800991992"
+    },
+    "birthday": "1969-30-06",
+    "ip": "80.246.175.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain whatever often buy environment provide few option.\nBeautiful final family. Degree available city newspaper. Skin kitchen opportunity unit research.",
+        "bio": "Force bad peace hear produce cut hard thing. Threat wait onto friend act."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
