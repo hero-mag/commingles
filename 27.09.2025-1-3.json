@@ -1,0 +1,25 @@
+{
+    "name": "John Snow",
+    "age": 62,
+    "address": {
+        "street": "Williamson Inlet",
+        "city": "West Josephshire",
+        "state": "Iowa",
+        "zip": "24951"
+    },
+    "contact": {
+        "phone": "836-768-9584",
+        "servicePhone": "800051317"
+    },
+    "birthday": "1963-07-06",
+    "ip": "77.59.177.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Rich color that arrive.\nWest attention top price direction there very. Account stay remain since big.\nFirst maintain deep call may. Yeah site travel record. Address style she attorney ready fact.",
+        "bio": "Suggest statement certain cause market career. Many fight wish goal response relate. Else get yes water PM and foot."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Alicia White",
+    "age": 80,
+    "address": {
+        "street": "Higgins Ramp",
+        "city": "Christineshire",
+        "state": "Oklahoma",
+        "zip": "94998"
+    },
+    "contact": {
+        "phone": "918.564.3086x84466",
+        "servicePhone": "800372266"
+    },
+    "birthday": "1945-01-03",
+    "ip": "141.36.186.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw wife phone. Doctor night school large.\nBillion group institution. Possible item sea relate.\nIndividual pressure discussion always. Service try fire loss media.",
+        "bio": "Speech knowledge left heavy final today. Appear four exist real change north born."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}

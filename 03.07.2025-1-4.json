@@ -1,0 +1,25 @@
+{
+    "name": "Tim Butler",
+    "age": 90,
+    "address": {
+        "street": "Patrick Walks",
+        "city": "Christinefort",
+        "state": "Idaho",
+        "zip": "19503"
+    },
+    "contact": {
+        "phone": "001-522-869-4745x22148",
+        "servicePhone": "800703034"
+    },
+    "birthday": "1935-15-03",
+    "ip": "151.0.19.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone enter school subject nation light could. Value course no others large design buy. Policy low ten husband enjoy while.",
+        "bio": "Official myself dog time high hand. Star quickly floor television.\nPopulation someone argue. Assume nice indicate world. Between everybody sense role ask."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

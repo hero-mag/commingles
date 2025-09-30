@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Angela Miller",
+    "age": 7,
+    "address": {
+        "street": "Holder Roads",
+        "city": "Lake Ronaldville",
+        "state": "Maryland",
+        "zip": "25819"
+    },
+    "contact": {
+        "phone": "001-561-215-3489x12001",
+        "servicePhone": "800918149"
+    },
+    "birthday": "2018-03-01",
+    "ip": "47.85.218.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Source bank imagine street start buy drug. Daughter information establish despite own alone color news. Analysis remember defense similar any yes.",
+        "bio": "Minute least level fast. Store ten without.\nWhile social top. Thousand center especially responsibility. Bit save song quality house.\nJob popular wife economic capital prevent change address."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
