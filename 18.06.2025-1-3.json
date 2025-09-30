@@ -1,0 +1,25 @@
+{
+    "name": "John Vargas",
+    "age": 6,
+    "address": {
+        "street": "Cooper Meadow",
+        "city": "Port Rose",
+        "state": "Tennessee",
+        "zip": "96802"
+    },
+    "contact": {
+        "phone": "(673)880-9092x5066",
+        "servicePhone": "800126073"
+    },
+    "birthday": "2019-17-06",
+    "ip": "190.241.105.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Serve administration than item sometimes here on. Technology cause chance book. Security bag with public hard safe.",
+        "bio": "While worry morning responsibility power role it. Material because thought economic test see tend. Food fly blue explain southern."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
