@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Mills",
+    "age": 109,
+    "address": {
+        "street": "Christopher Skyway",
+        "city": "Tylerhaven",
+        "state": "New Mexico",
+        "zip": "62363"
+    },
+    "contact": {
+        "phone": "+1-839-939-1043x18409",
+        "servicePhone": "800895761"
+    },
+    "birthday": "1916-05-03",
+    "ip": "87.38.234.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Congress read catch expert better listen own. Later catch late any.",
+        "bio": "Billion everyone apply inside. Central particular financial purpose.\nBorn seek half language. Record event race trade poor. Sister hundred good pay stay oil."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
