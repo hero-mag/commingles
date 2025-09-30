@@ -1,0 +1,25 @@
+{
+    "name": "Krista Hines",
+    "age": 103,
+    "address": {
+        "street": "Johnson Pines",
+        "city": "Port Nicholasshire",
+        "state": "Vermont",
+        "zip": "43904"
+    },
+    "contact": {
+        "phone": "709.774.3187",
+        "servicePhone": "800497784"
+    },
+    "birthday": "1922-14-01",
+    "ip": "99.95.139.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Rise strategy glass east future. Evidence may up laugh rule. Among certain although military phone.",
+        "bio": "Season buy protect.\nAge over certain suggest. Majority number four too fear reflect everybody.\nParticularly move ten.\nAction or call at."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
