@@ -1,0 +1,25 @@
+{
+    "name": "Paul Williams",
+    "age": 94,
+    "address": {
+        "street": "Joseph Plains",
+        "city": "Waltersstad",
+        "state": "South Dakota",
+        "zip": "33104"
+    },
+    "contact": {
+        "phone": "001-713-863-6857x814",
+        "servicePhone": "800867652"
+    },
+    "birthday": "1931-08-07",
+    "ip": "85.248.143.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Paper glass look range participant. Event firm can.\nYear police degree. Customer entire hand audience style mother exist. Tell stock evidence focus.",
+        "bio": "Still get almost need still this. Once factor either situation.\nBetween member budget nothing foreign produce hand. Raise must him why approach government. Walk community deal network."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}

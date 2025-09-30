@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Jones",
+    "age": 25,
+    "address": {
+        "street": "Jill Circles",
+        "city": "Baileyshire",
+        "state": "Wisconsin",
+        "zip": "77096"
+    },
+    "contact": {
+        "phone": "(304)473-0600x8545",
+        "servicePhone": "800630182"
+    },
+    "birthday": "2000-28-11",
+    "ip": "131.0.125.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Provide every reason painting approach opportunity increase. Vote week wide.",
+        "bio": "Once agree short guess decade. Message by research newspaper. Safe work activity cut accept create. Hard dog surface or.\nLight community Democrat him conference. Ball shoulder degree among final."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
