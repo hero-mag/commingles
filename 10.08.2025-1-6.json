@@ -1,0 +1,25 @@
+{
+    "name": "Julie Williams",
+    "age": 95,
+    "address": {
+        "street": "James Drive",
+        "city": "New Maria",
+        "state": "South Dakota",
+        "zip": "04067"
+    },
+    "contact": {
+        "phone": "459.590.6340",
+        "servicePhone": "800669852"
+    },
+    "birthday": "1930-12-04",
+    "ip": "112.168.40.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Court prove near. Action who major affect really history part might. Help affect trouble practice pretty improve data worker. High hair light positive see realize data audience.",
+        "bio": "Anyone use common truth article help. Can heart least.\nPublic fish stop food remain future specific soon. Long either manager street staff."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
