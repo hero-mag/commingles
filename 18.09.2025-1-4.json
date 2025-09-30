@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Campbell",
+    "age": 104,
+    "address": {
+        "street": "Maldonado Camp",
+        "city": "West Amy",
+        "state": "Wisconsin",
+        "zip": "04262"
+    },
+    "contact": {
+        "phone": "989-405-5740",
+        "servicePhone": "800272549"
+    },
+    "birthday": "1921-25-11",
+    "ip": "60.228.243.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Detail require fact our example piece. Vote Democrat city speech war any. Lay item serve international what explain laugh manager.",
+        "bio": "Else several window stand discuss by.\nTime speech tough itself part every. Maybe system good middle condition. Trouble foot affect run table reality."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
