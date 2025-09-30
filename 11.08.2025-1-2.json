@@ -1,0 +1,25 @@
+{
+    "name": "Destiny Wilson",
+    "age": 74,
+    "address": {
+        "street": "Ball Causeway",
+        "city": "Lake Kenneth",
+        "state": "Virginia",
+        "zip": "68498"
+    },
+    "contact": {
+        "phone": "367.600.5816x807",
+        "servicePhone": "800635102"
+    },
+    "birthday": "1951-08-07",
+    "ip": "23.222.149.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh factor choice attorney size.\nPer young water still call list share. World trip majority design blue good.",
+        "bio": "There already month stuff father black air several. Specific reality keep already really throw reflect top."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
