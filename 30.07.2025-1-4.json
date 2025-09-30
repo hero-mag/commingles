@@ -1,0 +1,25 @@
+{
+    "name": "James Greer",
+    "age": 43,
+    "address": {
+        "street": "Mary Cape",
+        "city": "Duncanville",
+        "state": "Utah",
+        "zip": "72811"
+    },
+    "contact": {
+        "phone": "794-853-9251x1572",
+        "servicePhone": "800018557"
+    },
+    "birthday": "1982-09-08",
+    "ip": "46.170.23.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss member like project card else. Ask national draw simply. Make her today computer seat.\nHere enjoy may author become be difference. Effect seem tonight situation three serious involve sign.",
+        "bio": "Daughter both leg new. Skin pay garden. Fast general fall defense smile body about this.\nMr important nearly edge lot. Capital fall market federal agent hard. History air different home."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}

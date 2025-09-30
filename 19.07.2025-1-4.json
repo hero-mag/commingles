@@ -1,0 +1,25 @@
+{
+    "name": "Henry Garcia",
+    "age": 79,
+    "address": {
+        "street": "Anthony Port",
+        "city": "West Timothy",
+        "state": "Vermont",
+        "zip": "95423"
+    },
+    "contact": {
+        "phone": "586-589-8015",
+        "servicePhone": "800940002"
+    },
+    "birthday": "1946-15-06",
+    "ip": "197.228.13.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake sit appear animal work card. All morning past without.\nCheck firm fly price bill American let. Cup able people again.\nType Mrs economy. Nearly lawyer recently civil take television threat.",
+        "bio": "Establish fast remain around hand. Choose partner coach form. Man different police condition sound safe stop again."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
