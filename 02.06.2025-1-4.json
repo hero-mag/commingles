@@ -1,0 +1,25 @@
+{
+    "name": "William Hart",
+    "age": 46,
+    "address": {
+        "street": "Heidi Cliff",
+        "city": "West Norma",
+        "state": "Arkansas",
+        "zip": "21456"
+    },
+    "contact": {
+        "phone": "(729)790-7289x5031",
+        "servicePhone": "800753160"
+    },
+    "birthday": "1979-22-05",
+    "ip": "211.196.160.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Product tax give budget itself join human. Home election lead necessary popular him meet.",
+        "bio": "Describe audience only get future church including.\nTrouble drug marriage. Mother across give wind no. Shake who produce catch four second look ever."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
