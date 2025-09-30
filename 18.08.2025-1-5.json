@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Blackwell",
+    "age": 12,
+    "address": {
+        "street": "Jennifer Spring",
+        "city": "East Lisa",
+        "state": "Vermont",
+        "zip": "30156"
+    },
+    "contact": {
+        "phone": "298.272.4987x211",
+        "servicePhone": "800243524"
+    },
+    "birthday": "2013-02-09",
+    "ip": "37.185.159.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Like out same recognize leg follow. Himself city little join American point song. Professional toward worry parent reach majority campaign.",
+        "bio": "However trial throughout piece read. Hair pick four level chance. Foot energy article full recognize.\nFilm color woman specific. Address medical trade family free now."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}

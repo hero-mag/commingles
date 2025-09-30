@@ -1,0 +1,25 @@
+{
+    "name": "Maria Zhang",
+    "age": 114,
+    "address": {
+        "street": "Stephen Forks",
+        "city": "West Ronald",
+        "state": "Connecticut",
+        "zip": "09782"
+    },
+    "contact": {
+        "phone": "+1-789-808-1922x5645",
+        "servicePhone": "800729961"
+    },
+    "birthday": "1911-11-07",
+    "ip": "142.186.244.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Card central after resource garden two although. Past commercial goal must community cup hotel.",
+        "bio": "Top phone organization send focus. Worry on peace. Inside suddenly ready result American movement glass produce. Quite speech garden standard."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
